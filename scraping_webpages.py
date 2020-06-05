@@ -35,8 +35,13 @@ def get_speaker_page(links): #return speaker page link
 
 def get_info(url):
     soup = make_soup(url)
-    all_h = soup.find_all('div')
-    return all_h
+    div = soup.find('div')
+    while (div.find('h2') == None):
+        div = soup.find()
+    
+    a = soup.find_all('h2')
+
+    return a
 
 if __name__ == '__main__':
     url=sys.argv[1]
