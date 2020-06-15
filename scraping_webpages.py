@@ -66,25 +66,38 @@ def get_previous_years(links):
 def get_names(url):
     soup = make_soup(url)
     if ('steering' in url):
-        # title = soup.find('h1')
-        # print('Title: ' + title.text + '\n')
         body = soup.find_all('tr')
         for i in body:
             info = ' '.join(i.text.split())
-            print(info + '\n')
+            name = ' '.join(info.split()[:2])
+            org = ' '.join(info.split()[2:-1])
+            org = re.sub(r'\(.*\)', '', org).lstrip()
+            if (org[-1] == ','):
+                org = org[:-1]
+            location = info.split()[-1]
+            print(name + ' (' + org + ') ' + location + '\n')
+            # print("===================================")
         return None
 
     if ('accepted' in url):
         na = soup.find_all('p', class_='', style='')
         for i in na:
-            # get_namesAndOrg(i.text)
-            info = i.text
-            # info = info.replace('and', ',')
-            info = info.replace('; ', '\n\n').lstrip()
-            info = info[:info.find('(')].replace(', ', info[info.find('(')-1:]\
-                + '\n\n') + info[info.find('('):]
-            print(info + '\n')
+            if (url[-3:] == 'php'):
+                info = i.text.lstrip()
+                info = info[:info.find(', ')]
+                print(info + '\n')
+            else:
+                info = i.text
+                info = info.replace(', and ', ', ')
+                info = info.replace(' and ', ', ')
+                info = info.split('); ')
+                for i in info:
+                    if (i[-1] != ')'):
+                        i += ')'
+                    i = i[:i.find('(')].replace(', ', i[i.find('(')-1:] + '\n\n') + i[i.find('('):]
+                    print(i + '\n')
             # print("===================================")
+            
         if (url[-3:] == 'php'):
             # print("===================================")
             brs = soup.find_all('div', class_='list-group-item')
@@ -92,15 +105,16 @@ def get_names(url):
                 info = ' '.join(str(br).split())
                 tag = re.findall('<br/>.*</div>', info)[0]
                 tag = re.sub(r'<[^>]*>', '', tag).lstrip()
-                # tag = tag.replace(', ', '\n\n').lstrip()
+                tag = ' '.join(tag.split())
                 if ('2019' not in url):
-                    tag = tag.replace('), ', ')\n\n').lstrip()
+                    info = tag.split('), ')
                 else:
-                    tag = tag.replace('; ', '\n\n').lstrip()
-                tag = tag[:tag.find('(')].replace(', ', tag[tag.find('(')-1:]\
-                     + '\n\n') + tag[tag.find('('):]
-                # tag = tag[:tag.find('(')].replace(', ', '\n\n') + tag[tag.find('('):]
-                print(tag + '\n')
+                    info = tag.split('); ')
+                for i in info:
+                    if (i[-1] != ')'):
+                        i += ')'
+                    i = i[:i.find('(')].replace(', ', i[i.find('(')-1:] + '\n\n') + i[i.find('('):]
+                    print(i + '\n')
                 # print("===================================")
         return None
     
@@ -113,17 +127,44 @@ def get_names(url):
                 ct=1
                 # break
             elif (ct == 0):
-                info = b.text.replace('\n', ' ').lstrip()
-                print(info + '\n')
+                if (b.text != '\n'):
+                    if ('2016/committee-organizing' in url):
+                        info = b.text.strip()
+                        info = info.split('\n')
+                        info = info[1:]
+                        if (len(info) != 2):
+                            info = ' '.join(info)
+                            info = info.replace('C', '; C')
+                            info = info.split('; ')
+                        name = info[0].strip()
+                        org = info[1].strip()
+                        if (org.count(',') > 1):
+                            org = org.split(',')
+                            loca = org.pop().strip()
+                            org = ','.join(org).strip()
+                            print(name + ' (' + org + ') ' + loca + '\n')
+                        else:
+                            print(name + ' (' + org + ')' + '\n')
+                    else:
+                        info = re.sub(r'.*Chairs\s', '', b.text)
+                        info = info.strip()
+                        info = info.split('\n')
+                        name = info[0]
+                        org = info[1].strip()
+                        print(name + ' (' + org + ')' + '\n')
             else:
                 info = ' '.join(b.text.split())
                 if (info == ''):
                     count=0
                 elif (count%2 == 0):
-                    print(info, end=', ')
+                    print(info, end=' (')
                     count+=1
                 else:
-                    print(info + '\n')
+                    if ('(' in info):
+                        loca = info[info.find('(')+1:info.find(')')]
+                        print(info[:info.find('(')-1] + ') ' + loca + '\n')
+                    else:
+                        print(info + ')\n')
                     count=0
         return None
 
@@ -135,7 +176,7 @@ def get_names(url):
         info = ' '.join(i.text.split())
         if ('Chairs' in info or 'Members' in info or 'Chair' in info or 'Organizers' in info\
             or 'Treasurer' in info):
-            print('Position: ' + info)
+            # print('Position: ' + info)
             count=0
         elif (info == ''):
             count=0
@@ -144,10 +185,17 @@ def get_names(url):
         elif ('Workshop' in info or 'events' in info):
             break
         elif (count%2 == 0):
-            print(info, end=', ')
+            print(info, end=' (')
             count+=1
         else:
-            print(info + '\n')
+            if (',' in info):
+                info = info.replace(',', ')')
+                if (info.count(')') > 1):
+                    print(info.replace(')', ',', info.count(')') - 1) + '\n')
+                else:
+                    print(info + '\n')
+            else:
+                print(info + ')\n')
             count=0
 
 def get_namesAndOrg(text):
@@ -187,7 +235,7 @@ def crawl_site(links):
         if (link[:link.find('.')] in name):
             print(link)
             print('************************************')
-            print('Names, Organization, Location' + '\n')
+            print('Names (Organization) Location' + '\n')
             if (link == './workshops.html'):
                 get_names(url + 'workshops.html')
                 print()

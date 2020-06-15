@@ -1,0 +1,2161 @@
+EuroSP2020
+************************************
+accepted.html
+************************************
+Names (Organization) Location
+
+Adam Jenkins (University of Edinburgh)
+
+Pieris Kalligeros (University of Edinburgh)
+
+Maria Wolters (University of Edinburgh)
+
+Kami Vaniea (University of Edinburgh)
+
+Christopher Hicks (University of Birmingham)
+
+Flavio D. Garcia (University of Birmingham)
+
+Ralf KÃ¼sters (University of Stuttgart)
+
+Daniel Rausch (University of Stuttgart)
+
+Mike Graf (University of Stuttgart)
+
+Jairo Giraldo (University of Utah)
+
+Sahand Kafash (University of Texas at Dallas)
+
+Justin Ruths (University of Texas at Dallas)
+
+Alvaro Cardenas (University of California Santa Cruz)
+
+David Ke Hong (University of Michigan)
+
+John Kloosterman (University of Michigan)
+
+Yuqi Jin (University of Michigan)
+
+Yulong Cao (University of Michigan)
+
+Qi Alfred Chen (University of California, Irvine)
+
+Scott Mahlke (University of Michigan)
+
+Z. Morley Mao (University of Michigan)
+
+Giulio Lovisotto (University of Oxford)
+
+Simon Eberz (University of Oxford)
+
+Ivan Martinovic (University of Oxford)
+
+Te Juin Lester Tan (NUS)
+
+Reza Shokri (NUS)
+
+Ioannis Agadakos (SRI International)
+
+Nikolaos Agadakos (University of Illinois at Chicago)
+
+Jason Polakis (University of Illinois at Chicago)
+
+Mohamed R. Amer (Robust AI)
+
+Noah Johnson (Oasis Labs; University of California, Berkeley)
+
+Joseph P. Near (University of Vermont)
+
+Joseph M. Hellerstein (University of California, Berkeley)
+
+Dawn Song (Oasis Labs; University of California, Berkeley)
+
+Sourena Maroofi (Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG)
+
+Maciej Korczynski (Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG)
+
+Cristian Hesselman (SIDN Labs)
+
+Benoit Ampeau (AFNIC)
+
+Andrzej Duda (Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG)
+
+Yixin Sun (Princeton University)
+
+Kangkook Jee (University of Texas at Dallas)
+
+Suphannee Sivakorn (Rajamangala University of Technology Tawan-ok)
+
+Zhichun Li (Aella Data)
+
+Cristian Lumezanu (NEC Laboratories America)
+
+Lauri Korts-PÃ¤rn (Cyber Defense Institute)
+
+Zhenyu Wu (Google)
+
+Junghwan Rhee (NEC Laboratories America)
+
+Chung Hwan Kim (NEC Laboratories America)
+
+Mung Chiang (Purdue University)
+
+Prateek Mittal (Princeton University)
+
+Bailey Kacsmar (University of Waterloo)
+
+Basit Khurram (University of Waterloo)
+
+Nils Lukas (University of Waterloo)
+
+Alexander Norton (University of Waterloo)
+
+Masoumeh Shafieinejad (University of Waterloo)
+
+Zhiwei Shang (University of Waterloo)
+
+Yasser Baseri (University of Waterloo)
+
+Maryam Sepehri (Universita degli studi di Milano)
+
+Simon Oya (University of Waterloo)
+
+Florian Kerschbaum (University of Waterloo)
+
+Philip Sperl (Fraunhofer AISEC)
+
+Ching-Yu Kao (Fraunhofer AISEC)
+
+Peng Chen (Fraunhofer AISEC)
+
+Xiao Lei (Fraunhofer AISEC)
+
+Konstantin Boettinger (Fraunhofer AISEC)
+
+Alexander Warnecke (TU Braunschweig)
+
+Daniel Arp (TU Braunschweig)
+
+Christian Wressnegger (TU Braunschweig)
+
+Konrad Rieck (TU Braunschweig)
+
+Ioana Boureanu (University of Surrey - Surrey Centre for Cyber Security)
+
+Steve Wesemeyer (University of Surrey - Surrey Centre for Cyber Security)
+
+Zach Smith (University of Luxembourg)
+
+Helen Treharne (University of Surrey - Surrey Centre for Cyber Security)
+
+Ehab ElSalamouny (INRIA)
+
+Catuscia Palamidessi (INRIA)
+
+Laurent Simon (Samsung Research America)
+
+Akash Verma (Samsung Research America)
+
+Roberto Perdisci (University of Georgia, Georgia Institute of Technology)
+
+Thomas Papastergiou (Georgia Institute of Technology)
+
+Omar Alrawi (Georgia Institute of Technology)
+
+Manos Antonakakis (Georgia Institute of Technology)
+
+Neal Mangaokar (Virginia Tech)
+
+Jiameng Pu (Virginia Tech)
+
+Parantapa Bhattacharya (University of Virginia)
+
+Chandan K Reddy (Virginia Tech)
+
+Bimal Viswanath (Virginia Tech)
+
+Jakob Koschel (Vrije Universiteit Amsterdam)
+
+Cristiano Giuffrida (Vrije Universiteit Amsterdam)
+
+Herbert Bos (Vrije Universiteit Amsterdam)
+
+Kaveh Razavi (Vrije Universiteit Amsterdam)
+
+Inken Hagestedt (CISPA Helmholtz Center for Information Security)
+
+Mathias Humbert (Cyber-Defence Campus, armasuisse S+T)
+
+Pascal Berrang (CISPA Helmholtz Center for Information Security)
+
+Irina Lehmann (Helmholtz Centre for Environmental Research Leipzig, UFZ)
+
+Roland Eils (Berlin Institue of Health)
+
+Michael Backes (CISPA Helmholtz Center for Information Security)
+
+Yang Zhang (CISPA Helmholz Center for Information Security)
+
+xinyu li (Institute of Software, Chinese Academy of Sciences)
+
+jing xu (Institute of Software, Chinese Academy of Sciences)
+
+zhenfeng zhang (Institute of Software, Chinese Academy of Sciences)
+
+xiao lan (Cybersecurity Research Institute, Sichuan University)
+
+yuchen wang (Institute of Software, Chinese Academy of Sciences)
+
+Xuehui Hu (King's College London)
+
+Guillermo Suarez-Tangil (King's College London)
+
+Nishanth Sastry (King's College London)
+
+Mihaela Ion (Google LLC)
+
+Ben Kreuter (Google LLC)
+
+Erhan Nergiz (Google LLC)
+
+Sarvar Patel (Google LLC)
+
+Mariana Raykova (Google LLC)
+
+Shobhit Saxena (Google LLC)
+
+Karn Seth (Google LLC)
+
+David Shanahan (Google LLC)
+
+Moti Yung (Google LLC)
+
+Ralf KâÂºsters (University of Stuttgart)
+
+Julian Liedtke (University of Stuttgart)
+
+Johannes MâÂºller (University of Luxembourg)
+
+Daniel Rausch (University of Stuttgart)
+
+Andreas Vogt (FHNW Switzerland)
+
+Carsten Baum (Aarhus University)
+
+Tore Frederiksen (Alexandra Institute)
+
+Julia Hesse (IBM Research Zurich)
+
+Anja Lehmann (IBM Research Zurich)
+
+Avishay Yanai (Bar-Ilan University)
+
+Stephanie Wang (UC Berkeley)
+
+Rishabh Poddar (UC Berkeley)
+
+Jianan Lu (Princeton University)
+
+Raluca Ada Popa (UC Berkeley)
+
+Pei Wang (Baidu X-Lab)
+
+Jinquan Zhang (The Pennsylvania State Unviersity)
+
+Shuai Wang (The Hong Kong University of Science, Technology)
+
+Dinghao Wu (The Pennsylvania State Unviersity)
+
+Alberto Sonnino (University College London)
+
+Shehar Bano (University College London)
+
+Mustafa Al-Bassam (University College London)
+
+George Danezis (University College London)
+
+Lars Bruenjes (IOHK)
+
+Aggelos Kiayias (University of Edinburgh, IOHK)
+
+Elias Koutsoupias (University of Oxford)
+
+Aikaterini-Panagiota Stouka (University of Edinburgh, IOHK)
+
+Shachee Mishra (Stony Brook University)
+
+Michalis Polychronakis (Stony Brook University)
+
+Radhesh Krishnan Konoth (Vrije Universiteit Amsterdam)
+
+BjÃ¶rn Fischer (Vrije Universiteit Amsterdam)
+
+Wan Fokkink (Vrije Universiteit Amsterdam)
+
+Elias Athanasopoulos (University of Cyprus)
+
+Kaveh Razavi (Vrije Universiteit Amsterdam)
+
+Herbert Bos (Vrije Universiteit Amsterdam)
+
+Laurent Chuat (ETH Zurich)
+
+AbdelRahman Abdou (Carleton University)
+
+Ralf Sasse (ETH Zurich)
+
+Christoph Sprenger (ETH Zurich)
+
+David Basin (ETH Zurich)
+
+Adrian Perrig (ETH Zurich)
+
+Yunhui Long (University of Illinois at Urbana-Champaign)
+
+Lei Wang (Indiana University Bloomington)
+
+Diyue Bu (Indiana University Bloomington)
+
+Vincent Bindschadler (University of Florida)
+
+Xiaofeng Wang (Indiana University Bloomington)
+
+Haixu Tang (Indiana University Bloomington)
+
+Carl A. Gunter (University of Illinois at Urbana-Champaign)
+
+Kai Chen (Chinese Academy of Sciences)
+
+Debjani Saha (University of Maryland)
+
+Anna Chan (University of Maryland)
+
+Brook Stacy (University of Maryland)
+
+Kiran Javkar (University of Maryland)
+
+Sushant Patkar (University of Maryland; Cancer Data Science Laboratory, NCI, NIH)
+
+Michelle L. Mazurek (University of Maryland)
+
+Benjamin Bowman (George Washington University)
+
+H. Howie Huang (George Washington University)
+
+Diego Sempreboni (Department of Informatics, King's College London)
+
+Luca Vigano (Department of Informatics, King's College London)
+
+Jan Camenisch (DFINITY)
+
+Manu Drijvers (DFINITY)
+
+Anja Lehmann (IBM Research - Zurich)
+
+Gregory Neven (DFINITY)
+
+Patrick Towa (IBM Research - Zurich/ ENS, PSL Research University)
+
+
+cfw.html
+************************************
+Names (Organization) Location
+
+Luca ViganÃ² (Kingâs College London) UK
+
+Alessio Merlo (UniversitÃ di Genova and CINI) Italy
+
+
+committee-steering.html
+************************************
+Names (Organization) Location
+
+Michael Backes (CISPA, Saarland University & MPI-SWS) Germany
+
+Gilles Barthe (IMDEA Software Institute) Spain
+
+Virgil Gligor (CyLab, Carnegie Mellon University) USA
+
+Patrick McDaniel (Pennsylvania State University) USA
+
+Adrian Perrig (ETH Zurich) Switzerland
+
+Bart Preneel (KU Leuven) Belgium
+
+
+committee-program.html
+************************************
+Names (Organization) Location
+
+Lujo Bauer (CyLab, Carnegie Mellon University) USA
+
+Frank Stajano (University of Cambrige) UK
+
+AbdelRahman Abdou (Carleton University)
+
+Alexandra Dmitrienko (University of WÃ¼rzburg)
+
+Andrei Sabelfeld (Chalmers)
+
+Benjamin Dowling (ETH Zurich)
+
+Brendan Saltaformaggio (Georgia Tech)
+
+Carmela Troncoso (EPFL)
+
+Catherine Meadows (Naval Research Lab)
+
+Christoph Dobraunig (Radboud University)
+
+Corina Pasareanu (NASA / CMU SV)
+
+Cristina Onete (U Limoges)
+
+David Chisnall (Microsoft Research Cambridge)
+
+Elizabeth Stobert (Carleton University)
+
+Frank Stajano (University of Cambridge)
+
+Gang Tan (Pennsylvania State University)
+
+Giancarlo Pellegrino (CISPA)
+
+Ioana Boureanu (Surrey)
+
+Ivan Martinovic (University of Oxford)
+
+Jelena Mirkovic (USC/Information Sciences Institute)
+
+Joseph Bonneau (NYU)
+
+Kami Vaniea (University of Edinburgh)
+
+Katharina Krombholz (CISPA)
+
+Kevin Butler (University of Florida)
+
+Konrad Rieck (TU Braunschweig)
+
+Laurent Simon (Samsung Research America)
+
+Lejla Batina (Radboud University)
+
+Limin Jia (CMU)
+
+Lujo Bauer (Carnegie Mellon University)
+
+Marco Guarnieri (IMDEA Software Institute)
+
+Martin Johns (TU Braunschweig)
+
+Mathy Vanhoef (New York University Abu Dhabi)
+
+Matthew Green (Johns Hopkins)
+
+Matthew Smith (University of Bonn) Fraunhofer FKIE
+
+Musard Balliu (KTH Royal Institute of Technology)
+
+Nick Nikiforakis (Stony Brook University)
+
+Nicolas Christin (CMU)
+
+Ralf Sasse (ETH Zurich)
+
+Sadia Afroz (ICSI)
+
+Sang Kil Cha (KAIST)
+
+Sarah Meiklejohn (University College London)
+
+Simson Garfinkel (US Census Bureau)
+
+Stefano Calzavara (UniversitÃ Ca' Foscari Venezia)
+
+Steve Kremer (INRIA Nancy - Grand Est)
+
+Suman Jana (Columbia University)
+
+Tom Chotia (University of Birmingham)
+
+Ulrike Meyer (RWTH Aachen University)
+
+Vanessa Teague (University of Melbourne)
+
+Vera Rimmer (KU Leuven)
+
+Yajin Zhou (Zhejiang University)
+
+Yeoul Na (UC Irvine)
+
+Yongdae Kim (KAIST)
+
+Yuan Tian (U Virginia)
+
+Zhenkai Liang (National University of Singapore)
+
+Zinaida Benenson (University of Erlangen-Nuremberg)
+
+
+committee-organizing.html
+************************************
+Names (Organization) Location
+
+Alessandro Armando (UniversitÃ di Genova and CINI) Italy
+
+Giancarlo Pellegrino (CISPA) Germany
+
+Paolo Prinetto (Politecnico di Torino and CINI) Italy
+
+Luca ViganÃ² (Kingâs College London)
+
+Alessio Merlo (UniversitÃ di Genova and CINI) Italy
+
+Ben Stock (CISPA) Germany
+
+Alessandro Savino (Politecnico di Torino) Italy
+
+Fabio Martinelli (CNR) Italy
+
+Katharina Krombholz (CISPA) Germany
+
+NicolÃ² Morando (IMT, Lucca and CINI) Italy
+
+Soheil Khodayari (CISPA) Germany
+
+Gabriella Caramagno (CINI) Italy
+
+Stefano Di Carlo (Politecnico di Torino) Italy
+
+Riccardo Genova (UniversitÃ di Genova) Italy
+
+Gabriele Costa (IMT, Lucca and CINI) Italy
+
+Luca Verderame (UniversitÃ di Genova and CINI) Italy
+
+
+EuroSP2019
+************************************
+accepted.php
+************************************
+Names (Organization) Location
+
+Melanie Rieback
+
+Ansgar Kellner (TU Braunschweig)
+
+Micha Horlboge (TU Braunschweig)
+
+Konrad Rieck (TU Braunschweig)
+
+Christian Wressnegger (TU Braunschweig)
+
+Jie Huang (CISPA Helmholtz Center for Information Security)
+
+Nataniel Borges (CISPA Helmholtz Center for Information Security)
+
+Sven Bugiel (CISPA Helmholtz Center for Information Security)
+
+Michael Backes (CISPA Helmholtz Center for Information Security)
+
+Ali Abbasi (Ruhr University Bochum)
+
+Jos Wetzels (Midnight Blue Labs)
+
+Thorsten Holz (Ruhr University Bochum)
+
+Sandro Etalle (Eindhoven University of Technology)
+
+Ke Xu (Singapore Management University)
+
+Yingjiu Li (Singapore Management University)
+
+Robert H. Deng (Singapore Management University)
+
+Kai Chen (Chinese Academy of Sciences)
+
+Jiayun Xu (Singapore Management University)
+
+Mathias Vorreiter Pedersen (Aarhus University)
+
+Stephen Chong (Harvard University)
+
+Marco Guarnieri (IMDEA Software Institute)
+
+Musard Balliu (KTH Royal Institute of Technology)
+
+Daniel Schoepe (Chalmers University of Technology)
+
+David Basin (ETH Zurich)
+
+Andrei Sabelfeld (Chalmers University of Technology)
+
+Mustakimur Khandaker (Florida State University)
+
+Abu Naser (Florida State University)
+
+Wenqing Liu (Florida State University)
+
+Zhi Wang (Florida State University)
+
+Yajin Zhou (Zhejiang University)
+
+Yueqiang Cheng (Baidu X-lab)
+
+Jannik Pewny (HGI, Ruhr-University Bochum)
+
+Philipp Koppe (HGI, Ruhr-University Bochum)
+
+Thorsten Holz (HGI, Ruhr-University Bochum)
+
+Jorden Whitefield (Surrey Centre for Cyber Security, University of Surrey, UK)
+
+Liqun Chen (Surrey Centre for Cyber Security, University of Surrey, UK)
+
+Ralf Sasse (Department of Computer Science, ETH Zurich)
+
+Steve Schneider (Surrey Centre for Cyber Security, University of Surrey, UK)
+
+Helen Treharne (Surrey Centre for Cyber Security, University of Surrey, UK)
+
+Steve Wesemeyer (Surrey Centre for Cyber Security, University of Surrey, UK)
+
+Guoxing Chen (The Ohio State University)
+
+Sanchuan Chen (The Ohio State University)
+
+Yuan Xiao (The Ohio State University)
+
+Yinqian Zhang (The Ohio State University)
+
+Zhiqiang Lin (The Ohio State University)
+
+Ten H. Lai (The Ohio State University)
+
+Claudio Soriente (NEC Labs Europe)
+
+Ghassan Karame (NEC Labs Europe)
+
+Wenting Li (NEC Labs Europe)
+
+Sergey Fedorov (NEC Labs Europe)
+
+Alex Biryukov (University of Luxembourg)
+
+Sergei Tikhomirov (University of Luxembourg)
+
+Raymond Cheng (UC Berkeley, Oasis Labs)
+
+Fan Zhang (Cornell Tech)
+
+Jernej Kos (Oasis Labs)
+
+Warren He (UC Berkeley, Oasis Labs)
+
+Nicholas Hynes (UC Berkeley, Oasis Labs)
+
+Noah Johnson (UC Berkeley, Oasis Labs)
+
+Ari Juels (Cornell Tech)
+
+Andrew Miller (UIUC)
+
+Dawn Song (UC Berkeley, Oasis Labs)
+
+Alice Hutchings (University of Cambridge)
+
+Sergio Pastrana (Carlos III University of Madrid)
+
+Zhen Liu (Shanghai Jiao Tong University)
+
+Guomin Yang (University of Wollongong)
+
+Duncan S. Wong (CryptoBLK)
+
+Khoa Nguyen (Nanyang Technological University)
+
+Huaxiong Wang (Nanyang Technological University)
+
+Benjamin Lipp (INRIA Paris)
+
+Bruno Blanchet (INRIA Paris)
+
+Karthikeyan Bhargavan (INRIA Paris)
+
+Evgenios M. Kornaropoulos (Brown University)
+
+Petros Efstathopoulos (Symantec Research Labs)
+
+Florian Kohnhäuser (TU Darmstadt)
+
+Niklas Büscher (TU Darmstadt)
+
+Stefan Katzenbeisser (TU Darmstadt)
+
+Eric Verheul (Radboud University)
+
+Christopher Hicks (University of Birmingham)
+
+Flavio D. Garcia (University of Birmingham)
+
+Olivier Blazy (University of Limoges, XLIM, CNRS UMR 7252)
+
+Angèle Bossuat (Univ Rennes, CNRS, IRISA)
+
+Xavier Bultel (Univ Rennes, CNRS, IRISA)
+
+Pierre-Alain Fouque (Univ Rennes, CNRS, IRISA)
+
+Cristina Onete (University of Limoges, XLIM, CNRS UMR 7252)
+
+Elena Pagnin (Aarhus University)
+
+Erik van der Kouwe (Leiden University)
+
+Dennis Andriesse (Vrije Universiteit Amsterdam)
+
+Herbert Bos (Vrije Universiteit Amsterdam)
+
+Cristiano Giuffrida (Vrije Universiteit Amsterdam)
+
+Gernot Heiser (Data61 and UNSW)
+
+Orcun Cetin (Delft University of Technology)
+
+Carlos Gañán (Delft University of Technology)
+
+Lisette Altena (Delft University of Technology)
+
+Samaneh Tajalizadehkhoob (Delft University of Technology)
+
+Michel van Eeten (Delft University of Technology)
+
+Charles XOSANAVONGSA (CentraleSupelec)
+
+Eric TOTEL (CentraleSupelec)
+
+Olivier BETTAN (Thales Group)
+
+Nadim Kobeissi (INRIA Paris, Symbolic Software)
+
+Georgio Nicolas (Symbolic Software)
+
+Karthikeyan Bhargavan (INRIA Paris)
+
+Akira Takahashi (Aarhus University)
+
+Mehdi Tibouchi (NTT Secure Platform Laboratories)
+
+Itsaka Rakotonirina (INRIA Nancy Grand-Est, LORIA)
+
+Boris Köpf (Microsoft Research)
+
+Sergej Dechand (Uni Bonn)
+
+Alena Naiakshina (Uni Bonn)
+
+Anastasia Danilova (Uni Bonn)
+
+Matthew Smith (Uni Bonn)
+
+Simon Oya (University of Vigo)
+
+Carmela Troncoso (EPFL)
+
+Fernando Pérez-González (University of Vigo)
+
+Daniel Kales (Graz University of Technology)
+
+Olamide Omolola (Graz University of Technology)
+
+Sebastian Ramacher (Graz University of Technology)
+
+Kimmo Järvinen (University of Helsinki)
+
+Helena Leppäkoski (Tampere University of Technology)
+
+Elena-Simona Lohan (Tampere University of Technology)
+
+Philipp Richter (Tampere University of Technology)
+
+Thomas Schneider (TU Darmstadt)
+
+Oleksandr Tkachenko (TU Darmstadt)
+
+Zheng Yang (Singapore University of Technology and Design)
+
+Adrien Koutsos (LSV, CNRS, ENS Paris-Saclay, Université Paris-Saclay)
+
+Jiefeng Chen (University of Wisconsin-Madison)
+
+Xi Wu (Google)
+
+Vaibhav Rastogi (University of Wisconsin-Madison)
+
+Yingyu Liang (University of Wisconsin-Madison)
+
+Somesh Jha (University of Wisconsin-Madison)
+
+Nishanth Chandran (Microsoft Research)
+
+Divya Gupta (Microsoft Research)
+
+Aseem Rastogi (Microsoft Research)
+
+Rahul Sharma (Microsoft Research)
+
+Shardul Tripathi (Indian Institute of Technology - Delhi)
+
+Mika Juuti (Aalto University)
+
+Sebastian Szyller (Aalto University)
+
+Samuel Marchal (Aalto University)
+
+N. Asokan (Aalto University)
+
+Stefano Calzavara (Università Ca' Foscari Venezia)
+
+Mauro Conti (University of Padova)
+
+Riccardo Focardi (Università Ca' Foscari Venezia)
+
+Alvise Rabitti (Università Ca' Foscari Venezia)
+
+Gabriele Tolomei (University of Padova)
+
+Lorenz Schwittmann (University of Duisburg-Essen)
+
+Matthäus Wander (University of Duisburg-Essen)
+
+Torben Weis (University of Duisburg-Essen)
+
+Baojun Liu (Tsinghua University)
+
+Zhou Li (University of California, Irvine)
+
+Peiyuan Zong (Institute of Information Engineering, Chinese Academy of Sciences)
+
+Chaoyi Lu (Tsinghua University)
+
+Haixin Duan (Tsinghua University)
+
+Ying Liu (Tsinghua University)
+
+Sumayah Alrwais (King Saud University)
+
+Xiaofeng Wang (Indiana University Bloomington)
+
+Shuang Hao (University of Texas at Dallas)
+
+Yaoqi Jia (Zilliqa Research)
+
+Yiming Zhang (Tsinghua University)
+
+Kai Chen (Institute of Information Engineering, Chinese Academy of Sciences)
+
+Zaifeng Zhang (360 Netlab)
+
+Yuan Tian (U Virginia)
+
+Cormac Herley (Microsoft)
+
+Stuart Schechter (Unaffiliated)
+
+Sebastian Walla (CISPA Helmholtz Center for Information Security)
+
+Christian Rossow (CISPA Helmholtz Center for Information Security)
+
+Sergiu Bursuc (Inria Nancy)
+
+Constantin Catalin Dragan (University of Surrey)
+
+Steve Kremer (Inria Nancy)
+
+Jan Willemson (Cybernetica)
+
+Kristjan Krips (Cybernetica)
+
+Sebastian Värv (Cybernetica)
+
+Lucca Hirschi (Inria &amp; LORIA)
+
+Cas Cremers (CISPA Helmholtz Center for Information Security)
+
+
+cfw.php
+************************************
+Names (Organization) Location
+
+Sabrina De Capitani di Vimercati (Università degli Studi di Milano) Italy
+
+Yongdae Kim (KAIST) Republic of Korea
+
+
+committee-steering.php
+************************************
+Names (Organization) Location
+
+Michael Backes (CISPA, Saarland University & MPI-SWS) Germany
+
+Gilles Barthe (IMDEA Software Institute) Spain
+
+Virgil Gligor (Cylab, Carnegie Mellon University) USA
+
+Patrick McDaniel (Pennsylvania State University) USA
+
+Adrian Perrig (ETH Zurich) Switzerland
+
+Bart Preneel (KU Leuven) Belgium
+
+
+committee-program.php
+************************************
+Names (Organization) Location
+
+Frank Piessens (KU Leuven)
+
+Frank Stajano (University of Cambridge)
+
+AbdelRahman M. Abdou (ETH Zurich and Carleton University) Canada
+
+Andrei Sabelfeld (Chalmers University of Technology)
+
+Atul Luykx (Visa)
+
+Awais Rashid (University of Bristol)
+
+Bart Mennink (RU Nijmegen)
+
+Ben Stock (CISPA Helmholtz Center)
+
+Benjamin Dowling (Royal Holloway)
+
+Carsten Maple (University of Warwick)
+
+Christian Rossow (Saarland University)
+
+Cristina Onete (University of Limoges/XLIM/CNRS 7252)
+
+David Chisnall (Microsoft Research Cambridge)
+
+Dennis Andriesse (Vrije Universiteit)
+
+Emanuel von Zezschwitz (University of Bonn)
+
+Engin Kirda (Northeastern University)
+
+Ioana Boureanu (Univ. of Surrey, Surrey Centre for Cyber Security)
+
+Jonathan Anderson (Memorial University of Newfoundland)
+
+Joseph Bonneau (NYU)
+
+Kaveh Razavi (Vrije Universiteit Amsterdam)
+
+Konrad Rieck (TU Braunschweig)
+
+Laurent Simon (Samsung Research America)
+
+Limin Jia (CMU)
+
+Lorenzo Cavallaro (King's College London)
+
+Luca Viganò (King's College London)
+
+Lujo Bauer (CMU)
+
+Manuel Costa (MSR Cambridge)
+
+Marinella Petrocchi (CNR)
+
+Mark Ryan (University of Birmingham)
+
+Markulf Kohlweiss (MSR Cambridge and University of Edinburgh)
+
+Mathy Vanhoef (KU Leuven)
+
+Matteo Maffei (TU Vienna)
+
+Matthew Smith (University of Bonn)
+
+Nataliia Bielova (INRIA)
+
+Ralf Sasse (ETH Zurich)
+
+Roberto Guanciale (KTH)
+
+Roberto Di Pietro (Hamad Bin Khalifa University)
+
+Sascha Fahl (Ruhr-University Bochum)
+
+Simson Garfinkel (US Census Bureau)
+
+Stefan Mangard (TU Graz)
+
+Stefano Calzavara (Universita' Ca' Foscari Venezia)
+
+Steve Kremer (INRIA Nancy - Grand Est)
+
+Steven Murdoch (UCL)
+
+Tom Chothia (University of Birmingham)
+
+Tomer Ahsur (KU Leuven)
+
+Vashek Matyas (Masaryk University Brno)
+
+Yajin Zhou (Zhejiang University of China)
+
+Yasemin Acar (Leibniz University Hannover)
+
+Yeoul Na (UC Irvine)
+
+Vladimiro Sassone (University of Southampton)
+
+Yuval Yarom (University of Adelaide)
+
+Zinaida Benenson (University of Erlangen-Nuremberg)
+
+
+committee-organizing.php
+************************************
+Names (Organization) Location
+
+Panos Papadimitratos (KTH Royal Institute of Technology)
+
+Mads Dam (KTH Royal Institute of Technology)
+
+Frank Piessens (KU Leuven)
+
+Frank Stajano (University of Cambridge)
+
+Sabrina De Capitani di Vimercati (Università degli Studi di Milano)
+
+Yongdae Kim (KAIST)
+
+Ben Stock (Saarland University)
+
+Jing Deng (University of North Carolina at Greensboro)
+
+Fabio Martinelli (Italian National Research Council)
+
+Mohammad Khodaei (KTH Royal Institute of Technology)
+
+Hongyu Jin (KTH Royal Institute of Technology)
+
+Sonja Buchegger (KTH Royal Institute of Technology)
+
+Musard Balliu (KTH Royal Institute of Technology)
+
+Katerina Mitrokotsa (Chalmers University of Technology)
+
+Stefano Zanero (Politecnico di Milano University)
+
+Kewei Zhang (KTH Royal Institute of Technology)
+
+
+EuroSP2018
+************************************
+accepted.php
+************************************
+Names (Organization) Location
+
+Lujo Bauer (CMU)
+
+Sunny Consolvo (Google)
+
+Paul Rösler (Horst Görtz Institute for IT Security, Chair for Network and Data Security, Ruhr-University Bochum)
+
+Christian Mainka (Horst Görtz Institute for IT Security, Chair for Network and Data Security, Ruhr-University Bochum)
+
+Jörg Schwenk (Horst Görtz Institute for IT Security, Chair for Network and Data Security, Ruhr-University Bochum)
+
+Laurent Simon (Cambridge University)
+
+David Chisnall (Cambridge University)
+
+Ross Anderson (Cambridge University)
+
+Ziyun Zhu (University of Maryland, College Park)
+
+Tudor Dumitras (University of Maryland, College Park)
+
+Kaan Onarlioglu (Akamai Technologies)
+
+William Robertson (Northeastern University)
+
+Engin Kirda (Northeastern University)
+
+Christian Vaas (University of Oxford)
+
+Mika Juuti (Aalto University)
+
+N. Asokan (Aalto University)
+
+Ivan Martinovic (University of Oxford)
+
+Chiara Bodei (Università di Pisa)
+
+Pierpaolo Degano (Università di Pisa)
+
+Riccardo Focardi (Università Ca Foscari Venezia)
+
+Letterio Galletta (Università di Pisa)
+
+Mauro Tempesta (Università Ca Foscari Venezia)
+
+Lorenzo Veronese (Università Ca Foscari Venezia)
+
+Wei Bai (University of Maryland, College Park)
+
+Ciara Lynton (University of Maryland, College Park)
+
+Michelle L. Mazurek (University of Maryland, College Park)
+
+Charalampos (Babis) Papamanthou (University of Maryland, College Park)
+
+David Derler (IAIK, Graz University of Technology)
+
+Sebastian Ramacher (IAIK, Graz University of Technology)
+
+Daniel Slamanig (AIT Austrian Institute of Technology)
+
+Patrick Speicher (CISPA, Saarland University)
+
+Marcel Steinmetz (CISPA, Saarland University)
+
+Robert Künnemann (CISPA, Saarland University)
+
+Milivoj Simeonovski (CISPA, Saarland University)
+
+Giancarlo Pellegrino (CISPA, Saarland University)
+
+Jörg Hoffmann (CISPA, Saarland University)
+
+Michael Backes (CISPA, Saarland University)
+
+Micah Morton (UNC at Chapel Hill)
+
+Jan Werner (UNC at Chapel Hill)
+
+Panagiotis Kintis (Georgia Tech)
+
+Kevin Snow (Zeropoint Dynamics)
+
+Manos Antonakakis (Georgia Tech)
+
+Michalis Polychronakis (Stony Brook University)
+
+Fabian Monrose (UNC at Chapel Hill)
+
+Véronique Cortier (Loria &amp; CNRS, France)
+
+David Galindo (University of Birmingham, UK)
+
+Mathieu Turuani (Loria &amp; INRIA, France)
+
+Mario Werner (Graz University of Technology)
+
+Thomas Unterluggauer (Graz University of Technology)
+
+David Schaffenrath (Graz University of Technology)
+
+Stefan Mangard (Graz University of Technology)
+
+Martin Strohmeier (University of Oxford)
+
+Matthew Smith (University of Oxford)
+
+Vincent Lenders (Armasuisse)
+
+Ivan Martinovic (University of Oxford)
+
+Lucas Bang (University of California Santa Barbara)
+
+Nicolas Rosner (University of California Santa Barbara)
+
+Tevfik Bultan (University of California Santa Barbara)
+
+Charles Wright (Portland State University)
+
+Mayank Varia (Boston University)
+
+Takuya Watanabe (NTT Secure Platform Laboratories)
+
+Eitaro Shioji (NTT Secure Platform Laboratories)
+
+Mitsuaki Akiyama (NTT Secure Platform Laboratories)
+
+Keito Sasaoka (Waseda University)
+
+Takeshi Yagi (NTT Secure Platform Laboratories)
+
+Tatsuya Mori (Waseda University)
+
+Marjan Skrobot (University of Luxembourg)
+
+Jean Lancrenon (itrust consulting)
+
+Anupama Aggarwal (IIIT - Delhi, India)
+
+Saravana Kumar (CEG, Guindy, India)
+
+Bimal Viswanath (UC Santa Barbara)
+
+Liang Zhang (Northeastern University)
+
+Ayush Shah (IIIT - Delhi, India)
+
+Ponnurangam Kumaraguru (IIIT - Delhi, India)
+
+Enes Göktaş (Vrije Universiteit Amsterdam)
+
+Benjamin Kollenda (Ruhr-Universität Bochum)
+
+Philipp Koppe (Ruhr-Universität Bochum)
+
+Erik Bosman (Vrije Universiteit Amsterdam)
+
+Georgios Portokalidis (Stevens Institute of Technology)
+
+Thorsten Holz (Ruhr-Universität Bochum)
+
+Herbert Bos (Vrije Universiteit Amsterdam)
+
+Cristiano Giuffrida (Vrije Universiteit Amsterdam)
+
+Chen Chen (CMU)
+
+Daniele E. Asoni (ETH Zurich)
+
+Adrian Perrig (ETH Zurich)
+
+David Barrera (Polytechnique Montréal)
+
+George Danezis (UCL)
+
+Carmela Troncoso (IMDEA Software Institute)
+
+Damian Poddebniak (Münster University of Applied Sciences)
+
+Juraj Somorovsky (Ruhr-University Bochum)
+
+Sebastian Schinzel (Münster University of Applied Sciences)
+
+Manfred Lochter (Federal Office for Information Security)
+
+Paul Rösler (Ruhr-University Bochum)
+
+Pascal Berrang (CISPA, Saarland University)
+
+Mathias Humbert (Swiss Data Science Center, ETH/EPFL)
+
+Yang Zhang (CISPA, Saarland University)
+
+Irina Lehmann (Helmholtz Centre for Environmental Research Leipzig, UFZ, Leipzig)
+
+Roland Eils (German Cancer Research Center (DKFZ) &amp; University of Heidelberg)
+
+Michael Backes (CISPA, Saarland University)
+
+Joppe Bos (NXP)
+
+Leo Ducas (CWI)
+
+Eike Kiltz (Ruhr-University Bochum)
+
+Tancrede Lepoint (SRI)
+
+Vadim Lybashevsky (IBM Research)
+
+John M. Schanck (University of Waterloo)
+
+Peter Schwabe (Radboud University)
+
+Damien Stehle (Universite de Lyon)
+
+Teemu Rytilahti (Horst Görtz Institute for IT-Security, Ruhr University Bochum)
+
+Dennis Tatang (Horst Görtz Institute for IT-Security, Ruhr University Bochum)
+
+Janosch Köpper (Horst Görtz Institute for IT-Security, Ruhr University Bochum)
+
+Thorsten Holz (Horst Görtz Institute for IT-Security, Ruhr University Bochum)
+
+Jon Stephens (The University of Arizona)
+
+Babak Yadegari (The University of Arizona)
+
+Christian Collberg (The University of Arizona)
+
+Saumya Debray (The University of Arizona)
+
+Carlos Scheidegger (The University of Arizona)
+
+Amit Vasudevan (CyLab / CMU)
+
+Sagar Chaki (SEI / CMU)
+
+Amit Vasudevan (CyLab, Carnegie Mellon University)
+
+Nicolas Papernot (Penn State)
+
+Patrick McDaniel (Penn State)
+
+Arunesh Sinha (University of Michigan)
+
+Michael P. Wellman (University of Michigan)
+
+Benjamin Harsha (Purdue University)
+
+Jeremiah Blocki (Purdue University)
+
+Erwin Quiring (TU Braunschweig)
+
+Daniel Arp (TU Braunschweig)
+
+Konrad Rieck (TU Braunschweig)
+
+Toby Murray (University of Melbourne and Data61)
+
+Robert Sison (CSE, UNSW and Data61)
+
+Kai Engelhardt (CSE, UNSW and Data61)
+
+Ke Xu (Singapore Management University)
+
+Yingjiu Li (Singapore Management University)
+
+Robert H. Deng (Singapore Management University)
+
+Kai Chen (Chinese Academy of Sciences)
+
+Luke Valenta (University of Pennsylvania)
+
+Nick Sullivan (Cloudflare)
+
+Antonio Sanso (Adobe)
+
+Nadia Heninger (University of Pennsylvania)
+
+Carlos Cotrini (ETH Zürich)
+
+Thilo Weghorn (ETH Zürich)
+
+David Basin (ETH Zürich)
+
+
+cfw.php
+************************************
+Names (Organization) Location
+
+
+committee-steering.php
+************************************
+Names (Organization) Location
+
+Michael Backes (CISPA, Saarland University & MPI-SWS) Germany
+
+Gilles Barthe (IMDEA Software Institute) Spain
+
+Virgil Gligor (Cylab, Carnegie Mellon University) USA
+
+Patrick McDaniel (Pennsylvania State University) USA
+
+Adrian Perrig (ETH Zurich) Switzerland
+
+Bart Preneel (KU Leuven) Belgium
+
+
+committee-program.php
+************************************
+Names (Organization) Location
+
+Frank Piessens (KU Leuven)
+
+Matthew Smith (University of Bonn)
+
+Andrei Sabelfeld (Chalmers University of Technology)
+
+Angela Sasse (University College London)
+
+Aslan Askarov (Aarhus University)
+
+Aylin Caliskan (Princeton University)
+
+Ben Livshits (Imperial College London)
+
+Blase Ur (University of Chicago)
+
+Boris Köpf (IMDEA Software Institute)
+
+Cristina Nita-Rotaru (Northeastern University)
+
+Deepak Garg (Max Planck Institute for Software Systems)
+
+Delphine Reinhardt (Fraunhofer FKIE)
+
+Elizabeth Stobert (ETH)
+
+Emanuel von Zezschwitz (University of Bonn)
+
+Emiliano De Cristofaro (University College London)
+
+Engin Kirda (Northeastern University)
+
+Erik van der Kouwe (Leiden University)
+
+Fréderik Vercauteren (KU Leuven)
+
+Franzi Roesner (University of Washington)
+
+Joseph Bonneau (Stanford University & EFF)
+
+Kami Vaniea (University of Edinburgh)
+
+Kaveh Razavi (Vrije Universiteit Amsterdam)
+
+Leyla Bilge (Symantec)
+
+Limin Jia (CMU)
+
+Lujo Bauer (CMU)
+
+Manuel Costa (MSR Cambridge)
+
+Marieke Huisman (University of Twente)
+
+Martin Johns (SAP Research)
+
+Matteo Maffei (TU Vienna)
+
+Matthew Green (Johns Hopkins University)
+
+Michael Backes (CISPA, Saarland University & MPI-SWS)
+
+Michalis Polychronakis (Stony Brook University)
+
+Mike Just (Heriot-Watt University)
+
+Nikhil Swamy (MSR Redmond)
+
+Ralf Sasse (ETH)
+
+Robert Watson (University of Cambridge)
+
+Roberto Guanciale (KTH)
+
+Sadia Afroz (UC Berkeley / ICSI)
+
+Sandrine Blazy (INRIA Rennes)
+
+Sascha Fahl (University of Hannover)
+
+Seda Guerses (KU Leuven)
+
+Stefan Katzenbeisser (TU Darmstadt)
+
+Stefano Calzavara (Universita' Ca' Foscari Venezia)
+
+Steve Kremer (INRIA Nancy - Grand Est)
+
+Tamara Rezk (INRIA Sophia-Antipolis)
+
+Virgil Gligor (CMU)
+
+Wenke Lee (Georgia Tech)
+
+Yasemin Acar (University of Hannover)
+
+Yongdae Kim (KAIST)
+
+
+committee-organizing.php
+************************************
+Names (Organization) Location
+
+Frank Piessens (KU Leuven)
+
+Matthew Smith (University of Bonn)
+
+George Danezis (University College London)
+
+Emiliano De Cristofaro (University College London)
+
+Sascha Fahl (Leibniz University Hannover)
+
+Charles Weir (Lancaster University)
+
+Ben Stock (Saarland University)
+
+Ruba Abu-Salma (University College London)
+
+Nadim Kobeissi (Inria Paris)
+
+Guillermo Suarez-Tangil (University College London)
+
+
+EuroSP2017
+************************************
+accepted.php
+************************************
+Names (Organization) Location
+
+The full schedule of EuroS&P is also available
+
+Timothy Trippel (University of Michigan)
+
+Ofir Weisse (University of Michigan)
+
+Wenyuan Xu (University of South Carolina)
+
+Peter Honeyman (University of Michigan)
+
+Kevin Fu (University of Michigan)
+
+Dennis Andriesse (Vrije Universiteit Amsterdam)
+
+Asia Slowinska (Lastline, Inc.)
+
+Herbert Bos (Vrije Universiteit Amsterdam)
+
+Yunhan Jack Jia (University of Michigan)
+
+Qi Alfred Chen (University of Michigan)
+
+Yikai Lin (University of Michigan)
+
+Chao Kong (University of Michigan)
+
+Z. Morley Mao (University of Michigan)
+
+Jan Camenisch (IBM Research - Zurich)
+
+Anja Lehmann (IBM Research - Zurich)
+
+Michael Goodrich (University of California - Irvine)
+
+Evgenios Kornaropoulos (Brown University)
+
+Michael Mitzenmacher (Harvard University)
+
+Roberto Tamassia (Brown University)
+
+Xi Chen (VU Amsterdam)
+
+Cristiano Giuffrida (VU Amsterdam)
+
+Herbert Bos (VU Amsterdam)
+
+Michael Backes (CISPA, Saarland University &amp; MPI-SWS)
+
+Sven Bugiel (CISPA, Saarland University)
+
+Oliver Schranz (CISPA, Saarland University)
+
+Philipp von Styp-Rekowsky (CISPA, Saarland University)
+
+Sebastian Weisgerber (CISPA, Saarland University)
+
+Véronique Cortier (Loria - CNRS)
+
+Alicia Filipiak (Loria - Orange)
+
+Jan Florent (Orange)
+
+Said Gharout (Orange)
+
+Jacques Traoré (Orange)
+
+David Basin (ETH Zurich)
+
+Joseph Lallemand (ENS Cachan, Université Paris-Saclay)
+
+Christoph Sprenger (ETH Zurich)
+
+Florian Tramèr (EPFL)
+
+Fan Zhang (Cornell)
+
+Huang Lin (EPFL)
+
+Jean-Pierre Hubaux (EPFL)
+
+Ari Juels (Cornell Tech)
+
+Elaine Shi (Cornell)
+
+Florian Tramèr (EPFL)
+
+Vaggelis Atlidakis (Columbia University)
+
+Roxana Geambasu (Columbia University)
+
+Daniel Hsu (Columbia University)
+
+Jean-Pierre Hubaux (EPFL)
+
+Mathias Humbert (CISPA, Saarland University)
+
+Ari Juels (Cornell Tech)
+
+Huang Lin (EPFL)
+
+Christian Mainka (Horst Görtz Institute for IT-Security)
+
+Vladislav Mladenov (Horst Görtz Institute for IT-Security)
+
+Tobias Wich (ecsec GmbH)
+
+Jörg Schwenk (Horst Görtz Institute for IT-Security)
+
+Mordechai Guri (Ben-Gurion University of the Negev)
+
+Yisroel Mirsky (Ben-Gurion University of the Negev)
+
+Yuval Elovici (Ben-Gurion University of the Negev)
+
+Kashyap Thimmaraju (TU Berlin/T-Labs)
+
+Liron Schiff (Tel Aviv University)
+
+Stefan Schmid (Aalborg University/TU Berlin)
+
+Michael Backes (CISPA, Saarland University &amp; MPI-SWS)
+
+Mohammad Nauman (MPI-SWS)
+
+Adam Lerner (University of Washington)
+
+Eric Zeng (University of Washington)
+
+Franziska Roesner (University of Washington)
+
+Martín Ochoa (Singapore University of Technology and Design)
+
+Sebastian Banescu (Technische Universität München)
+
+Cynthia Disenfeld (University of Toronto)
+
+Gilles Barthe (IMDEA Software)
+
+Vijay Ganesh (University of Waterloo)
+
+Daniel Arp (Technische Universität Braunschweig)
+
+Erwin Quiring (Technische Universität Braunschweig)
+
+Christian Wressnegger (Technische Universität Braunschweig)
+
+Konrad Rieck (Technische Universität Braunschweig)
+
+Michael Backes (CISPA, Saarland University &amp; MPI-SWS)
+
+Konrad Rieck (TU Braunschweig)
+
+Malte Skoruppa (CISPA, Saarland University)
+
+Ben Stock (CISPA, Saarland University)
+
+Fabian Yamaguchi (TU Braunschweig)
+
+Angelo Massimo Perillo (Università di Salerno, Italy)
+
+Giuseppe Persiano (Università di Salerno, Italy)
+
+Alberto Trombetta (Università dell'Insubria, Italy)
+
+Marc Fischlin (Technische Universität Darmstadt, Germany)
+
+Felix Günther (Technische Universität Darmstadt, Germany)
+
+Katriel Cohn-Gordon (University of Oxford)
+
+Cas Cremers (University of Oxford)
+
+Benjamin Dowling (Queensland University of Technology)
+
+Luke Garratt (University of Oxford)
+
+Douglas Stebila (McMaster University)
+
+Charlie Jacomme (ENS Cachan, Université Paris-Saclay)
+
+Steve Kremer (LORIA, Inria Nancy &amp; CNRS &amp; Université de Lorraine)
+
+Guillaume Scerri (University of Bristol)
+
+Nadim Kobeissi (INRIA Paris)
+
+Karthikeyan Bhargavan (INRIA Paris)
+
+Bruno Blanchet (INRIA Paris)
+
+Roman Rogowski (University of North Carolina at Chapel Hill)
+
+Micah Morton (University of North Carolina at Chapel Hill)
+
+Forrest Li (University of North Carolina at Chapel Hill)
+
+Kevin Z. Snow (University of North Carolina at Chapel Hill)
+
+Fabian Monrose (University of North Carolina at Chapel Hill)
+
+Michalis Polychronakis (Stony Brook University)
+
+Georg Merzdovnik (SBA Research)
+
+Markus Huber (Fachhochschule St. Pölten)
+
+Damjan Buhov (SBA Research)
+
+Nick Nikiforakis (Stony Brook University)
+
+Sebastian Neuner (SBA Research)
+
+Martin Schmiedecker (SBA Research)
+
+Edgar Weippl (SBA Research)
+
+Michael Backes (CISPA, Saarland University &amp; MPI-SWS)
+
+Jannik Dreier (INRIA)
+
+Steve Kremer (INRIA)
+
+Robert Kuennemann (CISPA, Saarland University)
+
+Karthikeyan Bhargavan (Inria de Paris)
+
+Ioana Boureanu Carlson (Imperial College London)
+
+Pierre-Alain Fouque (Université de Rennes 1/IRISA)
+
+Cristina Onete (INSA/IRISA Rennes)
+
+Benjamin Richard (Orange/ IRISA Rennes)
+
+Foteini Baldimtsi (Boston University)
+
+Jan Camenisch (IBM Zurich)
+
+Maria Dubovitskaya (IBM Zurich)
+
+Anna Lysyanskaya (Brown University)
+
+Leo Reyzin (Boston University)
+
+Kai Samelin (IBM Zurich)
+
+Sophia Yakoubov (Boston University)
+
+Giuseppe Ateniese (Stevens Institute of Technology)
+
+Bernardo Magri (Sapienza University of Rome)
+
+Daniele Venturi (University of Trento)
+
+Ewerton Andrade (University of São Paulo)
+
+Maciej Korczynski (Delft University of Technology)
+
+Samaneh Tajalizadehkhoob (Delft University of Technology)
+
+Arman Noroozian (Delft University of Technology)
+
+Maarten Wullink (SIDN Labs)
+
+Cristian Hesselman (SIDN Labs)
+
+Michel van Eeten (Delft University of Technology)
+
+Hyunwook Hong (KAIST)
+
+Hyunwoo Choi (KAIST)
+
+Dongkwan Kim (KAIST)
+
+Hongil Kim (KAIST)
+
+Byeongdo Hong (KAIST)
+
+Jiseong Noh (KAIST)
+
+Yongdae Kim (KAIST)
+
+Joel Alwen (IST Austria)
+
+Jeremiah Blocki (Purdue University)
+
+Merve Sahin (Eurecom)
+
+Aurélien Francillon (Eurecom)
+
+Payas Gupta (New York University Abu Dhabi)
+
+Mustaque Ahamad (Georgia Institute of Technology)
+
+Jonathan Katz (University of Maryland)
+
+Charalampos Papamanthou (University of Maryland)
+
+Yupeng Zhang (University of Maryland)
+
+Genevieve Gebhart (University of Washington Information School)
+
+Tadayoshi Kohno (University of Washington Computer Science &amp; Engineering)
+
+Anonymous)
+
+Siqi Zhao (Singapore Management University)
+
+Xuhua Ding (Singapore Management University)
+
+Avinash Sudhodanan (Fondazione Bruno Kessler)
+
+Nicolas Dolgin (SAP Labs France)
+
+Roberto Carbone (Fondazione Bruno Kessler)
+
+Umberto Morelli (Fondazione Bruno Kessler)
+
+Luca Compagna (SAP Labs France)
+
+Alessandro Armando (Fondazione Bruno Kessler)
+
+
+cfw.php
+************************************
+Names (Organization) Location
+
+
+committee-steering.php
+************************************
+Names (Organization) Location
+
+Michael Backes (CISPA, Saarland University & MPI-SWS) Germany
+
+Gilles Barthe (IMDEA Software Institute) Spain
+
+Virgil Gligor (Cylab, Carnegie Mellon University) USA
+
+Patrick McDaniel (Pennsylvania State University) USA
+
+Adrian Perrig (ETH Zurich) Switzerland
+
+Bart Preneel (KU Leuven) Belgium
+
+
+committee-program.php
+************************************
+Names (Organization) Location
+
+Andrei Sabelfeld (Chalmers University of Technology)
+
+Matthew Smith (University of Bonn & Fraunhofer FKIE)
+
+Michael Backes (CISPA, Saarland University & MPI-SWS)
+
+Gilles Barthe (IMDEA)
+
+David Basin (ETH Zurich)
+
+Dan Boneh (Stanford)
+
+Srdjan Capkun (ETH Zurich)
+
+Marc Dacier (QCRI/HBKU)
+
+George Danezis (University College London)
+
+Sergej Dechand (University of Bonn)
+
+Sascha Fahl (CISPA, Saarland University)
+
+Dario Fiore (IMDEA)
+
+Simone Fischer-Hübner (Karlstad University)
+
+Pierre-Alain Fouque (Rennes University & Institut Universitaire de France)
+
+Deepak Garg (MPI-SWS)
+
+Virgil Gligor (Carnegie Mellon University)
+
+Joshua Guttman (WPI & MITRE)
+
+Mike Just (Heriot-Watt University)
+
+Jonathan Katz (University of Maryland)
+
+Yongdae Kim (KAIST)
+
+Engin Kirda (Northeastern University)
+
+Steve Kremer (LORIA)
+
+Peeter Laud (Cybernetica)
+
+Sebastian Lekies (Google)
+
+Ninghui Li (Purdue University)
+
+Ben Livshits (Microsoft Research)
+
+Jean-Yves Marion (LORIA & Lorraine University)
+
+Michelle Mazurek (University of Maryland)
+
+Jonathan McCune (Google)
+
+Patrick McDaniel (Penn State University)
+
+Greg Morrisett (Cornell University)
+
+Toby Murray (University of Melbourne)
+
+Nick Nikiforakis (Stony Brook University)
+
+Panos Papadimitratos (Royal Institute of Technology)
+
+Ioannis Papagiannis (Facebook)
+
+Olivier Pereira (UCLouvain)
+
+Frank Piessens (KU Leuven)
+
+Christina Poepper (New York University Abu Dhabi)
+
+Georgios Portokalidis (Stevens Institute of Technology)
+
+Bart Preneel (KU Leuven)
+
+Delphine Reinhardt (University of Bonn & Fraunhofer FKIE)
+
+Reza Shokri (Cornell Tech)
+
+Frank Stajano (University of Cambridge)
+
+Francois-Xavier Standaert (UCLouvain)
+
+Deian Stefan (UCSD & Intrinsic)
+
+Vanessa Teague (University of Melbourne)
+
+Nikos Triandopoulos (Boston University & Stevens Institute of Technology)
+
+Blase Ur (CMU & University of Chicago)
+
+Hoeteck Wee (ENS)
+
+Kehuan Zhang (Chinese University of Hong Kong)
+
+Emanuel von Zezschwitz (Ludwig Maximilian University of Munich)
+
+
+committee-organizing.php
+************************************
+Names (Organization) Location
+
+Cătălin Hriţcu (Inria Paris)
+
+Andrei Sabelfeld (Chalmers University of Technology)
+
+Matthew Smith (University of Bonn)
+
+Bruno Blanchet (Inria Paris)
+
+Karthikeyan Bhargavan (Inria Paris)
+
+Patrick McDaniel (Pennsylvania State University)
+
+Christian Rossow (CISPA) Saarland University
+
+Ben Stock (CISPA) Saarland University
+
+Ashley Podhradsky (Dakota State University)
+
+Pierre-Evariste Dagand (UPMC and CNRS)
+
+Benjamin Beurdouche (Inria Paris)
+
+Harry Halpin (Inria Paris)
+
+Jean-Karim Zinzindohoué (Inria Paris)
+
+Website Admin (Guido Martínez)
+
+Inria Paris (Nadim Kobeissi (Inria Paris)
+
+Gaëtan Leurent (Inria Paris)
+
+Tamara Rezk (Inria Sophia Antipolis)
+
+Marco Stronati (Inria Paris)
+
+Benjamin Smith (Inria Saclay)
+
+
+EuroSP2016
+************************************
+committee-steering.php
+************************************
+Names (Organization) Location
+
+Michael Backes (CISPA, Saarland University & MPI-SWS) Germany
+
+Gilles Barthe (IMDEA Software Institute) Spain
+
+Virgil Gligor (Cylab, Carnegie Mellon University) USA
+
+Patrick McDaniel (Pennsylvania State University) USA
+
+Adrian Perrig (ETH Zurich) Switzerland
+
+Bart Preneel (KU Leuven) Belgium
+
+
+committee-program.php
+************************************
+Names (Organization) Location
+
+Program Chair (Michael Backes)
+
+Gilles Barthe (IMDEA)
+
+David Basin (ETH Zurich)
+
+Dan Boneh (Stanford)
+
+Herbert Bos (Vrije Universiteit Amsterdam)
+
+Lionel Briand (SnT Luxembourg)
+
+Sven Bugiel (CISPA, Saarland University)
+
+Christian Cachin (IBM Research - Zurich)
+
+Stephen Chong (Harvard)
+
+Véronique Cortier (CNRS, Loria - Nancy)
+
+Marc Dacier (QCRI)
+
+George Danezis (University College London)
+
+Anupam Datta (CMU)
+
+Ulfar Erlingsson (Google)
+
+Dario Fiore (IMDEA)
+
+Philip Fong (U Calgary)
+
+Michael Franz (UC Irvine)
+
+Virgil Gligor (Carnegie Mellon University)
+
+Amir Herzberg (Bar-Ilan University)
+
+Thorsten Holz (Ruhr-University Bochum)
+
+Jean-Pierre Hubaux (EPFL)
+
+Trent Jager (Penn State University)
+
+Jonathan Katz (University of Maryland)
+
+Yongdae Kim (KAIST)
+
+Engin Kirda (Northeastern University)
+
+Christopher Kruegel (UC Santa Barbara)
+
+Wenke Lee (Georgia Tech)
+
+Ninghui Li (Purdue University)
+
+Jean-Yves Marion (LORIA)
+
+Michelle Mazurek (University of Maryland)
+
+Jonathan McCune (Google)
+
+Patrick McDaniel (Penn State University)
+
+Andrew C. Myers (Cornell University)
+
+Bryan Parno (Microsoft Research)
+
+Olivier Pereira (UC de Louvaine)
+
+Frank Piessens (KU Leuven)
+
+Christina Poepper (RU Bochum)
+
+Bart Preneel (KU Leuven)
+
+Raphael Reischuk (ETH Zurich)
+
+Konrad Rieck (Goettingen University)
+
+Christian Rossow (CISPA, Saarland University)
+
+Mark Ryan (University of Birmingham)
+
+Andrei Sabelfeld (Chalmers University of Technology)
+
+Ahmad-Reza Sadeghi (TU Darmstadt)
+
+Haya Shulman (TU Darmstadt)
+
+Matthew Smith (University of Bonn)
+
+Kurt Thomas (Google)
+
+Patrick Traynor (University of Florida)
+
+Nikolaos Triandopoulos (RSA Security)
+
+Gene Tsudik (UC Irvine)
+
+Dominique Unruh (Tartu University)
+
+Giovanni Vigna (UC Santa Barbara)
+
+Kehuan Zhang (Chinese University of Hong Kong)
+
+
+committee-organizing.php
+************************************
+Names (Organization) Location
+
+Andreas Zeller (CISPA, Saarland University) Germany
+
+Sebastian Gerling (CISPA, Saarland University) Germany
+
+Ben Stock (CISPA, Saarland University) Germany
+
+Patrick D. McDaniel (Pennsylvania State University)
+
+Christian Rossow (CISPA, Saarland University)
+
+Sabine Nermerich (CISPA, Saarland University)
+
+Gordon Bolduan (CISPA, Saarland University)
+
+Thorsten Holz (Ruhr-University Bochum)
+
+Matthew Smith (Bonn University)
+
+Pascal Berrang (CISPA, Saarland University)
+
+
+************************************
+http://www.ieee-security.org/TC/EuroSP2019/
+http://www.ieee-security.org/TC/EuroSP2018/
+http://www.ieee-security.org/TC/EuroSP2017/
+http://www.ieee-security.org/TC/EuroSP2016/
+************************************
