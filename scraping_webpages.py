@@ -1,19 +1,23 @@
 import sys
 import requests
 import re
-import nltk
 from bs4 import BeautifulSoup
-from nltk.corpus import wordnet
-from itertools import groupby
-from nltk.tree import Tree
 
 def make_soup(url):
+    """
+    Use requests and BeautifulSoup 4 library to turn the parameter 
+    URL into and return HTML code in BeautifulSoup format.
+    """
     html = requests.get(url) #Creat html file by url
     html.encoding = 'utf-8'
     soup = BeautifulSoup(html.text, 'html5lib')
     return soup
 
-def get_link(soup): #return all html code in navigation bar as a list
+def get_link(soup): 
+    """
+    Use parameter soup find and return all html code in navigation 
+    bar as a list.
+    """
     links = []
     re_nav = re.compile('^nav')
     if (soup.find_all(re_nav) != []):
@@ -22,19 +26,22 @@ def get_link(soup): #return all html code in navigation bar as a list
             a = nav.find_all('a') #Find all 'a' tag
             for link in a:
                 if (link not in links):
-                    # print(link.get('href')) #Print all link
                     links.append(link)
     else:
         for nav in soup.find_all(class_=re_nav):
             a = nav.find_all('a') #Find all 'a' tag
             for link in a:
                 if (link not in links):
-                    # print(link.get('href')) #Print all link
                     links.append(link)
     
     return links
 
 def get_pages(links):
+    """
+    Use parameter links list to find all links in the navigation 
+    bar that may contain links to people's names, and return a 
+    list containing these links.
+    """
     pages=[]
     for i in links:
         if (i.find(text=re.compile('[Pp]revious')) == None and\
@@ -44,13 +51,16 @@ def get_pages(links):
     if (links == []):# For ACM CCS 2017
         pages = ['posters.html', 'agenda.html', 'progcommittee.html', 
         'orgcommittee.html', 'accepted-posters-demo.html', 'awards.html']
-    pages = list(set(pages))
+    pages = sorted(set(pages),key=pages.index)
     return pages
 
 def get_previous_years(links, url):
+    """
+    Use the parameters links list and URL to find all the conference's 
+    earlier conference websites.
+    """
     pages = []
     for i in links:
-        # print(i)
         if (i.find(text=re.compile('[Pp]revious')) != None or\
              i.find(text=re.compile('\d{4}')) != None or \
                  i.find(text=re.compile('[Pp]ast\s[Cc]onference[s*]')) != None):
@@ -74,6 +84,9 @@ def get_previous_years(links, url):
     return pages
 
 def get_names(url):
+    """
+    Use the parameter URL to print all the names and information in the URL page
+    """
     soup = make_soup(url)
     year_re = re.compile('\d{4}')
     if ('steering' in url and 'sigsac' not in url):
@@ -87,7 +100,6 @@ def get_names(url):
                 org = org[:-1]
             location = info.split()[-1]
             print(name + ' (' + org + ') ' + location + '\n')
-            # print("===================================")
         return None
     
     if ('shadowpc' in url):
@@ -125,12 +137,8 @@ def get_names(url):
                     else:
                         i = i.replace(', ', '\n\n')
                     print(i + '\n')
-                    # print("===================================")
         return None
     
-    # if ('program-committee' in url or 'organizing-committee' in url or \
-    #     'call-for-posters' in url or 'program-2' in url or \
-    #         'accepted-papers' in url):
     if ('sigsac' in url):
         r_pa_ar = '\[[Paper, Artifact]*\]'
         ps = soup.find_all('p', class_='', style='')
@@ -160,7 +168,6 @@ def get_names(url):
             ps = soup.find_all('em', class_='', style='')
         if ('2016/agenda' in url):
             ps = soup.find_all('span', class_='authors')
-        # print(ps)
         count = 0
         for p in ps:
             if (p != ''):
@@ -169,7 +176,6 @@ def get_names(url):
                 info = ''
             name_list = []
             if ('2017/accepted-posters-demo' in url):
-                # r = '<b>[\w, \s, \?, \:, \-, \(, \)]*<\/b>'
                 r = '<br\/>[\w, \s, \(, \), \-]*<br\/>'
                 p = ' '.join(str(p).split())
                 db = re.findall(r, p)
@@ -182,18 +188,20 @@ def get_names(url):
                     new_i = i.replace(', and ', ', ')
                     new_i = new_i.replace(' and ', ', ')
                     name_list[name_list.index(i)] = new_i
-                    # name_list[name_list.index(i)] = new_i.replace('), ', ')\n\n')
                 for i in name_list:
                     if ('), ' in i):
                         new_i = i.replace('), ', ')), ')
                         sub_list = new_i.split('), ')
                         for sub in sub_list:
-                            sub_list[sub_list.index(sub)] = '\n\n' + sub[:sub.find('(')].replace(', ', sub[sub.find('(')-1:] + '\n\n') + sub[sub.find('('):]
+                            sub_list[sub_list.index(sub)] = '\n\n' + \
+                                sub[:sub.find('(')].replace(', ', \
+                                    sub[sub.find('(')-1:] + '\n\n') + \
+                                        sub[sub.find('('):]
                         name_list[name_list.index(i)] =''.join(sub_list)
                     else:
-                        name_list[name_list.index(i)] = i[:i.find('(')].replace(', ', i[i.find('(')-1:] + '\n\n') + i[i.find('('):]
-
-                # print(name_list)
+                        name_list[name_list.index(i)] = i[:i.find('(')].\
+                            replace(', ', i[i.find('(')-1:] + '\n\n') + \
+                                i[i.find('('):]
                 
             if ('CCS2018/cfposters/' in url):
                 info = str(p)
@@ -202,8 +210,6 @@ def get_names(url):
                 info = info.replace(', ', ' (')
                 if (info[-1] != ')'):
                     info += ')'
-                # info = info.replace('\n', ')\n')
-                # print("===================================")
             if ('accepted/papers/' in url or '2016/awards' in url):
                 if(count % 2 ==  0):
                     info = ''
@@ -234,9 +240,7 @@ def get_names(url):
                     info = info.replace(', ', '\n\n')
                 else:
                     if ('2016/organizing-committee' in url or '2016/program-committee' in url):
-                        # info = info.replace('\n', '\n\n')
                         tem_list = info.split('\n')
-                        # print(tem_list)
                         for i in tem_list:
                             if ('' != i and ',' in i):
                                 name = i[:i.find(',')].strip()
@@ -250,7 +254,6 @@ def get_names(url):
                         org = info[1].strip()
                         loc = ' '.join(info[2:]).strip()
                         info = name + ' (' + org + ') ' + loc
-                        # print("===================================")
             if (',' in info and re.findall(r, info) != []):
                 if (';' in info):
                     name_list = info.split(';')
@@ -279,8 +282,6 @@ def get_names(url):
             if (info == ''):
                 None
             elif (name_list == []):
-                # if ('CCS2018/cfposters/' not in url):
-                #     info = info.replace('\n', '')
                 info = info.strip()
                 if (re.findall(r_pa_ar, info) != []):
                     for i in re.findall(r_pa_ar, info):
@@ -294,10 +295,8 @@ def get_names(url):
                         print(info)
                 else:
                     print(info + '\n')
-                # print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
             else:
                 for name in name_list:
-                    # name = name.replace('\n', '')
                     name = name.strip()
                     if (name != '' and name != '\n'):
                         if (re.findall(r_pa_ar, name) != []):
@@ -307,15 +306,11 @@ def get_names(url):
                             name = name[:name.find('(')].replace(', ', \
                                 name[name.find('(')-1:] + '\n\n') + name[name.find('('):]
                         print(name + '\n')
-                        # print("===================================")
-            # print(count)
-            # print("===================================")
         return None
 
     if ('accepted' in url or 'program-papers' in url or 'program' == \
         url[url.rfind('/')+1:url.rfind('.')] or 'program-posters' in url or 'program-shorttalks' in url):
         na = soup.find_all('p', class_='', style='')
-        # print("===================================")
         if ('program' not in url):
             for i in na:
                 if (url[-3:] == 'php'):
@@ -371,7 +366,6 @@ def get_names(url):
                         i = i[:i.find('(')].replace(', ', i[i.find('(')-1:] + '\n\n')\
                             + i[i.find('('):]
                         print(i + '\n')
-                        # print("===================================")
             else:
                 brs = soup.find_all('div', class_='list-group-item')
                 for br in brs:
@@ -379,7 +373,6 @@ def get_names(url):
                     if (re.findall('<br/>.*</div>', info) != []):
                         tag = re.findall('<br/>.*</div>', info)[0]
                         if (re.findall(r'(\s*)\w*\:', tag)):
-                            # print(tag + '\n')
                             tag = re.sub(r'<[^>]*>(\s*)\w*\:', ' ', tag).lstrip()
                             tag = tag.replace(', ', ' (')
                             tag = tag.replace('<br/>', '), ')
@@ -391,7 +384,6 @@ def get_names(url):
                             for t in tem:
                                 index = tag.find(t)
                                 tag = tag.replace(t, t[:-1])
-                            # print("===================================")
                         r = '\([\w,\s,&amp;]+(\([^\)]+\)\sand\s)[\w,\s,\(,\)]+\)'
                         if (re.findall(r, tag) != []):
                             tem = re.findall(r, tag)
@@ -436,11 +428,9 @@ def get_names(url):
                                     None
                                 else:
                                     print(i + '\n')
-                                # print("===================================")
         return None
     
     if ('2016/committee-organizing' in url):
-        # print("===================================")
         body = soup.select('tr')
         if (body == []):
             body = soup.find_all('div', class_='list-group-item')
@@ -449,7 +439,6 @@ def get_names(url):
         for b in body:
             if ('Members' in b.text):
                 ct=1
-                # break
             elif (ct == 0):
                 if (b.text != '\n'):
                     if ('2016/committee-organizing' in url):
@@ -492,17 +481,13 @@ def get_names(url):
                     count=0
         return None
 
-    # title = soup.find('h1')
-    # print('Title: ' + title.text + '\n')
     body = soup.select('td')
     count=0
     uni_re = re.compile('[Uu]niversity')
-    # print("===================================")
     for i in body:
         info = ' '.join(i.text.split())
         if ('Chairs' in info or 'Members' in info or 'Chair' in info or 'Organizers' in info\
             or 'Treasurer' in info or 'TBD' in info or 'Admin' in info):
-            # print('Position: ' + info)
             count=0
         elif (info == ''):
             count=0
@@ -532,9 +517,13 @@ def get_names(url):
             else:
                 print(info + ')\n')
             count=0
-        # print("===================================")
 
 def crawl_site(url, links):
+    """
+    Use parameters URL and links to determine whether the link in the 
+    links contains people's name. If it contains people's name, 
+    call get_names to get the name and information on the page.
+    """
     name = ['accepted', 'cfw', 'committee-steering', \
         'committee-program', 'committee-organizing', 'workshops', \
             'program', 'program-papers', 'program-posters', \
@@ -550,7 +539,6 @@ def crawl_site(url, links):
         url = url[:url.rfind('/')+1]
     for link in links:
         page_name = link[:link.find('.')]
-        # print(link)
         if ('sigsac' in url and 'index' == link[link.rfind('/')+1:link.rfind('.')]):
             if ('/' not in link):
                 page_name = link
@@ -559,40 +547,33 @@ def crawl_site(url, links):
                 if (link[:3] == './'):
                     link = link[2:]
         if ('sigsac' in url and 'CCS2020' not in url and link != '' and '#' not in link):
-            # print(link)
             if ('https' not in link and '.' in link and '/' not in link):
                 page_name = link[:link.find('.')]
             else:
                 page_name = link.split('/')[-2]
-            # print(link.split('/'))
         if (link[:2] == './'):
             link = link[2:]
-        # print(link)
         if (page_name in name or 'workshops' in link):
-            print(link + '----------' + page_name)
-            print(url + link)
-            print('************************************')
-            print('Names (Organization) Location' + '\n')
             if (link == './workshops.html'):
                 get_names(url + 'workshops.html')
-                print()
             elif ('https' == link[:link.find(':')]):
                 get_names(link)
             else:
                 get_names(url + link)
-                print()
 
 def crawl_conferences(url):
+    """
+    Call the above method to crawl all the names and information 
+    of the parameter URL this year and previous years.
+    """
     soup = make_soup(url)
     links_html = get_link(soup)
     links = get_pages(links_html)
-    
-    # for link in links:
-    #     print(link)
-    # print('\n\n')
 
+    print('************************************')
     print(re.findall('[A-Za-z]{2,6}\d{4}', url)[0])
     print('************************************')
+    # print('Names (Organization) Location' + '\n')
     crawl_site(url, links)
 
     # crawl previous years
@@ -601,14 +582,11 @@ def crawl_conferences(url):
         soup = make_soup(url)
         links_html = get_link(soup)
         links = get_pages(links_html)
+        print('************************************')
         print(re.findall('[A-Za-z]{2,6}\d{4}', url)[0])
         print('************************************')
+        # print('Names (Organization) Location' + '\n')
         crawl_site(url, links)
-
-    print('************************************')
-    for link in previous_years:
-        print(link)
-    print('************************************')
 
 if __name__ == '__main__':
     conferences_urls = ["http://www.ieee-security.org/TC/EuroSP2020/", 
@@ -616,7 +594,3 @@ if __name__ == '__main__':
     "https://www.sigsac.org/ccs/CCS2020/index.html"]
     for url in conferences_urls:
         crawl_conferences(url)
-
-    # For test separate page
-    # url = "http://www.ieee-security.org/TC/SP2020/"
-    # crawl_conferences(url)
