@@ -36,3 +36,5 @@ recent version of Debian or Ubuntu Linux : `apt-get install python3-bs4`
 (In terminal)
 `analysis.py`: `python3 analysis.py` `txt/csv` (Optional arguments) -> creat txt or csv file, if no argument start analyze the data
 
+# License Information
+Copyright (c) 2020 Wenbo Shi
