@@ -221,6 +221,7 @@ def get_names(url):
                 info = info.replace(') and ', '), ')
                 info = info.replace(') ', '), ')
                 info = info.replace('; ', ' (), ')
+                info = info.replace(',\xa0', ',')
                 r = '\([^\)]*\)'
                 if (re.findall(r, info) == [] and info != '' and info != ' '):
                     info += ' ()'

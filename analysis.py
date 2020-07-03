@@ -51,4 +51,23 @@ if __name__ == '__main__':
     else:
         print('hello World')
         print('The rest is for data analysis')
+
+        file = os.popen('python3 scraping_webpages.py')
+        lines = file.read()
+        lines = lines.split('\n')
+        name = ''
+        name_list = []
+
+        for line in lines:
+            if (line != ''):
+                if ('(' in line):
+                    name = line[:line.find('(')].strip()
+                else:
+                    name = line.strip()
+                if (name not in name_list):
+                    name_list.append(name)
+                else:
+                    print('same')
+
+        print(name_list)
         
