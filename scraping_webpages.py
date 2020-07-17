@@ -220,8 +220,11 @@ def get_names(url):
                 info = info.replace(' and ', ', ')
                 info = info.replace(') and ', '), ')
                 info = info.replace(') ', '), ')
+                info = info.replace('&nbsp;(', ' (')
                 info = info.replace('; ', ' (), ')
                 info = info.replace(',\xa0', ',')
+                info = info.replace('\xa0', '')
+                info = info.replace(' ,', ', ')
                 r = '\([^\)]*\)'
                 if (re.findall(r, info) == [] and info != '' and info != ' '):
                     info += ' ()'
@@ -429,6 +432,7 @@ def get_names(url):
                                     None
                                 else:
                                     print(i + '\n')
+                                # print('+++++++++++++++++++++++++++++++++++++++++')
         return None
     
     if ('2016/committee-organizing' in url):
