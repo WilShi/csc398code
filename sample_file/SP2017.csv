@@ -1,897 +1,897 @@
-Name,Organization,Location
-Reza Shokri,(Cornell Tech),
-Marco Stronati,(INRIA),
-Congzheng Song,(Cornell),
-Vitaly Shmatikov,(Cornell Tech),
-Payman Mohassel,(Visa Research),
-Yupeng Zhang,(University of Maryland),
-Nicholas Carlini,"(University of California, Berkeley)",
-David Wagner,"(University of California, Berkeley)",
-Adam Smith,(Pennsylvania State University),
-Abhradeep Thakurta,(University of California Santa Cruz),
-Jalaj Upadhyay,(Pennsylvania State University),
-Mathias Lecuyer,(Columbia University),
-Riley Spahn,(Columbia University),
-Roxana Geambasu,(Columbia University),
-Tzu-Kuo Huang,(Uber Advanced Technologies Group),
-Siddhartha Sen,(Microsoft Research),
-Cormac Herley,"(Microsoft Research, USA)",
-Paul C. van Oorschot,"(Carleton University, Canada)",
-Felix Fischer,"(AISEC, Fraunhofer)",
-Konstantin Böttinger,"(AISEC, Fraunhofer)",
-Huang Xiao,"(AISEC, Fraunhofer)",
-Christian Stransky,"(CISPA, Saarland University)",
-Yasemin Acar,"(CISPA, Saarland University)",
-Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",
-Sascha Fahl,"(CISPA, Saarland University)",
-Ruba Abu-Salma UK),,
-M. Angela Sasse UK),,
-Joseph Bonneau USA),,
-Anastasia Danilova,"(University of Bonn, Germany)",
-Alena Naiakshina,"(University of Bonn, Germany)",
-Matthew Smith,"(University of Bonn, Germany)",
-Yasemin Acar,"(CISPA, Saarland University)",
-Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",
-Sascha Fahl,"(CISPA, Saarland University)",
-Simson Garfinkel,"(National Institute of Standards, Technology)",
-Doowon Kim,(University of Maryland),
-Michelle Mazurek,(University of Maryland),
-Christian Stransky,"(CISPA, Saarland University)",
-Benjamin Fuller,(University of Connecticut),
-Mayank Varia,(Boston University),
-Arkady Yerukhimovich,(MIT Lincoln Laboratory),
-Emily Shen,(MIT Lincoln Laboratory),
-Ariel Hamlin,(MIT Lincoln Laboratory),
-Vijay Gadepally,(MIT Lincoln Laboratory),
-Richard Shay,(MIT Lincoln Laboratory),
-John Darby Mitchell,(MIT Lincoln Laboratory),
-Robert K. Cunningham,(MIT Lincoln Laboratory),
-Eyal Ronen,(Weizmann Institute of Science),
-Colin O’Flynn,(Dalhousie University),
-Adi Shamir,(Weizmann Institute of Science),
-Achi-Or Weingarten,(Weizmann Institute of Science),
-Jens Müller,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",
-Vladislav Mladenov,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",
-Juraj Somorovsky,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",
-Jörg Schwenk,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",
-Moritz Contag,(Ruhr University Bochum),
-Guo Li,"(University of California, San Diego)",
-Andre Pawlowski,(Ruhr University Bochum),
-Felix Domke,(),
-Kirill Levchenko,"(University of California, San Diego)",
-Thorsten Holz,(Ruhr University Bochum),
-Stefan Savage,"(University of California, San Diego)",
-Nethanel Gelernter,(Cyberpion &amp; The College of Management Academic Studies),
-Senia Kalma,(The College of Management Academic Studies),
-Bar Magnezi,(The College of Management Academic Studies),
-Hen Porcilan,(The College of Management Academic Studies),
-Davide Quarta,(Politecnico di Milano),
-Marcello Pogliani,(Politecnico di Milano),
-Mario Polino,(Politecnico di Milano),
-Federico Maggi,(Trend Micro Inc.),
-Andrea Maria Zanchettin,(Politecnico di Milano),
-Stefano Zanero,(Politecnico di Milano),
-Abraham A Clements,"(Purdue, Sandia National Labs)",
-Naif Saleh Almakhdhub,(Purdue),
-Khaled Saab,(Georgia Institute of Technology),
-Prashast Srivastava,(Purdue),
-Jinkyu Koo,(Purdue),
-Saurabh Bagchi,(Purdue),
-Mathias Payer,(Purdue),
-Yaohui Chen,(Stony Brook University),
-Dongli Zhang,(Stony Brook University),
-Ruowen Wang,(Samsung Research America),
-Rui Qiao,(Stony Brook University),
-Ahmed M. Azab,(Samsung Research America),
-Long Lu,(Stony Brook University),
-Hayawardh Vijayakumar,(Samsung Research America),
-Wenbo Shen,(Samsung Research America),
-Kiron Lebeck,(University of Washington),
-Kimberly Ruth,(University of Washington),
-Tadayoshi Kohno,(University of Washington),
-Franziska Roesner,(University of Washington),
-Geumhwan Cho,(Sungkyunkwan University),
-Jun Ho Huh,"(Software R&amp;D Center, Samsung Electronics)",
-Junsung Cho,(Sungkyunkwan University),
-Seongyeol Oh,(Sungkyunkwan University),
-Youngbae Song,(Sungkyunkwan University),
-Hyoungshick Kim,(Sungkyunkwan University),
-Yunpeng Song,(Xi'an Jiaotong University),
-Zhongmin Cai,(Xi'an Jiaotong University),
-ZhiLi Zhang,(University of Minnesota),
-Maria Apostolaki,(ETH Zürich),
-Aviv Zohar,(Hebrew University),
-Laurent Vanbever,(ETH Zürich),
-Alin Tomescu,(MIT),
-Srinivas Devadas,(MIT),
-Stephanos Matsumoto,(Carnegie Mellon University/ETH Zurich),
-Raphael M. Reischuk,(ETH Zurich),
-Paul Pearce,(UC Berkeley),
-Roya Ensafi,(Princeton),
-Frank Li,(UC Berkeley),
-Nick Feamster,(Princeton),
-Vern Paxson,(UC Berkeley),
-Ewa Syta,(Trinity College),
-Philipp Jovanovic,(École Polytechnique Fédérale de Lausanne),
-Eleftherios Kokoris Kogias,(École Polytechnique Fédérale de Lausanne),
-Nicolas Gailly,(École Polytechnique Fédérale de Lausanne),
-Linus Gasser,(École Polytechnique Fédérale de Lausanne),
-Ismail Khoffi,(École Polytechnique Fédérale de Lausanne),
-Michael J. Fischer,(Yale University),
-Bryan Ford,(École Polytechnique Fédérale de Lausanne),
-Karthikeyan Bhargavan,(Inria Paris-Rocquencourt),
-Antoine Delignat-Lavaud,(Microsoft Research),
-Cédric Fournet,(Microsoft Research),
-Markulf Kohlweiss,(Microsoft Research),
-Jianyang Pan,(Inria Paris-Rocquencourt),
-Jonathan Protzenko,(Microsoft Research),
-Aseem Rastogi,(Microsoft Research),
-Nikhil Swamy,(Microsoft Research),
-Santiago Zanella-Béguelin,(Microsoft Research),
-Jean Karim Zinzindohoué,(Inria Paris-Rocquencourt),
-Karthikeyan Bhargavan,(INRIA),
-Bruno Blanchet,(INRIA),
-Nadim Kobeissi,(INRIA),
-Sze Yiu Chau,(Purdue University),
-Omar Chowdhury,(The University of Iowa),
-Endadul Hoque,(Purdue University),
-Huangyi Ge,(Purdue University),
-Aniket Kate,(Purdue University),
-Cristina Nita-Rotaru,(Northeastern University),
-Ninghui Li,(Purdue University),
-Suphannee Sivakorn,(Columbia University),
-George Argyros,(Columbia University),
-Kexin Pei,(Columbia University),
-Angelos D. Keromytis,(Columbia University),
-Suman Jana,(Columbia University),
-James Larisch,(Northeastern University),
-David Choffnes,(Northeastern University),
-Dave Levin,(University of Maryland),
-Bruce M. Maggs,"(Duke University, Akamai Technologies)",
-Alan Mislove,(Northeastern University),
-Christo Wilson,(Northeastern University),
-Fraser Brown,(Stanford University),
-Shravan Narayan,(UCSD),
-Riad S. Wahby,(Stanford University),
-Dawson Engler,(Stanford University),
-Ranjit Jhala,(UCSD),
-Deian Stefan,(UCSD),
-Junjie WANG,(Nanyang Technological University),
-Bihuan CHEN,(Nanyang Technological University),
-Lei WEI,(Nanyang Technological University),
-Yang LIU,(Nanyang Technological University),
-Seulbae Kim,(Korea University),
-Seunghoon Woo,(Korea University),
-Heejo Lee,(Korea University),
-Hakjoo Oh,(Korea University),
-Theofilos Petsios,(Columbia University),
-Adrian Tang,(Columbia University),
-Salvatore Stolfo,(Columbia University),
-Angelos D. Keromytis,(Columbia University),
-Suman Jana,(Columbia University),
-Sébastien Bardin,(CEA LIST),
-Robin David,(CEA LIST),
-Jean-Yves Marion,(LORIA),
-Paul Grubbs,(Cornell Tech),
-Kevin Sekniqi,(Cornell University),
-Vincent Bindschaedler,(UIUC),
-Muhammad Naveed,(USC),
-Tom Ristenpart,(Cornell Tech),
-Liang Wang,"(University of Wisconsin, Madison)",
-Paul Grubbs,(Cornell Tech),
-Jiahui Lu,(SJTU),
-Vincent Bindschaedler,(UIUC),
-David Cash,(Rutgers University),
-Thomas Ristenpart,(Cornell Tech),
-Mathias Vorreiter Pedersen,(Aarhus University),
-Aslan Askarov,(Aarhus University),
-Van Chan Ngo,(Carnegie Mellon University),
-Mario Dehesa-Azuara,(Carnegie Mellon University),
-Matthew Fredrikson,(Carnegie Mellon University),
-Jan Hoffmann,(Carnegie Mellon University),
-Thomas Bauereiß Bremeny),,
-Germany),,
-Armando Pesenti Gritti,"(Global NoticeBoard, UK)",
-Andrei Popescu,"(School of Science, Technology, Middlesex University, UK/Institute of Mathematics Simion Stoilow of the Romanian Academy)",
-Franco Raimondi,"(School of Science, Technology, Middlesex University, UK)",
-Hao Yang,(Tsinghua University),
-Xiulin Ma,(Tsinghua University),
-Kun Du,(Tsinghua University),
-Zhou Li,(IEEE Member),
-Haixin Duan,(Tsinghua University),
-Xiaodong Su,(Baidu Inc.),
-Guang Liu,(Baidu Inc.),
-Zhifeng Geng,(Baidu Inc.),
-Jianping Wu,(Tsinghua University),
-Brown Farinholt,(UC San Diego),
-Mohammad Rezaeirad,(GMU),
-Paul Pearce,(UC Berkeley),
-Hitesh Dharamdasani,(Informant Networks),
-Haikuo Yin,(UC San Diego),
-Stevens LeBlond,(MPI-SWS),
-Damon McCoy,(NYU),
-Kirill Levchenko,(UC San Diego),
-Chaz Lever,(Georgia Tech),
-Platon Kotzias,(IMDEA),
-Davide Balzarotti,(Eurecom),
-Juan Caballero,(IMDEA),
-Manos Antonakakis,(Georgia Tech),
-Sumayah Alrwais,(Indiana University at Bloomington),
-Xiaojing Liao,(Georgia Institute of Technology),
-Xianghang Mi,(Indiana University at Bloomington),
-Peng Wang,(Indiana University at Bloomington),
-XiaoFeng Wang,(Indiana University at Bloomington),
-Feng Qian,(Indiana University at Bloomington),
-Raheem Beyah,(Georgia Institute of Technology),
-Damon McCoy,(New York University),
-Tiffany Bao,(CMU),
-Ruoyu Wang,(UCSB),
-Yan Shoshitaishvili,(UCSB),
-David Brumley,(CMU),
-Toshinori Araki,(NEC),
-Assi Barak,(Bar-Ilan University),
-Jun Furukawa,(NEC),
-Tamar Lichter,(Queens College - CUNY),
-Yehuda Lindell,(Bar-Ilan University),
-Ariel Nof,(Bar-Ilan University),
-Kazuma Ohara,(NEC),
-Adi Watzman,(The Weizmann Institute of Science),
-Or Weinstein,(Bar-Ilan University),
-Yupeng Zhang,(University of Maryland),
-Daniel Genkin,(University of Maryland &amp; University of Pennsylvania),
-Jonathan Katz,(University of Maryland),
-Dimitrios Papadopoulos,(University of Maryland),
-Charalampos Papamanthou,(University of Maryland),
-Ralf Küsters,(University of Stuttgart),
-Daniel Rausch,(University of Stuttgart),
-Jan Camenisch,(IBM Research - Zurich),
-Liqun Chen,(University of Surrey),
-Manu Drijvers,"(IBM Research - Zurich, ETH Zurich)",
-Anja Lehmann,(IBM Research - Zurich),
-David Novick,(Intel),
-Rainer Urian,(Infineon),
-Dongpeng Xu,(The Pennsylvania State University),
-Jiang Ming,(University of Texas at Arlington),
-Dinghao Wu,(The Pennsylvania State University),
-Oleksii Starov,(Stony Brook University),
-Nick Nikiforakis,(Stony Brook University),
-Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",
-Pascal Berrang,"(CISPA, Saarland University)",
-Matthias Bieg ,,
-Roland Eils &amp; University of Heidelberg),,
-Carl Herrmann &amp; University of Heidelberg),,
-Mathias Humbert,"(CISPA, Saarland University)",
-Irina Lehmann,"(Helmholtz Centre for Environmental Research Leipzig - UFZ, Leipzig)",
-Yixin Sun,(Princeton University),
-Anne Edmundson,(Princeton University),
-Nick Feamster,(Princeton University),
-Mung Chiang,(Princeton University),
-Prateek Mittal,(Princeton University),
-Véronique Cortier,"(LORIA, CNRS &amp; Inria &amp; Université de Lorraine)",
-Constantin Cătalin Drăgan,"(LORIA, CNRS &amp; Inria)",
-François Dupressoir,(University of Surrey),
-Benedikt Schmidt,(IMDEA Software Institute),
-Pierre-Yves Strub,(École Polytechnique),
-Bogdan Warinschi,(University of Bristol),
-Najmeh Miramirkhani,(Stony Brook University),
-Mahathi Priya Appini,(Stony Brook University),
-Nick Nikiforakis,(Stony Brook University),
-Michalis Polychronakis,(Stony Brook University),
-Philipp Holzinger,(Fraunhofer SIT),
-Ben Hermann,(Technische Universität Darmstadt),
-Johannes Lerch,(Technische Universität Darmstadt),
-Eric Bodden,(Paderborn University &amp; Fraunhofer IEM),
-Mira Mezini,(Technische Universität Darmstadt),
-Yanick Fratantonio,(UC Santa Barbara),
-Chenxiong Qian,(Georgia Tech),
-Simon Chung,(Georgia Tech),
-Wenke Lee,(Georgia Tech),
-Katarzyna Olejnik,(Raytheon BBN Technologies),
-Italo Dacosta,(EPFL),
-Joana Machado,(EPFL),
-Ḱevin Huguenin,(UNIL),
-Mohammad Emtiyaz Khan RIKENo),,
-Tokyo),,
-Jean-Pierre Hubaux,(EPFL),
-Primal Wijesekera,(University of British Columbia),
-Arjun Baokar,"(University of California, Berkeley)",
-Lynn Tsai,"(University of California, Berkeley)",
-Joel Reardon,"(University of California, Berkeley)",
-Serge Egelman,"(University of California, Berkeley)",
-David Wagner,"(University of California, Berkeley)",
-Konstantin Beznosov,(University of British Columbia),
-Paul Dan Marinescu,(Facebook),
-Chad Parry,(Facebook),
-Marjori Pomarole,(Facebook),
-Yuan Tian,(CMU),
-Patrick Tague,(CMU),
-Ioannis Papagiannis,(Facebook),
-Ralf Küsters,(University of Stuttgart),
-Daniel Rausch,(University of Stuttgart),
-Chaz Lever,(Georgia Tech),
-Platon Kotzias,(IMDEA),
-Davide Balzarotti,(Eurecom),
-Juan Caballero,(IMDEA),
-Manos Antonakakis,(Georgia Tech),
-Davide Quarta,(Politecnico di Milano),
-Marcello Pogliani,(Politecnico di Milano),
-Mario Polino,(Politecnico di Milano),
-Federico Maggi,(Trend Micro Inc.),
-Andrea Maria Zanchettin,(Politecnico di Milano),
-Stefano Zanero,(Politecnico di Milano),
-Paul Pearce,(UC Berkeley),
-Roya Ensafi,(Princeton),
-Frank Li,(UC Berkeley),
-Nick Feamster,(Princeton),
-Vern Paxson,(UC Berkeley),
-Sébastien Bardin,(CEA LIST),
-Robin David,(CEA LIST),
-Jean-Yves Marion,(LORIA),
-James Larisch,(Northeastern University),
-David Choffnes,(Northeastern University),
-Dave Levin,(University of Maryland),
-Bruce M. Maggs,"(Duke University, Akamai Technologies)",
-Alan Mislove,(Northeastern University),
-Christo Wilson,(Northeastern University),
-Alin Tomescu,(MIT),
-Srinivas Devadas,(MIT),
-Yanick Fratantonio,(UC Santa Barbara),
-Chenxiong Qian,(Georgia Tech),
-Simon Chung,(Georgia Tech),
-Wenke Lee,(Georgia Tech),
-Thomas Bauereiß Bremeny),,
-Germany),,
-Armando Pesenti Gritti,"(Global NoticeBoard, UK)",
-Andrei Popescu,"(School of Science, Technology, Middlesex University, UK/Institute of Mathematics Simion Stoilow of the Romanian Academy)",
-Franco Raimondi,"(School of Science, Technology, Middlesex University, UK)",
-Yasemin Acar,"(CISPA, Saarland University)",
-Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",
-Sascha Fahl,"(CISPA, Saarland University)",
-Simson Garfinkel,"(National Institute of Standards, Technology)",
-Doowon Kim,(University of Maryland),
-Michelle Mazurek,(University of Maryland),
-Christian Stransky,"(CISPA, Saarland University)",
-Yixin Sun,(Princeton University),
-Anne Edmundson,(Princeton University),
-Nick Feamster,(Princeton University),
-Mung Chiang,(Princeton University),
-Prateek Mittal,(Princeton University),
-Dongpeng Xu,(The Pennsylvania State University),
-Jiang Ming,(University of Texas at Arlington),
-Dinghao Wu,(The Pennsylvania State University),
-Fraser Brown,(Stanford University),
-Shravan Narayan,(UCSD),
-Riad S. Wahby,(Stanford University),
-Dawson Engler,(Stanford University),
-Ranjit Jhala,(UCSD),
-Deian Stefan,(UCSD),
-Mathias Vorreiter Pedersen,(Aarhus University),
-Aslan Askarov,(Aarhus University),
-Suphannee Sivakorn,(Columbia University),
-George Argyros,(Columbia University),
-Kexin Pei,(Columbia University),
-Angelos D. Keromytis,(Columbia University),
-Suman Jana,(Columbia University),
-Philipp Holzinger,(Fraunhofer SIT),
-Ben Hermann,(Technische Universität Darmstadt),
-Johannes Lerch,(Technische Universität Darmstadt),
-Eric Bodden,(Paderborn University &amp; Fraunhofer IEM),
-Mira Mezini,(Technische Universität Darmstadt),
-Maria Apostolaki,(ETH Zürich),
-Aviv Zohar,(Hebrew University),
-Laurent Vanbever,(ETH Zürich),
-Moritz Contag,(Ruhr University Bochum),
-Guo Li,"(University of California, San Diego)",
-Andre Pawlowski,(Ruhr University Bochum),
-Felix Domke,(),
-Kirill Levchenko,"(University of California, San Diego)",
-Thorsten Holz,(Ruhr University Bochum),
-Stefan Savage,"(University of California, San Diego)",
-Hao Yang,(Tsinghua University),
-Xiulin Ma,(Tsinghua University),
-Kun Du,(Tsinghua University),
-Zhou Li,(IEEE Member),
-Haixin Duan,(Tsinghua University),
-Xiaodong Su,(Baidu Inc.),
-Guang Liu,(Baidu Inc.),
-Zhifeng Geng,(Baidu Inc.),
-Jianping Wu,(Tsinghua University),
-Stephanos Matsumoto,(Carnegie Mellon University/ETH Zurich),
-Raphael M. Reischuk,(ETH Zurich),
-Paul Dan Marinescu,(Facebook),
-Chad Parry,(Facebook),
-Marjori Pomarole,(Facebook),
-Yuan Tian,(CMU),
-Patrick Tague,(CMU),
-Ioannis Papagiannis,(Facebook),
-Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",
-Pascal Berrang,"(CISPA, Saarland University)",
-Matthias Bieg ,,
-Roland Eils &amp; University of Heidelberg),,
-Carl Herrmann &amp; University of Heidelberg),,
-Mathias Humbert,"(CISPA, Saarland University)",
-Irina Lehmann,"(Helmholtz Centre for Environmental Research Leipzig - UFZ, Leipzig)",
-Karthikeyan Bhargavan,(Inria Paris-Rocquencourt),
-Antoine Delignat-Lavaud,(Microsoft Research),
-Cédric Fournet,(Microsoft Research),
-Markulf Kohlweiss,(Microsoft Research),
-Jianyang Pan,(Inria Paris-Rocquencourt),
-Jonathan Protzenko,(Microsoft Research),
-Aseem Rastogi,(Microsoft Research),
-Nikhil Swamy,(Microsoft Research),
-Santiago Zanella-Béguelin,(Microsoft Research),
-Jean Karim Zinzindohoué,(Inria Paris-Rocquencourt),
-Eyal Ronen,(Weizmann Institute of Science),
-Colin O’Flynn,(Dalhousie University),
-Adi Shamir,(Weizmann Institute of Science),
-Achi-Or Weingarten,(Weizmann Institute of Science),
-Adam Smith,(Pennsylvania State University),
-Abhradeep Thakurta,(University of California Santa Cruz),
-Jalaj Upadhyay,(Pennsylvania State University),
-Paul Grubbs,(Cornell Tech),
-Kevin Sekniqi,(Cornell University),
-Vincent Bindschaedler,(UIUC),
-Muhammad Naveed,(USC),
-Tom Ristenpart,(Cornell Tech),
-Véronique Cortier,"(LORIA, CNRS &amp; Inria &amp; Université de Lorraine)",
-Constantin Cătalin Drăgan,"(LORIA, CNRS &amp; Inria)",
-François Dupressoir,(University of Surrey),
-Benedikt Schmidt,(IMDEA Software Institute),
-Pierre-Yves Strub,(École Polytechnique),
-Bogdan Warinschi,(University of Bristol),
-Reza Shokri,(Cornell Tech),
-Marco Stronati,(INRIA),
-Congzheng Song,(Cornell),
-Vitaly Shmatikov,(Cornell Tech),
-Yunpeng Song,(Xi'an Jiaotong University),
-Zhongmin Cai,(Xi'an Jiaotong University),
-ZhiLi Zhang,(University of Minnesota),
-Theofilos Petsios,(Columbia University),
-Adrian Tang,(Columbia University),
-Salvatore Stolfo,(Columbia University),
-Angelos D. Keromytis,(Columbia University),
-Suman Jana,(Columbia University),
-Yaohui Chen,(Stony Brook University),
-Dongli Zhang,(Stony Brook University),
-Ruowen Wang,(Samsung Research America),
-Rui Qiao,(Stony Brook University),
-Ahmed M. Azab,(Samsung Research America),
-Long Lu,(Stony Brook University),
-Hayawardh Vijayakumar,(Samsung Research America),
-Wenbo Shen,(Samsung Research America),
-Ruba Abu-Salma UK),,
-M. Angela Sasse UK),,
-Joseph Bonneau USA),,
-Anastasia Danilova,"(University of Bonn, Germany)",
-Alena Naiakshina,"(University of Bonn, Germany)",
-Matthew Smith,"(University of Bonn, Germany)",
-Jan Camenisch,(IBM Research - Zurich),
-Liqun Chen,(University of Surrey),
-Manu Drijvers,"(IBM Research - Zurich, ETH Zurich)",
-Anja Lehmann,(IBM Research - Zurich),
-David Novick,(Intel),
-Rainer Urian,(Infineon),
-Toshinori Araki,(NEC),
-Assi Barak,(Bar-Ilan University),
-Jun Furukawa,(NEC),
-Tamar Lichter,(Queens College - CUNY),
-Yehuda Lindell,(Bar-Ilan University),
-Ariel Nof,(Bar-Ilan University),
-Kazuma Ohara,(NEC),
-Adi Watzman,(The Weizmann Institute of Science),
-Or Weinstein,(Bar-Ilan University),
-Abraham A Clements,"(Purdue, Sandia National Labs)",
-Naif Saleh Almakhdhub,(Purdue),
-Khaled Saab,(Georgia Institute of Technology),
-Prashast Srivastava,(Purdue),
-Jinkyu Koo,(Purdue),
-Saurabh Bagchi,(Purdue),
-Mathias Payer,(Purdue),
-Mathias Lecuyer,(Columbia University),
-Riley Spahn,(Columbia University),
-Roxana Geambasu,(Columbia University),
-Tzu-Kuo Huang,(Uber Advanced Technologies Group),
-Siddhartha Sen,(Microsoft Research),
-Ewa Syta,(Trinity College),
-Philipp Jovanovic,(École Polytechnique Fédérale de Lausanne),
-Eleftherios Kokoris Kogias,(École Polytechnique Fédérale de Lausanne),
-Nicolas Gailly,(École Polytechnique Fédérale de Lausanne),
-Linus Gasser,(École Polytechnique Fédérale de Lausanne),
-Ismail Khoffi,(École Polytechnique Fédérale de Lausanne),
-Michael J. Fischer,(Yale University),
-Bryan Ford,(École Polytechnique Fédérale de Lausanne),
-Payman Mohassel,(Visa Research),
-Yupeng Zhang,(University of Maryland),
-Kiron Lebeck,(University of Washington),
-Kimberly Ruth,(University of Washington),
-Tadayoshi Kohno,(University of Washington),
-Franziska Roesner,(University of Washington),
-Liang Wang,"(University of Wisconsin, Madison)",
-Paul Grubbs,(Cornell Tech),
-Jiahui Lu,(SJTU),
-Vincent Bindschaedler,(UIUC),
-David Cash,(Rutgers University),
-Thomas Ristenpart,(Cornell Tech),
-Junjie WANG,(Nanyang Technological University),
-Bihuan CHEN,(Nanyang Technological University),
-Lei WEI,(Nanyang Technological University),
-Yang LIU,(Nanyang Technological University),
-Katarzyna Olejnik,(Raytheon BBN Technologies),
-Italo Dacosta,(EPFL),
-Joana Machado,(EPFL),
-Ḱevin Huguenin,(UNIL),
-Mohammad Emtiyaz Khan RIKENo),,
-Tokyo),,
-Jean-Pierre Hubaux,(EPFL),
-Benjamin Fuller,(University of Connecticut),
-Mayank Varia,(Boston University),
-Arkady Yerukhimovich,(MIT Lincoln Laboratory),
-Emily Shen,(MIT Lincoln Laboratory),
-Ariel Hamlin,(MIT Lincoln Laboratory),
-Vijay Gadepally,(MIT Lincoln Laboratory),
-Richard Shay,(MIT Lincoln Laboratory),
-John Darby Mitchell,(MIT Lincoln Laboratory),
-Robert K. Cunningham,(MIT Lincoln Laboratory),
-Jens Müller,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",
-Vladislav Mladenov,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",
-Juraj Somorovsky,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",
-Jörg Schwenk,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",
-Cormac Herley,"(Microsoft Research, USA)",
-Paul C. van Oorschot,"(Carleton University, Canada)",
-Najmeh Miramirkhani,(Stony Brook University),
-Mahathi Priya Appini,(Stony Brook University),
-Nick Nikiforakis,(Stony Brook University),
-Michalis Polychronakis,(Stony Brook University),
-Felix Fischer,"(AISEC, Fraunhofer)",
-Konstantin Böttinger,"(AISEC, Fraunhofer)",
-Huang Xiao,"(AISEC, Fraunhofer)",
-Christian Stransky,"(CISPA, Saarland University)",
-Yasemin Acar,"(CISPA, Saarland University)",
-Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",
-Sascha Fahl,"(CISPA, Saarland University)",
-Sze Yiu Chau,(Purdue University),
-Omar Chowdhury,(The University of Iowa),
-Endadul Hoque,(Purdue University),
-Huangyi Ge,(Purdue University),
-Aniket Kate,(Purdue University),
-Cristina Nita-Rotaru,(Northeastern University),
-Ninghui Li,(Purdue University),
-Geumhwan Cho,(Sungkyunkwan University),
-Jun Ho Huh,"(Software R&amp;D Center, Samsung Electronics)",
-Junsung Cho,(Sungkyunkwan University),
-Seongyeol Oh,(Sungkyunkwan University),
-Youngbae Song,(Sungkyunkwan University),
-Hyoungshick Kim,(Sungkyunkwan University),
-Primal Wijesekera,(University of British Columbia),
-Arjun Baokar,"(University of California, Berkeley)",
-Lynn Tsai,"(University of California, Berkeley)",
-Joel Reardon,"(University of California, Berkeley)",
-Serge Egelman,"(University of California, Berkeley)",
-David Wagner,"(University of California, Berkeley)",
-Konstantin Beznosov,(University of British Columbia),
-Nethanel Gelernter,(Cyberpion &amp; The College of Management Academic Studies),
-Senia Kalma,(The College of Management Academic Studies),
-Bar Magnezi,(The College of Management Academic Studies),
-Hen Porcilan,(The College of Management Academic Studies),
-Brown Farinholt,(UC San Diego),
-Mohammad Rezaeirad,(GMU),
-Paul Pearce,(UC Berkeley),
-Hitesh Dharamdasani,(Informant Networks),
-Haikuo Yin,(UC San Diego),
-Stevens LeBlond,(MPI-SWS),
-Damon McCoy,(NYU),
-Kirill Levchenko,(UC San Diego),
-Nicholas Carlini,"(University of California, Berkeley)",
-David Wagner,"(University of California, Berkeley)",
-Sumayah Alrwais,(Indiana University at Bloomington),
-Xiaojing Liao,(Georgia Institute of Technology),
-Xianghang Mi,(Indiana University at Bloomington),
-Peng Wang,(Indiana University at Bloomington),
-XiaoFeng Wang,(Indiana University at Bloomington),
-Feng Qian,(Indiana University at Bloomington),
-Raheem Beyah,(Georgia Institute of Technology),
-Damon McCoy,(New York University),
-Seulbae Kim,(Korea University),
-Seunghoon Woo,(Korea University),
-Heejo Lee,(Korea University),
-Hakjoo Oh,(Korea University),
-Karthikeyan Bhargavan,(INRIA),
-Bruno Blanchet,(INRIA),
-Nadim Kobeissi,(INRIA),
-Van Chan Ngo,(Carnegie Mellon University),
-Mario Dehesa-Azuara,(Carnegie Mellon University),
-Matthew Fredrikson,(Carnegie Mellon University),
-Jan Hoffmann,(Carnegie Mellon University),
-Oleksii Starov,(Stony Brook University),
-Nick Nikiforakis,(Stony Brook University),
-Tiffany Bao,(CMU),
-Ruoyu Wang,(UCSB),
-Yan Shoshitaishvili,(UCSB),
-David Brumley,(CMU),
-Yupeng Zhang,(University of Maryland),
-Daniel Genkin,(University of Maryland &amp; University of Pennsylvania),
-Jonathan Katz,(University of Maryland),
-Dimitrios Papadopoulos,(University of Maryland),
-Charalampos Papamanthou,(University of Maryland),
-Payap Sirinamht,,
-Mohsen Imaniht,,
-Matthew Wright,,
-Spyridoula Gravanill,,
-Zhuojia Shenll,,
-John Criswell,,
-Shuang Weian,,
-Yijing Dingan,,
-Tongxin Lian,,
-Shuaifu Daian,,
-Xinfeng Wuan,,
-Xinhui Han,,
-Yun Fengiu,,
-Chaoge Liuiu,,
-Baoxu Liu,,
-Jinli ZhangWu,,
-Junwei SuWu,,
-Di Wu,,
-Jie YinLi,,
-Xiang CuiLi,,
-Ke Li,,
-Jianbao Linia,,
-Chaoge Liuia,,
-Xiang Cuiia,,
-Zhaopeng Jia,,
-Brian Powellre,,
-Richa Singhre,,
-Mayank Vatsare,,
-Afzel Noore,,
-Huan Zhoung,,
-Qixu Liung,,
-Fangjiao Zhang,,
-Amiangshu Bosung,,
-Fang Liung,,
-Danfeng Yaong,,
-Gang Wang,,
-Zhitao Yanui,,
-Binxing Fangui,,
-Xiang Cui,,
-Yuji Suga,,
-Ethan Johnsonll,,
-Tianqin Zhaoll,,
-John Criswell,,
-Elham Vaziripourla,,
-Justin Wula,,
-Mark O'Neillla,,
-Ray Clintonla,,
-Jordan Whiteheadla,,
-Scott Heidbrinkla,,
-Kent Seamonsla,,
-Daniel Zappala,,
-Yash Sinhaia,,
-Siddharth Bhatia,,
-Junsung Choim,,
-Geumhwan Choim,,
-Sangwon Hyunim,,
-Hyoungshick Kim,,
-Di Wung,,
-Binxing Fangng,,
-Fangjiao Zhang,,
-Nicola Marianiro,,
-Andrea Continellaro,,
-Marcello Poglianiro,,
-Michele Carminatiro,,
-Federico Maggiro,,
-Stefano Zanero,,
-Yu Haoiu,,
-Xiaodong Zhangiu,,
-Zijiang Yangiu,,
-Ting Liu,,
-Abraham Clementser,,
-Naif Saleh Almakhdhuber,,
-Khaled S. Saaber,,
-Prashast Srivastavaer,,
-Jinkyu Kooer,,
-Saurabh Bagchier,,
-Mathias Payer,,
-Nicolas Papernotel,,
-Patrick McDaniel,,
-Marc Juarezht,,
-Rob Jansenht,,
-Rafael Galvezht,,
-Tariz Elahiht,,
-Claudia Diazht,,
-Matthew Wright,,
-Sunghwan Kimim,,
-Seunghyun Yoonim,,
-Hyuk Lim,,
-Mohsen Imaniht,,
-Armon Bartonht,,
-Matthew Wright,,
-Amirali Sanatiniair,,
-Guevara Noubir,,
-Celine Irveneah,,
-David Formbyah,,
-Samuel Litchfieldah,,
-Raheem Beyah,,
-Aniqua Basetng,,
-Tamara Denning,,
-Heyang Lvui,,
-Binxing Fangui,,
-Xiang Cui,,
-Seulbae KimOh,,
-Seunghoon WooOh,,
-Heejo LeeOh,,
-Hakjoo Oh,,
-Cristina Basescurd,,
-Eleftherios Kokoris-Kogiasrd,,
-Bryan Ford,,
-Kevin Rossao,,
-Melody Mohao,,
-Teng Mohao,,
-Jason Yao,,
-Ni Aner,,
-Vinod Mishraer,,
-Steven Weber,,
-Sovantharith Sengen,,
-Matthew Wrighten,,
-Mahdi Nasrullah Al-Ameen,,
-Armon Bartonht,,
-Mohsen Imaniht,,
-Jiang Minght,,
-Matthew Wright,,
-Ewa Sytard,,
-Philipp Jovanovicrd,,
-Eleftherios Kokoris Kogiasrd,,
-Nicolas Gaillyrd,,
-Linus Gasserrd,,
-Ismail Khoffird,,
-Michael J. Fischerrd,,
-Bryan Ford,,
-Fattaneh Bayatbabolghanich,,
-Marina Blantonch,,
-Mehrdad Aliasgarich,,
-Michael Goodrich,,
-Yan Jiang,,
-Yuqing Zhang,,
-Jianjun Zhaoiu,,
-Fangjiao Zhangiu,,
-Chaoge Liu,,
-Adam Doupena,,
-Giovanni Vigna,,
-Shih-Chieh Su,,
-Xiaoxi Wangiu,,
-Min Liiu,,
-Xiaoyun Liiu,,
-Qixu Liu,,
-Zhiheng Liuao,,
-Zhen Zhangao,,
-Shihao Jingao,,
-Zhaohan Xiao,,
-Yinzhi Cao,,
-Anupam Dattaen,,
-Matt Fredriksonen,,
-Gihyuk Koen,,
-Piotr Mardzielen,,
-Shayak Sen,,
-Esha Sharmaon,,
-Jessica Staddon,,
-Kovila P.L. Coopamootooss,,
-Thomas Gross,,
-Yu Fuks,,
-Lu Yuks,,
-Richard Brooks,,
-Anoop Singhal,,
-Raj Vardhanva,,
-Ameya Sanzgiriva,,
-Dattatraya Kulkarniva,,
-Srikanth Nalluriva,,
-Himanshu Srivastava,,
-Vikram Kapoor,,
-Miguel A. Arroyong,,
-Hidenori Kobayashing,,
-Simha Sethumadhavanng,,
-Junfeng Yang,,
-Sunjay Cauligila,,
-Gary Soellerla,,
-Ariana Mirianla,,
-Brian Johannesmeyerla,,
-Deian Stefanla,,
-Ranjit Jhala,,
-Fattaneh Bayatbabolghani,,
-Cynthia Irvineim,,
-Michael Thompsonim,,
-Jean Khosalim,,
-Lefteris Kokoris-Kogias,,
-Jay Yang,,
-Wei Yan,,
-Ray Chiang,,
-Dave Levinek,,
-Michelle Mazurek,,
-Karno Mertogunoen,,
-Ryan Craven,,
-Brendan Dolan-Gavitt,,
-Michael Chambers,,
-Karthikeyan Bhargavan,(INRIA),
-Bruno Blanchet,(INRIA),
-Nadim Kobeissi,(INRIA),
-Yanick Fratantonio,(UC Santa Barbara),
-Chenxiong Qian,(Georgia Tech),
-Simon Chung,(Georgia Tech),
-Wenke Lee,(Georgia Tech),
-Nicholas Carlini,"(University of California, Berkeley)",
-David Wagner,"(University of California, Berkeley)",
-Lukasz Olejnik,(University College London),
-Steven Englehardt,(Princeton University),
-Arvind Narayanan,(Princeton University),
-Piers O'Hanlon,"(University of Oxford, United Kingdom)",
-Ravishankar Borgaonkar,"(University of Oxford, United Kingdom)",
-Lucca Hirschi,"(LSV, ENS Paris-Saclay)",
-Úlfar Erlingsson,(Google),
-Bryan Parno,(Microsoft Research),
-Michael Backes,"(CISPA, Saarland University)",and MPI-SWS
-Davide Balzarotti,(EURECOM),
-Gilles Barthe,(IMDEA),
-Lujo Bauer,(CMU),
-Karthikeyan Bhargavan,(INRIA),
-Joseph Bonneau,(Stanford),
-Nikita Borisov,(UIUC),
-Herbert Bos,(VU University),
-Kevin Butler,(University of Florida),
-Srdjan Capkun,(ETH Zurich),
-Stephen Checkoway,(UIC),
-Haibo Chen,(SJTU),
-Manuel Costa,(MSR),
-Cas Cremers,(Oxford),
-Srini Devadas,(MIT),
-Tudor Dumitras,(University of Maryland),
-David Evans,(University of Virginia),
-Cedric Fournet,(MSR),
-Matt Fredrikson,(CMU),
-Roxana Geambasu,(Columbia),
-Saikat Guha,(MSR),
-Andreas Haeberlen,(University of Pennsylvania),
-Matthew Hicks,(MIT Lincoln Laboratory),
-Michael Hicks,(University of Maryland),
-Jason Hong,(CMU),
-Amir Houmansadr,(UMass),
-Rob Johnson,(Stony Brook),
-Brent Kang,(KAIST),
-Brad Karp,(UCL),
-Jay Lorch,(MSR),
-Matteo Maffei,(TU Vienna),
-Sergio Maffeis,(Imperial),
-Michelle Mazurek,(University of Maryland),
-Sarah Meiklejohn,(UCL),
-James Mickens,(Harvard),
-Andrew Miller,(UIUC),
-Ilya Mironov,(Google),
-Cristina Nita-Rotaru,(Northeastern),
-Alina Oprea,(Northeastern),
-Marcus Peinado,(MSR),
-Frank Piessens,(KU Leuven),
-Niels Provos,(Google),
-Mariana Raykova,(Yale),
-Franziska Roesner,(University of Washington),
-Ulrich Rührmair,(University of Bochum),
-Andrei Sabelfeld,(Chalmers),
-Vyas Sekar,(CMU),
-Simha Sethumadhavan,(Chip Scan/Columbia),
-Nigel Smart,(University of Bristol),
-Alex Snoeren,(UCSD),
-Nikhil Swamy,(MSR),
-Gang Tan,(Penn State),
-Abhradeep Thakurta,(Apple),
-Kurt Thomas,(Google),
-Carmela Troncoso,(IMDEA),
-Giovanni Vigna,(UCSB),
-Bogdan Warinschi,(University of Bristol),
-Robert Watson,(Cambridge),
-Emmett Witchel,(UT Austin),
-Tao Xie,(UIUC),
-Li Zhang,(Google),
-Yinqian Zhang,(Ohio State),
-Mark Gondree,(Sonoma State University),
-Ashley Podhradsky,(Dakota State University),
-Zachary N. J. Peterson,(California Polytechnic State University),
-Terry Benzel,(USC Information Sciences Institute),
-Rob Cunningham,(MIT Lincoln Laboratory),
-Sven Dietrich,(CUNY John Jay College of Criminal Justice),
-Deborah Frincke,(National Security Agency),
-Cynthia Irvine,(US Naval Postgraduate School),
+Name,Organization,Location,Gender,Race
+Reza Shokri,(Cornell Tech),,male,A
+Marco Stronati,(INRIA),,male,HL
+Congzheng Song,(Cornell),,female,A
+Vitaly Shmatikov,(Cornell Tech),,male,W_NL
+Payman Mohassel,(Visa Research),,male,A
+Yupeng Zhang,(University of Maryland),,male,A
+Nicholas Carlini,"(University of California, Berkeley)",,male,W_NL
+David Wagner,"(University of California, Berkeley)",,male,W_NL
+Adam Smith,(Pennsylvania State University),,male,W_NL
+Abhradeep Thakurta,(University of California Santa Cruz),,male,A
+Jalaj Upadhyay,(Pennsylvania State University),,male,A
+Mathias Lecuyer,(Columbia University),,male,W_NL
+Riley Spahn,(Columbia University),,male,W_NL
+Roxana Geambasu,(Columbia University),,female,HL
+Tzu-Kuo Huang,(Uber Advanced Technologies Group),,female,A
+Siddhartha Sen,(Microsoft Research),,male,A
+Cormac Herley,"(Microsoft Research, USA)",,male,W_NL
+Paul C. van Oorschot,"(Carleton University, Canada)",,male,W_NL
+Felix Fischer,"(AISEC, Fraunhofer)",,male,HL
+Konstantin Böttinger,"(AISEC, Fraunhofer)",,male,W_NL
+Huang Xiao,"(AISEC, Fraunhofer)",,male,A
+Christian Stransky,"(CISPA, Saarland University)",,male,W_NL
+Yasemin Acar,"(CISPA, Saarland University)",,male,A
+Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",,male,W_NL
+Sascha Fahl,"(CISPA, Saarland University)",,female,W_NL
+Ruba Abu-Salma UK),,,,
+M. Angela Sasse UK),,,,
+Joseph Bonneau USA),,,,
+Anastasia Danilova,"(University of Bonn, Germany)",,female,HL
+Alena Naiakshina,"(University of Bonn, Germany)",,female,HL
+Matthew Smith,"(University of Bonn, Germany)",,male,W_NL
+Yasemin Acar,"(CISPA, Saarland University)",,male,A
+Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",,male,W_NL
+Sascha Fahl,"(CISPA, Saarland University)",,female,W_NL
+Simson Garfinkel,"(National Institute of Standards, Technology)",,male,W_NL
+Doowon Kim,(University of Maryland),,female,A
+Michelle Mazurek,(University of Maryland),,female,W_NL
+Christian Stransky,"(CISPA, Saarland University)",,male,W_NL
+Benjamin Fuller,(University of Connecticut),,male,W_NL
+Mayank Varia,(Boston University),,male,A
+Arkady Yerukhimovich,(MIT Lincoln Laboratory),,male,W_NL
+Emily Shen,(MIT Lincoln Laboratory),,female,A
+Ariel Hamlin,(MIT Lincoln Laboratory),,male,B_NL
+Vijay Gadepally,(MIT Lincoln Laboratory),,male,A
+Richard Shay,(MIT Lincoln Laboratory),,male,W_NL
+John Darby Mitchell,(MIT Lincoln Laboratory),,male,B_NL
+Robert K. Cunningham,(MIT Lincoln Laboratory),,male,W_NL
+Eyal Ronen,(Weizmann Institute of Science),,male,W_NL
+Colin O’Flynn,(Dalhousie University),,male,W_NL
+Adi Shamir,(Weizmann Institute of Science),,male,A
+Achi-Or Weingarten,(Weizmann Institute of Science),,male,W_NL
+Jens Müller,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",,male,W_NL
+Vladislav Mladenov,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",,male,W_NL
+Juraj Somorovsky,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",,male,A
+Jörg Schwenk,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",,male,W_NL
+Moritz Contag,(Ruhr University Bochum),,male,A
+Guo Li,"(University of California, San Diego)",,male,A
+Andre Pawlowski,(Ruhr University Bochum),,male,W_NL
+Felix Domke,(),,male,HL
+Kirill Levchenko,"(University of California, San Diego)",,male,W_NL
+Thorsten Holz,(Ruhr University Bochum),,male,W_NL
+Stefan Savage,"(University of California, San Diego)",,male,W_NL
+Nethanel Gelernter,(Cyberpion &amp; The College of Management Academic Studies),,male,B_NL
+Senia Kalma,(The College of Management Academic Studies),,female,A
+Bar Magnezi,(The College of Management Academic Studies),,male,A
+Hen Porcilan,(The College of Management Academic Studies),,male,A
+Davide Quarta,(Politecnico di Milano),,male,HL
+Marcello Pogliani,(Politecnico di Milano),,male,HL
+Mario Polino,(Politecnico di Milano),,male,HL
+Federico Maggi,(Trend Micro Inc.),,male,HL
+Andrea Maria Zanchettin,(Politecnico di Milano),,female,HL
+Stefano Zanero,(Politecnico di Milano),,male,HL
+Abraham A Clements,"(Purdue, Sandia National Labs)",,male,A
+Naif Saleh Almakhdhub,(Purdue),,male,A
+Khaled Saab,(Georgia Institute of Technology),,male,A
+Prashast Srivastava,(Purdue),,male,A
+Jinkyu Koo,(Purdue),,female,A
+Saurabh Bagchi,(Purdue),,male,A
+Mathias Payer,(Purdue),,male,W_NL
+Yaohui Chen,(Stony Brook University),,female,A
+Dongli Zhang,(Stony Brook University),,female,A
+Ruowen Wang,(Samsung Research America),,male,A
+Rui Qiao,(Stony Brook University),,male,A
+Ahmed M. Azab,(Samsung Research America),,male,A
+Long Lu,(Stony Brook University),,male,A
+Hayawardh Vijayakumar,(Samsung Research America),,male,A
+Wenbo Shen,(Samsung Research America),,male,A
+Kiron Lebeck,(University of Washington),,male,W_NL
+Kimberly Ruth,(University of Washington),,female,W_NL
+Tadayoshi Kohno,(University of Washington),,male,A
+Franziska Roesner,(University of Washington),,female,W_NL
+Geumhwan Cho,(Sungkyunkwan University),,male,A
+Jun Ho Huh,"(Software R&amp;D Center, Samsung Electronics)",,male,A
+Junsung Cho,(Sungkyunkwan University),,male,A
+Seongyeol Oh,(Sungkyunkwan University),,male,A
+Youngbae Song,(Sungkyunkwan University),,female,A
+Hyoungshick Kim,(Sungkyunkwan University),,male,A
+Yunpeng Song,(Xi'an Jiaotong University),,male,A
+Zhongmin Cai,(Xi'an Jiaotong University),,male,A
+ZhiLi Zhang,(University of Minnesota),,female,A
+Maria Apostolaki,(ETH Zürich),,female,HL
+Aviv Zohar,(Hebrew University),,male,A
+Laurent Vanbever,(ETH Zürich),,male,W_NL
+Alin Tomescu,(MIT),,male,HL
+Srinivas Devadas,(MIT),,male,A
+Stephanos Matsumoto,(Carnegie Mellon University/ETH Zurich),,male,A
+Raphael M. Reischuk,(ETH Zurich),,male,W_NL
+Paul Pearce,(UC Berkeley),,male,W_NL
+Roya Ensafi,(Princeton),,female,A
+Frank Li,(UC Berkeley),,male,A
+Nick Feamster,(Princeton),,male,B_NL
+Vern Paxson,(UC Berkeley),,male,B_NL
+Ewa Syta,(Trinity College),,female,A
+Philipp Jovanovic,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Eleftherios Kokoris Kogias,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Nicolas Gailly,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Linus Gasser,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Ismail Khoffi,(École Polytechnique Fédérale de Lausanne),,male,A
+Michael J. Fischer,(Yale University),,male,W_NL
+Bryan Ford,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Karthikeyan Bhargavan,(Inria Paris-Rocquencourt),,male,A
+Antoine Delignat-Lavaud,(Microsoft Research),,male,B_NL
+Cédric Fournet,(Microsoft Research),,male,B_NL
+Markulf Kohlweiss,(Microsoft Research),,male,W_NL
+Jianyang Pan,(Inria Paris-Rocquencourt),,male,A
+Jonathan Protzenko,(Microsoft Research),,male,W_NL
+Aseem Rastogi,(Microsoft Research),,male,A
+Nikhil Swamy,(Microsoft Research),,male,A
+Santiago Zanella-Béguelin,(Microsoft Research),,male,HL
+Jean Karim Zinzindohoué,(Inria Paris-Rocquencourt),,male,HL
+Karthikeyan Bhargavan,(INRIA),,male,A
+Bruno Blanchet,(INRIA),,male,HL
+Nadim Kobeissi,(INRIA),,male,A
+Sze Yiu Chau,(Purdue University),,male,A
+Omar Chowdhury,(The University of Iowa),,male,A
+Endadul Hoque,(Purdue University),,male,A
+Huangyi Ge,(Purdue University),,female,A
+Aniket Kate,(Purdue University),,male,A
+Cristina Nita-Rotaru,(Northeastern University),,female,A
+Ninghui Li,(Purdue University),,male,A
+Suphannee Sivakorn,(Columbia University),,female,A
+George Argyros,(Columbia University),,male,W_NL
+Kexin Pei,(Columbia University),,female,A
+Angelos D. Keromytis,(Columbia University),,male,HL
+Suman Jana,(Columbia University),,female,A
+James Larisch,(Northeastern University),,male,W_NL
+David Choffnes,(Northeastern University),,male,W_NL
+Dave Levin,(University of Maryland),,male,W_NL
+Bruce M. Maggs,"(Duke University, Akamai Technologies)",,male,W_NL
+Alan Mislove,(Northeastern University),,male,W_NL
+Christo Wilson,(Northeastern University),,male,B_NL
+Fraser Brown,(Stanford University),,male,B_NL
+Shravan Narayan,(UCSD),,male,A
+Riad S. Wahby,(Stanford University),,male,A
+Dawson Engler,(Stanford University),,male,W_NL
+Ranjit Jhala,(UCSD),,male,A
+Deian Stefan,(UCSD),,male,W_NL
+Junjie WANG,(Nanyang Technological University),,female,A
+Bihuan CHEN,(Nanyang Technological University),,male,A
+Lei WEI,(Nanyang Technological University),,female,A
+Yang LIU,(Nanyang Technological University),,male,A
+Seulbae Kim,(Korea University),,female,A
+Seunghoon Woo,(Korea University),,male,A
+Heejo Lee,(Korea University),,female,A
+Hakjoo Oh,(Korea University),,male,A
+Theofilos Petsios,(Columbia University),,male,W_NL
+Adrian Tang,(Columbia University),,male,A
+Salvatore Stolfo,(Columbia University),,male,W_NL
+Angelos D. Keromytis,(Columbia University),,male,HL
+Suman Jana,(Columbia University),,female,A
+Sébastien Bardin,(CEA LIST),,male,B_NL
+Robin David,(CEA LIST),,male,W_NL
+Jean-Yves Marion,(LORIA),,male,B_NL
+Paul Grubbs,(Cornell Tech),,male,W_NL
+Kevin Sekniqi,(Cornell University),,male,A
+Vincent Bindschaedler,(UIUC),,male,W_NL
+Muhammad Naveed,(USC),,male,A
+Tom Ristenpart,(Cornell Tech),,male,A
+Liang Wang,"(University of Wisconsin, Madison)",,male,A
+Paul Grubbs,(Cornell Tech),,male,W_NL
+Jiahui Lu,(SJTU),,female,A
+Vincent Bindschaedler,(UIUC),,male,W_NL
+David Cash,(Rutgers University),,male,W_NL
+Thomas Ristenpart,(Cornell Tech),,male,W_NL
+Mathias Vorreiter Pedersen,(Aarhus University),,male,W_NL
+Aslan Askarov,(Aarhus University),,male,A
+Van Chan Ngo,(Carnegie Mellon University),,male,A
+Mario Dehesa-Azuara,(Carnegie Mellon University),,male,HL
+Matthew Fredrikson,(Carnegie Mellon University),,male,W_NL
+Jan Hoffmann,(Carnegie Mellon University),,male,W_NL
+Thomas Bauereiß Bremeny),,,,
+Germany),,,,
+Armando Pesenti Gritti,"(Global NoticeBoard, UK)",,male,HL
+Andrei Popescu,"(School of Science, Technology, Middlesex University, UK/Institute of Mathematics Simion Stoilow of the Romanian Academy)",,male,W_NL
+Franco Raimondi,"(School of Science, Technology, Middlesex University, UK)",,male,HL
+Hao Yang,(Tsinghua University),,male,A
+Xiulin Ma,(Tsinghua University),,female,A
+Kun Du,(Tsinghua University),,male,A
+Zhou Li,(IEEE Member),,male,A
+Haixin Duan,(Tsinghua University),,male,A
+Xiaodong Su,(Baidu Inc.),,male,A
+Guang Liu,(Baidu Inc.),,male,A
+Zhifeng Geng,(Baidu Inc.),,male,A
+Jianping Wu,(Tsinghua University),,male,A
+Brown Farinholt,(UC San Diego),,male,B_NL
+Mohammad Rezaeirad,(GMU),,male,A
+Paul Pearce,(UC Berkeley),,male,W_NL
+Hitesh Dharamdasani,(Informant Networks),,male,A
+Haikuo Yin,(UC San Diego),,female,A
+Stevens LeBlond,(MPI-SWS),,male,B_NL
+Damon McCoy,(NYU),,male,B_NL
+Kirill Levchenko,(UC San Diego),,male,W_NL
+Chaz Lever,(Georgia Tech),,male,B_NL
+Platon Kotzias,(IMDEA),,male,A
+Davide Balzarotti,(Eurecom),,male,W_NL
+Juan Caballero,(IMDEA),,male,HL
+Manos Antonakakis,(Georgia Tech),,male,W_NL
+Sumayah Alrwais,(Indiana University at Bloomington),,female,A
+Xiaojing Liao,(Georgia Institute of Technology),,female,A
+Xianghang Mi,(Indiana University at Bloomington),,female,A
+Peng Wang,(Indiana University at Bloomington),,male,A
+XiaoFeng Wang,(Indiana University at Bloomington),,male,A
+Feng Qian,(Indiana University at Bloomington),,male,A
+Raheem Beyah,(Georgia Institute of Technology),,male,B_NL
+Damon McCoy,(New York University),,male,B_NL
+Tiffany Bao,(CMU),,female,A
+Ruoyu Wang,(UCSB),,female,A
+Yan Shoshitaishvili,(UCSB),,male,A
+David Brumley,(CMU),,male,W_NL
+Toshinori Araki,(NEC),,female,A
+Assi Barak,(Bar-Ilan University),,male,A
+Jun Furukawa,(NEC),,female,A
+Tamar Lichter,(Queens College - CUNY),,male,W_NL
+Yehuda Lindell,(Bar-Ilan University),,male,W_NL
+Ariel Nof,(Bar-Ilan University),,male,HL
+Kazuma Ohara,(NEC),,female,A
+Adi Watzman,(The Weizmann Institute of Science),,male,A
+Or Weinstein,(Bar-Ilan University),,male,W_NL
+Yupeng Zhang,(University of Maryland),,male,A
+Daniel Genkin,(University of Maryland &amp; University of Pennsylvania),,male,W_NL
+Jonathan Katz,(University of Maryland),,male,W_NL
+Dimitrios Papadopoulos,(University of Maryland),,male,W_NL
+Charalampos Papamanthou,(University of Maryland),,male,A
+Ralf Küsters,(University of Stuttgart),,male,W_NL
+Daniel Rausch,(University of Stuttgart),,male,W_NL
+Jan Camenisch,(IBM Research - Zurich),,male,W_NL
+Liqun Chen,(University of Surrey),,female,A
+Manu Drijvers,"(IBM Research - Zurich, ETH Zurich)",,male,A
+Anja Lehmann,(IBM Research - Zurich),,female,W_NL
+David Novick,(Intel),,male,W_NL
+Rainer Urian,(Infineon),,male,B_NL
+Dongpeng Xu,(The Pennsylvania State University),,male,A
+Jiang Ming,(University of Texas at Arlington),,male,A
+Dinghao Wu,(The Pennsylvania State University),,male,A
+Oleksii Starov,(Stony Brook University),,male,W_NL
+Nick Nikiforakis,(Stony Brook University),,male,W_NL
+Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",,male,W_NL
+Pascal Berrang,"(CISPA, Saarland University)",,male,A
+Matthias Bieg ,,,,
+Roland Eils &amp; University of Heidelberg),,,,
+Carl Herrmann &amp; University of Heidelberg),,,,
+Mathias Humbert,"(CISPA, Saarland University)",,male,W_NL
+Irina Lehmann,"(Helmholtz Centre for Environmental Research Leipzig - UFZ, Leipzig)",,female,W_NL
+Yixin Sun,(Princeton University),,female,A
+Anne Edmundson,(Princeton University),,female,B_NL
+Nick Feamster,(Princeton University),,male,B_NL
+Mung Chiang,(Princeton University),,male,A
+Prateek Mittal,(Princeton University),,male,A
+Véronique Cortier,"(LORIA, CNRS &amp; Inria &amp; Université de Lorraine)",,female,B_NL
+Constantin Cătalin Drăgan,"(LORIA, CNRS &amp; Inria)",,male,W_NL
+François Dupressoir,(University of Surrey),,male,B_NL
+Benedikt Schmidt,(IMDEA Software Institute),,male,W_NL
+Pierre-Yves Strub,(École Polytechnique),,male,W_NL
+Bogdan Warinschi,(University of Bristol),,male,W_NL
+Najmeh Miramirkhani,(Stony Brook University),,female,A
+Mahathi Priya Appini,(Stony Brook University),,female,A
+Nick Nikiforakis,(Stony Brook University),,male,W_NL
+Michalis Polychronakis,(Stony Brook University),,male,W_NL
+Philipp Holzinger,(Fraunhofer SIT),,male,W_NL
+Ben Hermann,(Technische Universität Darmstadt),,male,B_NL
+Johannes Lerch,(Technische Universität Darmstadt),,male,W_NL
+Eric Bodden,(Paderborn University &amp; Fraunhofer IEM),,male,B_NL
+Mira Mezini,(Technische Universität Darmstadt),,female,HL
+Yanick Fratantonio,(UC Santa Barbara),,male,HL
+Chenxiong Qian,(Georgia Tech),,female,A
+Simon Chung,(Georgia Tech),,male,A
+Wenke Lee,(Georgia Tech),,female,A
+Katarzyna Olejnik,(Raytheon BBN Technologies),,female,W_NL
+Italo Dacosta,(EPFL),,male,HL
+Joana Machado,(EPFL),,female,HL
+Ḱevin Huguenin,(UNIL),,male,W_NL
+Mohammad Emtiyaz Khan RIKENo),,,,
+Tokyo),,,,
+Jean-Pierre Hubaux,(EPFL),,male,B_NL
+Primal Wijesekera,(University of British Columbia),,male,A
+Arjun Baokar,"(University of California, Berkeley)",,male,A
+Lynn Tsai,"(University of California, Berkeley)",,female,A
+Joel Reardon,"(University of California, Berkeley)",,male,W_NL
+Serge Egelman,"(University of California, Berkeley)",,male,B_NL
+David Wagner,"(University of California, Berkeley)",,male,W_NL
+Konstantin Beznosov,(University of British Columbia),,male,A
+Paul Dan Marinescu,(Facebook),,male,W_NL
+Chad Parry,(Facebook),,male,W_NL
+Marjori Pomarole,(Facebook),,female,W_NL
+Yuan Tian,(CMU),,male,A
+Patrick Tague,(CMU),,male,W_NL
+Ioannis Papagiannis,(Facebook),,male,W_NL
+Ralf Küsters,(University of Stuttgart),,male,W_NL
+Daniel Rausch,(University of Stuttgart),,male,W_NL
+Chaz Lever,(Georgia Tech),,male,B_NL
+Platon Kotzias,(IMDEA),,male,A
+Davide Balzarotti,(Eurecom),,male,W_NL
+Juan Caballero,(IMDEA),,male,HL
+Manos Antonakakis,(Georgia Tech),,male,W_NL
+Davide Quarta,(Politecnico di Milano),,male,HL
+Marcello Pogliani,(Politecnico di Milano),,male,HL
+Mario Polino,(Politecnico di Milano),,male,HL
+Federico Maggi,(Trend Micro Inc.),,male,HL
+Andrea Maria Zanchettin,(Politecnico di Milano),,female,HL
+Stefano Zanero,(Politecnico di Milano),,male,HL
+Paul Pearce,(UC Berkeley),,male,W_NL
+Roya Ensafi,(Princeton),,female,A
+Frank Li,(UC Berkeley),,male,A
+Nick Feamster,(Princeton),,male,B_NL
+Vern Paxson,(UC Berkeley),,male,B_NL
+Sébastien Bardin,(CEA LIST),,male,B_NL
+Robin David,(CEA LIST),,male,W_NL
+Jean-Yves Marion,(LORIA),,male,B_NL
+James Larisch,(Northeastern University),,male,W_NL
+David Choffnes,(Northeastern University),,male,W_NL
+Dave Levin,(University of Maryland),,male,W_NL
+Bruce M. Maggs,"(Duke University, Akamai Technologies)",,male,W_NL
+Alan Mislove,(Northeastern University),,male,W_NL
+Christo Wilson,(Northeastern University),,male,B_NL
+Alin Tomescu,(MIT),,male,HL
+Srinivas Devadas,(MIT),,male,A
+Yanick Fratantonio,(UC Santa Barbara),,male,HL
+Chenxiong Qian,(Georgia Tech),,female,A
+Simon Chung,(Georgia Tech),,male,A
+Wenke Lee,(Georgia Tech),,female,A
+Thomas Bauereiß Bremeny),,,,
+Germany),,,,
+Armando Pesenti Gritti,"(Global NoticeBoard, UK)",,male,HL
+Andrei Popescu,"(School of Science, Technology, Middlesex University, UK/Institute of Mathematics Simion Stoilow of the Romanian Academy)",,male,W_NL
+Franco Raimondi,"(School of Science, Technology, Middlesex University, UK)",,male,HL
+Yasemin Acar,"(CISPA, Saarland University)",,male,A
+Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",,male,W_NL
+Sascha Fahl,"(CISPA, Saarland University)",,female,W_NL
+Simson Garfinkel,"(National Institute of Standards, Technology)",,male,W_NL
+Doowon Kim,(University of Maryland),,female,A
+Michelle Mazurek,(University of Maryland),,female,W_NL
+Christian Stransky,"(CISPA, Saarland University)",,male,W_NL
+Yixin Sun,(Princeton University),,female,A
+Anne Edmundson,(Princeton University),,female,B_NL
+Nick Feamster,(Princeton University),,male,B_NL
+Mung Chiang,(Princeton University),,male,A
+Prateek Mittal,(Princeton University),,male,A
+Dongpeng Xu,(The Pennsylvania State University),,male,A
+Jiang Ming,(University of Texas at Arlington),,male,A
+Dinghao Wu,(The Pennsylvania State University),,male,A
+Fraser Brown,(Stanford University),,male,B_NL
+Shravan Narayan,(UCSD),,male,A
+Riad S. Wahby,(Stanford University),,male,A
+Dawson Engler,(Stanford University),,male,W_NL
+Ranjit Jhala,(UCSD),,male,A
+Deian Stefan,(UCSD),,male,W_NL
+Mathias Vorreiter Pedersen,(Aarhus University),,male,W_NL
+Aslan Askarov,(Aarhus University),,male,A
+Suphannee Sivakorn,(Columbia University),,female,A
+George Argyros,(Columbia University),,male,W_NL
+Kexin Pei,(Columbia University),,female,A
+Angelos D. Keromytis,(Columbia University),,male,HL
+Suman Jana,(Columbia University),,female,A
+Philipp Holzinger,(Fraunhofer SIT),,male,W_NL
+Ben Hermann,(Technische Universität Darmstadt),,male,B_NL
+Johannes Lerch,(Technische Universität Darmstadt),,male,W_NL
+Eric Bodden,(Paderborn University &amp; Fraunhofer IEM),,male,B_NL
+Mira Mezini,(Technische Universität Darmstadt),,female,HL
+Maria Apostolaki,(ETH Zürich),,female,HL
+Aviv Zohar,(Hebrew University),,male,A
+Laurent Vanbever,(ETH Zürich),,male,W_NL
+Moritz Contag,(Ruhr University Bochum),,male,A
+Guo Li,"(University of California, San Diego)",,male,A
+Andre Pawlowski,(Ruhr University Bochum),,male,W_NL
+Felix Domke,(),,male,HL
+Kirill Levchenko,"(University of California, San Diego)",,male,W_NL
+Thorsten Holz,(Ruhr University Bochum),,male,W_NL
+Stefan Savage,"(University of California, San Diego)",,male,W_NL
+Hao Yang,(Tsinghua University),,male,A
+Xiulin Ma,(Tsinghua University),,female,A
+Kun Du,(Tsinghua University),,male,A
+Zhou Li,(IEEE Member),,male,A
+Haixin Duan,(Tsinghua University),,male,A
+Xiaodong Su,(Baidu Inc.),,male,A
+Guang Liu,(Baidu Inc.),,male,A
+Zhifeng Geng,(Baidu Inc.),,male,A
+Jianping Wu,(Tsinghua University),,male,A
+Stephanos Matsumoto,(Carnegie Mellon University/ETH Zurich),,male,A
+Raphael M. Reischuk,(ETH Zurich),,male,W_NL
+Paul Dan Marinescu,(Facebook),,male,W_NL
+Chad Parry,(Facebook),,male,W_NL
+Marjori Pomarole,(Facebook),,female,W_NL
+Yuan Tian,(CMU),,male,A
+Patrick Tague,(CMU),,male,W_NL
+Ioannis Papagiannis,(Facebook),,male,W_NL
+Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",,male,W_NL
+Pascal Berrang,"(CISPA, Saarland University)",,male,A
+Matthias Bieg ,,,,
+Roland Eils &amp; University of Heidelberg),,,,
+Carl Herrmann &amp; University of Heidelberg),,,,
+Mathias Humbert,"(CISPA, Saarland University)",,male,W_NL
+Irina Lehmann,"(Helmholtz Centre for Environmental Research Leipzig - UFZ, Leipzig)",,female,W_NL
+Karthikeyan Bhargavan,(Inria Paris-Rocquencourt),,male,A
+Antoine Delignat-Lavaud,(Microsoft Research),,male,B_NL
+Cédric Fournet,(Microsoft Research),,male,B_NL
+Markulf Kohlweiss,(Microsoft Research),,male,W_NL
+Jianyang Pan,(Inria Paris-Rocquencourt),,male,A
+Jonathan Protzenko,(Microsoft Research),,male,W_NL
+Aseem Rastogi,(Microsoft Research),,male,A
+Nikhil Swamy,(Microsoft Research),,male,A
+Santiago Zanella-Béguelin,(Microsoft Research),,male,HL
+Jean Karim Zinzindohoué,(Inria Paris-Rocquencourt),,male,HL
+Eyal Ronen,(Weizmann Institute of Science),,male,W_NL
+Colin O’Flynn,(Dalhousie University),,male,W_NL
+Adi Shamir,(Weizmann Institute of Science),,male,A
+Achi-Or Weingarten,(Weizmann Institute of Science),,male,W_NL
+Adam Smith,(Pennsylvania State University),,male,W_NL
+Abhradeep Thakurta,(University of California Santa Cruz),,male,A
+Jalaj Upadhyay,(Pennsylvania State University),,male,A
+Paul Grubbs,(Cornell Tech),,male,W_NL
+Kevin Sekniqi,(Cornell University),,male,A
+Vincent Bindschaedler,(UIUC),,male,W_NL
+Muhammad Naveed,(USC),,male,A
+Tom Ristenpart,(Cornell Tech),,male,A
+Véronique Cortier,"(LORIA, CNRS &amp; Inria &amp; Université de Lorraine)",,female,B_NL
+Constantin Cătalin Drăgan,"(LORIA, CNRS &amp; Inria)",,male,W_NL
+François Dupressoir,(University of Surrey),,male,B_NL
+Benedikt Schmidt,(IMDEA Software Institute),,male,W_NL
+Pierre-Yves Strub,(École Polytechnique),,male,W_NL
+Bogdan Warinschi,(University of Bristol),,male,W_NL
+Reza Shokri,(Cornell Tech),,male,A
+Marco Stronati,(INRIA),,male,HL
+Congzheng Song,(Cornell),,female,A
+Vitaly Shmatikov,(Cornell Tech),,male,W_NL
+Yunpeng Song,(Xi'an Jiaotong University),,male,A
+Zhongmin Cai,(Xi'an Jiaotong University),,male,A
+ZhiLi Zhang,(University of Minnesota),,female,A
+Theofilos Petsios,(Columbia University),,male,W_NL
+Adrian Tang,(Columbia University),,male,A
+Salvatore Stolfo,(Columbia University),,male,W_NL
+Angelos D. Keromytis,(Columbia University),,male,HL
+Suman Jana,(Columbia University),,female,A
+Yaohui Chen,(Stony Brook University),,female,A
+Dongli Zhang,(Stony Brook University),,female,A
+Ruowen Wang,(Samsung Research America),,male,A
+Rui Qiao,(Stony Brook University),,male,A
+Ahmed M. Azab,(Samsung Research America),,male,A
+Long Lu,(Stony Brook University),,male,A
+Hayawardh Vijayakumar,(Samsung Research America),,male,A
+Wenbo Shen,(Samsung Research America),,male,A
+Ruba Abu-Salma UK),,,,
+M. Angela Sasse UK),,,,
+Joseph Bonneau USA),,,,
+Anastasia Danilova,"(University of Bonn, Germany)",,female,HL
+Alena Naiakshina,"(University of Bonn, Germany)",,female,HL
+Matthew Smith,"(University of Bonn, Germany)",,male,W_NL
+Jan Camenisch,(IBM Research - Zurich),,male,W_NL
+Liqun Chen,(University of Surrey),,female,A
+Manu Drijvers,"(IBM Research - Zurich, ETH Zurich)",,male,A
+Anja Lehmann,(IBM Research - Zurich),,female,W_NL
+David Novick,(Intel),,male,W_NL
+Rainer Urian,(Infineon),,male,B_NL
+Toshinori Araki,(NEC),,female,A
+Assi Barak,(Bar-Ilan University),,male,A
+Jun Furukawa,(NEC),,female,A
+Tamar Lichter,(Queens College - CUNY),,male,W_NL
+Yehuda Lindell,(Bar-Ilan University),,male,W_NL
+Ariel Nof,(Bar-Ilan University),,male,HL
+Kazuma Ohara,(NEC),,female,A
+Adi Watzman,(The Weizmann Institute of Science),,male,A
+Or Weinstein,(Bar-Ilan University),,male,W_NL
+Abraham A Clements,"(Purdue, Sandia National Labs)",,male,A
+Naif Saleh Almakhdhub,(Purdue),,male,A
+Khaled Saab,(Georgia Institute of Technology),,male,A
+Prashast Srivastava,(Purdue),,male,A
+Jinkyu Koo,(Purdue),,female,A
+Saurabh Bagchi,(Purdue),,male,A
+Mathias Payer,(Purdue),,male,W_NL
+Mathias Lecuyer,(Columbia University),,male,W_NL
+Riley Spahn,(Columbia University),,male,W_NL
+Roxana Geambasu,(Columbia University),,female,HL
+Tzu-Kuo Huang,(Uber Advanced Technologies Group),,female,A
+Siddhartha Sen,(Microsoft Research),,male,A
+Ewa Syta,(Trinity College),,female,A
+Philipp Jovanovic,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Eleftherios Kokoris Kogias,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Nicolas Gailly,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Linus Gasser,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Ismail Khoffi,(École Polytechnique Fédérale de Lausanne),,male,A
+Michael J. Fischer,(Yale University),,male,W_NL
+Bryan Ford,(École Polytechnique Fédérale de Lausanne),,male,W_NL
+Payman Mohassel,(Visa Research),,male,A
+Yupeng Zhang,(University of Maryland),,male,A
+Kiron Lebeck,(University of Washington),,male,W_NL
+Kimberly Ruth,(University of Washington),,female,W_NL
+Tadayoshi Kohno,(University of Washington),,male,A
+Franziska Roesner,(University of Washington),,female,W_NL
+Liang Wang,"(University of Wisconsin, Madison)",,male,A
+Paul Grubbs,(Cornell Tech),,male,W_NL
+Jiahui Lu,(SJTU),,female,A
+Vincent Bindschaedler,(UIUC),,male,W_NL
+David Cash,(Rutgers University),,male,W_NL
+Thomas Ristenpart,(Cornell Tech),,male,W_NL
+Junjie WANG,(Nanyang Technological University),,female,A
+Bihuan CHEN,(Nanyang Technological University),,male,A
+Lei WEI,(Nanyang Technological University),,female,A
+Yang LIU,(Nanyang Technological University),,male,A
+Katarzyna Olejnik,(Raytheon BBN Technologies),,female,W_NL
+Italo Dacosta,(EPFL),,male,HL
+Joana Machado,(EPFL),,female,HL
+Ḱevin Huguenin,(UNIL),,male,W_NL
+Mohammad Emtiyaz Khan RIKENo),,,,
+Tokyo),,,,
+Jean-Pierre Hubaux,(EPFL),,male,B_NL
+Benjamin Fuller,(University of Connecticut),,male,W_NL
+Mayank Varia,(Boston University),,male,A
+Arkady Yerukhimovich,(MIT Lincoln Laboratory),,male,W_NL
+Emily Shen,(MIT Lincoln Laboratory),,female,A
+Ariel Hamlin,(MIT Lincoln Laboratory),,male,B_NL
+Vijay Gadepally,(MIT Lincoln Laboratory),,male,A
+Richard Shay,(MIT Lincoln Laboratory),,male,W_NL
+John Darby Mitchell,(MIT Lincoln Laboratory),,male,B_NL
+Robert K. Cunningham,(MIT Lincoln Laboratory),,male,W_NL
+Jens Müller,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",,male,W_NL
+Vladislav Mladenov,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",,male,W_NL
+Juraj Somorovsky,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",,male,A
+Jörg Schwenk,"(Horst Görtz Institute for IT-Security, Ruhr University Bochum)",,male,W_NL
+Cormac Herley,"(Microsoft Research, USA)",,male,W_NL
+Paul C. van Oorschot,"(Carleton University, Canada)",,male,W_NL
+Najmeh Miramirkhani,(Stony Brook University),,female,A
+Mahathi Priya Appini,(Stony Brook University),,female,A
+Nick Nikiforakis,(Stony Brook University),,male,W_NL
+Michalis Polychronakis,(Stony Brook University),,male,W_NL
+Felix Fischer,"(AISEC, Fraunhofer)",,male,HL
+Konstantin Böttinger,"(AISEC, Fraunhofer)",,male,W_NL
+Huang Xiao,"(AISEC, Fraunhofer)",,male,A
+Christian Stransky,"(CISPA, Saarland University)",,male,W_NL
+Yasemin Acar,"(CISPA, Saarland University)",,male,A
+Michael Backes,"(CISPA, Saarland University &amp; MPI-SWS)",,male,W_NL
+Sascha Fahl,"(CISPA, Saarland University)",,female,W_NL
+Sze Yiu Chau,(Purdue University),,male,A
+Omar Chowdhury,(The University of Iowa),,male,A
+Endadul Hoque,(Purdue University),,male,A
+Huangyi Ge,(Purdue University),,female,A
+Aniket Kate,(Purdue University),,male,A
+Cristina Nita-Rotaru,(Northeastern University),,female,A
+Ninghui Li,(Purdue University),,male,A
+Geumhwan Cho,(Sungkyunkwan University),,male,A
+Jun Ho Huh,"(Software R&amp;D Center, Samsung Electronics)",,male,A
+Junsung Cho,(Sungkyunkwan University),,male,A
+Seongyeol Oh,(Sungkyunkwan University),,male,A
+Youngbae Song,(Sungkyunkwan University),,female,A
+Hyoungshick Kim,(Sungkyunkwan University),,male,A
+Primal Wijesekera,(University of British Columbia),,male,A
+Arjun Baokar,"(University of California, Berkeley)",,male,A
+Lynn Tsai,"(University of California, Berkeley)",,female,A
+Joel Reardon,"(University of California, Berkeley)",,male,W_NL
+Serge Egelman,"(University of California, Berkeley)",,male,B_NL
+David Wagner,"(University of California, Berkeley)",,male,W_NL
+Konstantin Beznosov,(University of British Columbia),,male,A
+Nethanel Gelernter,(Cyberpion &amp; The College of Management Academic Studies),,male,B_NL
+Senia Kalma,(The College of Management Academic Studies),,female,A
+Bar Magnezi,(The College of Management Academic Studies),,male,A
+Hen Porcilan,(The College of Management Academic Studies),,male,A
+Brown Farinholt,(UC San Diego),,male,B_NL
+Mohammad Rezaeirad,(GMU),,male,A
+Paul Pearce,(UC Berkeley),,male,W_NL
+Hitesh Dharamdasani,(Informant Networks),,male,A
+Haikuo Yin,(UC San Diego),,female,A
+Stevens LeBlond,(MPI-SWS),,male,B_NL
+Damon McCoy,(NYU),,male,B_NL
+Kirill Levchenko,(UC San Diego),,male,W_NL
+Nicholas Carlini,"(University of California, Berkeley)",,male,W_NL
+David Wagner,"(University of California, Berkeley)",,male,W_NL
+Sumayah Alrwais,(Indiana University at Bloomington),,female,A
+Xiaojing Liao,(Georgia Institute of Technology),,female,A
+Xianghang Mi,(Indiana University at Bloomington),,female,A
+Peng Wang,(Indiana University at Bloomington),,male,A
+XiaoFeng Wang,(Indiana University at Bloomington),,male,A
+Feng Qian,(Indiana University at Bloomington),,male,A
+Raheem Beyah,(Georgia Institute of Technology),,male,B_NL
+Damon McCoy,(New York University),,male,B_NL
+Seulbae Kim,(Korea University),,female,A
+Seunghoon Woo,(Korea University),,male,A
+Heejo Lee,(Korea University),,female,A
+Hakjoo Oh,(Korea University),,male,A
+Karthikeyan Bhargavan,(INRIA),,male,A
+Bruno Blanchet,(INRIA),,male,HL
+Nadim Kobeissi,(INRIA),,male,A
+Van Chan Ngo,(Carnegie Mellon University),,male,A
+Mario Dehesa-Azuara,(Carnegie Mellon University),,male,HL
+Matthew Fredrikson,(Carnegie Mellon University),,male,W_NL
+Jan Hoffmann,(Carnegie Mellon University),,male,W_NL
+Oleksii Starov,(Stony Brook University),,male,W_NL
+Nick Nikiforakis,(Stony Brook University),,male,W_NL
+Tiffany Bao,(CMU),,female,A
+Ruoyu Wang,(UCSB),,female,A
+Yan Shoshitaishvili,(UCSB),,male,A
+David Brumley,(CMU),,male,W_NL
+Yupeng Zhang,(University of Maryland),,male,A
+Daniel Genkin,(University of Maryland &amp; University of Pennsylvania),,male,W_NL
+Jonathan Katz,(University of Maryland),,male,W_NL
+Dimitrios Papadopoulos,(University of Maryland),,male,W_NL
+Charalampos Papamanthou,(University of Maryland),,male,A
+Payap Sirinamht,,,female,A
+Mohsen Imaniht,,,male,A
+Matthew Wright,,,male,W_NL
+Spyridoula Gravanill,,,female,W_NL
+Zhuojia Shenll,,,female,A
+John Criswell,,,male,W_NL
+Shuang Weian,,,female,A
+Yijing Dingan,,,female,A
+Tongxin Lian,,,male,A
+Shuaifu Daian,,,female,A
+Xinfeng Wuan,,,female,A
+Xinhui Han,,,female,A
+Yun Fengiu,,,female,A
+Chaoge Liuiu,,,female,A
+Baoxu Liu,,,male,A
+Jinli ZhangWu,,,female,A
+Junwei SuWu,,,female,A
+Di Wu,,,female,A
+Jie YinLi,,,male,A
+Xiang CuiLi,,,male,A
+Ke Li,,,male,A
+Jianbao Linia,,,male,A
+Chaoge Liuia,,,female,A
+Xiang Cuiia,,,male,A
+Zhaopeng Jia,,,male,A
+Brian Powellre,,,male,W_NL
+Richa Singhre,,,male,A
+Mayank Vatsare,,,male,A
+Afzel Noore,,,female,A
+Huan Zhoung,,,male,A
+Qixu Liung,,,female,A
+Fangjiao Zhang,,,male,A
+Amiangshu Bosung,,,male,A
+Fang Liung,,,male,A
+Danfeng Yaong,,,female,A
+Gang Wang,,,male,A
+Zhitao Yanui,,,male,A
+Binxing Fangui,,,female,A
+Xiang Cui,,,male,A
+Yuji Suga,,,male,A
+Ethan Johnsonll,,,male,W_NL
+Tianqin Zhaoll,,,female,A
+John Criswell,,,male,W_NL
+Elham Vaziripourla,,,female,HL
+Justin Wula,,,male,W_NL
+Mark O'Neillla,,,male,W_NL
+Ray Clintonla,,,male,W_NL
+Jordan Whiteheadla,,,male,W_NL
+Scott Heidbrinkla,,,male,B_NL
+Kent Seamonsla,,,male,W_NL
+Daniel Zappala,,,male,W_NL
+Yash Sinhaia,,,male,A
+Siddharth Bhatia,,,male,A
+Junsung Choim,,,male,A
+Geumhwan Choim,,,male,A
+Sangwon Hyunim,,,male,A
+Hyoungshick Kim,,,male,A
+Di Wung,,,female,A
+Binxing Fangng,,,female,A
+Fangjiao Zhang,,,male,A
+Nicola Marianiro,,,female,HL
+Andrea Continellaro,,,female,HL
+Marcello Poglianiro,,,male,HL
+Michele Carminatiro,,,female,W_NL
+Federico Maggiro,,,male,HL
+Stefano Zanero,,,male,HL
+Yu Haoiu,,,female,A
+Xiaodong Zhangiu,,,male,A
+Zijiang Yangiu,,,male,A
+Ting Liu,,,female,A
+Abraham Clementser,,,male,W_NL
+Naif Saleh Almakhdhuber,,,male,A
+Khaled S. Saaber,,,male,A
+Prashast Srivastavaer,,,male,A
+Jinkyu Kooer,,,female,A
+Saurabh Bagchier,,,male,A
+Mathias Payer,,,male,W_NL
+Nicolas Papernotel,,,male,A
+Patrick McDaniel,,,male,W_NL
+Marc Juarezht,,,male,W_NL
+Rob Jansenht,,,male,W_NL
+Rafael Galvezht,,,male,HL
+Tariz Elahiht,,,female,A
+Claudia Diazht,,,female,HL
+Matthew Wright,,,male,W_NL
+Sunghwan Kimim,,,male,A
+Seunghyun Yoonim,,,male,A
+Hyuk Lim,,,male,A
+Mohsen Imaniht,,,male,A
+Armon Bartonht,,,male,B_NL
+Matthew Wright,,,male,W_NL
+Amirali Sanatiniair,,,male,A
+Guevara Noubir,,,male,HL
+Celine Irveneah,,,female,B_NL
+David Formbyah,,,male,W_NL
+Samuel Litchfieldah,,,male,B_NL
+Raheem Beyah,,,male,B_NL
+Aniqua Basetng,,,female,B_NL
+Tamara Denning,,,female,W_NL
+Heyang Lvui,,,female,A
+Binxing Fangui,,,female,A
+Xiang Cui,,,male,A
+Seulbae KimOh,,,female,A
+Seunghoon WooOh,,,female,A
+Heejo LeeOh,,,female,A
+Hakjoo Oh,,,male,A
+Cristina Basescurd,,,female,HL
+Eleftherios Kokoris-Kogiasrd,,,male,W_NL
+Bryan Ford,,,male,W_NL
+Kevin Rossao,,,male,A
+Melody Mohao,,,female,A
+Teng Mohao,,,male,A
+Jason Yao,,,male,A
+Ni Aner,,,female,A
+Vinod Mishraer,,,male,A
+Steven Weber,,,male,W_NL
+Sovantharith Sengen,,,female,A
+Matthew Wrighten,,,male,B_NL
+Mahdi Nasrullah Al-Ameen,,,male,A
+Armon Bartonht,,,male,B_NL
+Mohsen Imaniht,,,male,A
+Jiang Minght,,,male,A
+Matthew Wright,,,male,W_NL
+Ewa Sytard,,,female,W_NL
+Philipp Jovanovicrd,,,male,A
+Eleftherios Kokoris Kogiasrd,,,male,W_NL
+Nicolas Gaillyrd,,,male,B_NL
+Linus Gasserrd,,,male,B_NL
+Ismail Khoffird,,,male,A
+Michael J. Fischerrd,,,male,W_NL
+Bryan Ford,,,male,W_NL
+Fattaneh Bayatbabolghanich,,,female,A
+Marina Blantonch,,,female,HL
+Mehrdad Aliasgarich,,,male,A
+Michael Goodrich,,,male,W_NL
+Yan Jiang,,,male,A
+Yuqing Zhang,,,female,A
+Jianjun Zhaoiu,,,male,A
+Fangjiao Zhangiu,,,male,A
+Chaoge Liu,,,female,A
+Adam Doupena,,,male,W_NL
+Giovanni Vigna,,,male,HL
+Shih-Chieh Su,,,female,A
+Xiaoxi Wangiu,,,female,A
+Min Liiu,,,male,A
+Xiaoyun Liiu,,,female,A
+Qixu Liu,,,female,A
+Zhiheng Liuao,,,female,A
+Zhen Zhangao,,,male,A
+Shihao Jingao,,,male,A
+Zhaohan Xiao,,,male,A
+Yinzhi Cao,,,female,A
+Anupam Dattaen,,,male,A
+Matt Fredriksonen,,,male,W_NL
+Gihyuk Koen,,,male,A
+Piotr Mardzielen,,,male,W_NL
+Shayak Sen,,,male,A
+Esha Sharmaon,,,female,A
+Jessica Staddon,,,female,W_NL
+Kovila P.L. Coopamootooss,,,male,B_NL
+Thomas Gross,,,male,W_NL
+Yu Fuks,,,female,A
+Lu Yuks,,,female,A
+Richard Brooks,,,male,W_NL
+Anoop Singhal,,,male,A
+Raj Vardhanva,,,male,A
+Ameya Sanzgiriva,,,female,HL
+Dattatraya Kulkarniva,,,male,A
+Srikanth Nalluriva,,,male,A
+Himanshu Srivastava,,,male,A
+Vikram Kapoor,,,male,A
+Miguel A. Arroyong,,,male,HL
+Hidenori Kobayashing,,,female,A
+Simha Sethumadhavanng,,,female,A
+Junfeng Yang,,,male,A
+Sunjay Cauligila,,,male,A
+Gary Soellerla,,,male,W_NL
+Ariana Mirianla,,,female,HL
+Brian Johannesmeyerla,,,male,W_NL
+Deian Stefanla,,,male,W_NL
+Ranjit Jhala,,,male,A
+Fattaneh Bayatbabolghani,,,female,A
+Cynthia Irvineim,,,female,W_NL
+Michael Thompsonim,,,male,W_NL
+Jean Khosalim,,,male,A
+Lefteris Kokoris-Kogias,,,male,W_NL
+Jay Yang,,,male,A
+Wei Yan,,,male,A
+Ray Chiang,,,male,A
+Dave Levinek,,,male,A
+Michelle Mazurek,,,female,W_NL
+Karno Mertogunoen,,,male,A
+Ryan Craven,,,male,W_NL
+Brendan Dolan-Gavitt,,,male,W_NL
+Michael Chambers,,,male,W_NL
+Karthikeyan Bhargavan,(INRIA),,male,A
+Bruno Blanchet,(INRIA),,male,HL
+Nadim Kobeissi,(INRIA),,male,A
+Yanick Fratantonio,(UC Santa Barbara),,male,HL
+Chenxiong Qian,(Georgia Tech),,female,A
+Simon Chung,(Georgia Tech),,male,A
+Wenke Lee,(Georgia Tech),,female,A
+Nicholas Carlini,"(University of California, Berkeley)",,male,W_NL
+David Wagner,"(University of California, Berkeley)",,male,W_NL
+Lukasz Olejnik,(University College London),,male,W_NL
+Steven Englehardt,(Princeton University),,male,W_NL
+Arvind Narayanan,(Princeton University),,male,A
+Piers O'Hanlon,"(University of Oxford, United Kingdom)",,male,W_NL
+Ravishankar Borgaonkar,"(University of Oxford, United Kingdom)",,male,A
+Lucca Hirschi,"(LSV, ENS Paris-Saclay)",,male,W_NL
+Úlfar Erlingsson,(Google),,male,A
+Bryan Parno,(Microsoft Research),,male,B_NL
+Michael Backes,"(CISPA, Saarland University)",and MPI-SWS,male,W_NL
+Davide Balzarotti,(EURECOM),,male,W_NL
+Gilles Barthe,(IMDEA),,male,B_NL
+Lujo Bauer,(CMU),,male,W_NL
+Karthikeyan Bhargavan,(INRIA),,male,A
+Joseph Bonneau,(Stanford),,male,W_NL
+Nikita Borisov,(UIUC),,male,A
+Herbert Bos,(VU University),,male,W_NL
+Kevin Butler,(University of Florida),,male,B_NL
+Srdjan Capkun,(ETH Zurich),,male,A
+Stephen Checkoway,(UIC),,male,W_NL
+Haibo Chen,(SJTU),,male,A
+Manuel Costa,(MSR),,male,HL
+Cas Cremers,(Oxford),,male,W_NL
+Srini Devadas,(MIT),,male,A
+Tudor Dumitras,(University of Maryland),,male,HL
+David Evans,(University of Virginia),,male,W_NL
+Cedric Fournet,(MSR),,male,B_NL
+Matt Fredrikson,(CMU),,male,W_NL
+Roxana Geambasu,(Columbia),,female,HL
+Saikat Guha,(MSR),,male,A
+Andreas Haeberlen,(University of Pennsylvania),,male,W_NL
+Matthew Hicks,(MIT Lincoln Laboratory),,male,W_NL
+Michael Hicks,(University of Maryland),,male,W_NL
+Jason Hong,(CMU),,male,A
+Amir Houmansadr,(UMass),,male,A
+Rob Johnson,(Stony Brook),,male,B_NL
+Brent Kang,(KAIST),,male,A
+Brad Karp,(UCL),,male,W_NL
+Jay Lorch,(MSR),,male,W_NL
+Matteo Maffei,(TU Vienna),,male,HL
+Sergio Maffeis,(Imperial),,male,HL
+Michelle Mazurek,(University of Maryland),,female,W_NL
+Sarah Meiklejohn,(UCL),,female,W_NL
+James Mickens,(Harvard),,male,B_NL
+Andrew Miller,(UIUC),,male,W_NL
+Ilya Mironov,(Google),,male,A
+Cristina Nita-Rotaru,(Northeastern),,female,A
+Alina Oprea,(Northeastern),,female,HL
+Marcus Peinado,(MSR),,male,HL
+Frank Piessens,(KU Leuven),,male,W_NL
+Niels Provos,(Google),,male,W_NL
+Mariana Raykova,(Yale),,female,HL
+Franziska Roesner,(University of Washington),,female,W_NL
+Ulrich Rührmair,(University of Bochum),,male,B_NL
+Andrei Sabelfeld,(Chalmers),,male,W_NL
+Vyas Sekar,(CMU),,male,A
+Simha Sethumadhavan,(Chip Scan/Columbia),,male,A
+Nigel Smart,(University of Bristol),,male,B_NL
+Alex Snoeren,(UCSD),,male,W_NL
+Nikhil Swamy,(MSR),,male,A
+Gang Tan,(Penn State),,male,A
+Abhradeep Thakurta,(Apple),,male,A
+Kurt Thomas,(Google),,male,W_NL
+Carmela Troncoso,(IMDEA),,female,HL
+Giovanni Vigna,(UCSB),,male,HL
+Bogdan Warinschi,(University of Bristol),,male,W_NL
+Robert Watson,(Cambridge),,male,W_NL
+Emmett Witchel,(UT Austin),,male,B_NL
+Tao Xie,(UIUC),,male,A
+Li Zhang,(Google),,female,A
+Yinqian Zhang,(Ohio State),,male,A
+Mark Gondree,(Sonoma State University),,male,W_NL
+Ashley Podhradsky,(Dakota State University),,female,W_NL
+Zachary N. J. Peterson,(California Polytechnic State University),,male,A
+Terry Benzel,(USC Information Sciences Institute),,male,W_NL
+Rob Cunningham,(MIT Lincoln Laboratory),,male,W_NL
+Sven Dietrich,(CUNY John Jay College of Criminal Justice),,male,W_NL
+Deborah Frincke,(National Security Agency),,female,W_NL
+Cynthia Irvine,(US Naval Postgraduate School),,female,W_NL

@@ -1,1986 +1,1986 @@
-Name,Organization,Location
-Vladislav Mladenov,"(Ruhr University Bochum, Chair for Network and Data Security)",
-Christian Mainka,"(Ruhr University Bochum, Chair for Network and Data Security)",
-Karsten Meyer zu Selhausen,(Hackmanit GmbH),
-Martin Grothe,"(Ruhr University Bochum, Chair for Network and Data Security)",
-Jörg Schwenk,"(Ruhr University Bochum, Chair for Network and Data Security)",
-Russell W. F. Lai,(Friedrich Alexander University Erlangen-Nuremberg),
-Viktoria Ronge,(Friedrich Alexander University Erlangen-Nuremberg),
-Tim Ruffing,(Blockstream),
-Dominique Schröder,(Friedrich Alexander University Erlangen-Nuremberg),
-Sri Aravinda Krishnan Thyagarajan,(Friedrich Alexander University Erlangen-Nuremberg),
-Jiafan Wang,(Chinese University of Hong Kong),
-José Bacelar Almeida,(University of Minho and INESC TEC),
-Manuel Barbosa,(University of Porto (FCUP) and INESC TEC),
-Gilles Barthe,(MPI-SP and IMDEA Software Institute),
-Matthew Campagna,(Amazon Web Services),
-Ernie Cohen,(Amazon Web Services),
-Benjamin Gregoire,(INRIA Sophia Antipolis),
-Vitor Pereira,(University of Porto (FCUP) and INESC TEC),
-Bernardo Portela,(University of Porto (FCUP) and INESC TEC),
-Pierre-Yves Strub,(École Polytechnique),
-Serdar Tasiran,(Amazon Web Services),
-Carlos Cotrini,(ETH Zurich),
-Luca Corinzia,(ETH Zurich),
-Thilo Weghorn,(ETH Zurich),
-David Basin,(ETH Zurich),
-Hooman Mohajeri Moghaddam,(Princeton University),
-Gunes Acar,(Princeton University),
-Arunesh Mathur,(Princeton University),
-Danny Y. Huang,(Princeton University),
-Ben Burgess,(Princeton University),
-Nick Feamster,(Princeton University),
-Edward Felten,(Princeton University),
-Prateek Mittal,(Princeton University),
-Arvind Narayanan,(Princeton University),
-Jens Müller,(Ruhr University Bochum),
-Fabian Ising,(Münster University of Applied Sciences),
-Vladislav Mladenov,(Ruhr University Bochum),
-Christian Mainka,(Ruhr University Bochum),
-Sebastian Schinzel,(Münster University of Applied Sciences),
-Jörg Schwenk,(Ruhr University Bochum),
-Georg Fuchsbauer,(Inria and Ecole normale superieure),
-Sarvar Patel,(Google),
-Giuseppe Persiano,(Universita’ di Salerno and Google),
-Kevin Yeo,(Google),
-Moti Yung,(Google),
-Chengcheng Xiang,(University of California San Diego),
-Yudong Wu,(University of California San Diego),
-Bingyu Shen,(University of California San Diego),
-Mingyao Shen,(University of California San Diego),
-Tianyin Xu,(University of Illinois Urbana-Champaign),
-Yuanyuan Zhou,(University of California San Diego),
-Cindy Moore,(University of California San Diego),
-Xinxin Jin,"(Whova, Inc.)",
-Tianwei Sheng,"(Whova, Inc.)",
-Ben Weinshel,(University of Chicago),
-Miranda Wei,(University of Chicago),
-Mainack Mondal,(IIT Kharagpur / University of Chicago),
-Euirim Choi,(University of Chicago),
-Shawn Shan,(University of Chicago),
-Claire Dolin,(University of Chicago),
-Michelle L. Mazurek,(University of Maryland),
-Blase Ur,(University of Chicago),
-Daniel Gruss,(Graz University of Technology),
-Erik Kraft,(Graz University of Technology),
-Trishita Tiwari,(Boston University),
-Michael Schwarz,(Graz University of Technology),
-Ari Trachtenberg,(Boston University),
-Jason Hennessey,(NetApp),
-Alex Ionescu,(CrowdStrike),
-Anders Fogh,(Intel Corporation),
-Ziqi Yang,(National University of Singapore),
-Jiyi Zhang,(National University of Singapore),
-Ee-Chien Chang,(National University of Singapore),
-Zhenkai Liang,(National University of Singapore),
-Elette Boyle,(IDC Herzliya),
-Geoffroy Couteau,(Karlsruhe Institute of Technology),
-Niv Gilboa,(Ben-Gurion University of the Negev),
-Yuval Ishai,(Technion),
-Lisa Kohl,(Karlsruhe Institute of Technology),
-Peter Rindal,(Visa Research),
-Peter Scholl,(Aarhus University),
-Zichen Gui,(University of Bristol),
-Oliver Johnson,(University of Bristol),
-Bogdan Warinschi,(University of Bristol),
-Henry Birge-Lee,(Princeton University),
-Liang Wang,(Princeton University),
-Jennifer Rexford,(Princeton University),
-Prateek Mittal,(Princeton University),
-Keegan Ryan,(NCC Group),
-Liwei Song,(Princeton University),
-Reza Shokri,(National University of Singapore (NUS)),
-Prateek Mittal,(Princeton University),
-Peter Rindal,(Visa Research),
-Daniel Masny,(Visa Research),
-Stanislaw Jarecki,"(University of California, Irvine)",
-Hugo Krawczyk,(Algorand Foundation),
-Jason Resch,(Independent),
-H.L.J. Bijmans,(Delft University of Technology),
-T.M. Booij,(Delft University of Technology),
-C. Doerr,(Delft University of Technology),
-Pengfei Qiu,"(Research Institute of Information Technology & BNRist, Tsinghua University, Beijing, China)",
-Yongqiang Lyu,"(Research Institute of Information Technology & BNRist, Tsinghua University, Beijing, China)",
-Dongsheng Wang,"(Research Institute of Information Technology & BNRist, Tsinghua University, Beijing, China)",
-Gang Qu,"(Department of Electrical and Computer Engineering, University of Maryland, College Park, Maryland, USA)",
-Jinyuan Jia,(Duke University),
-Ahmed Salem,(CISPA Helmholtz Center for Information Security),
-Michael Backes,(CISPA Helmholtz Center for Information Security),
-Yang Zhang,(CISPA Helmholtz Center for Information Security),
-Neil Zhenqiang Gong,(Duke University),
-Carmit Hazay,(Bar-Ilan University),
-Yuval Ishai,(Technion),
-Antonio Marcedone,(Cornell-Tech),
-Muthu Venkitasubramaniam,(University of Rochester),
-Hao Chen,(MIcrosoft Research),
-Wei Dai,(Microsoft Research),
-Miran Kim,"(University of Texas, Health Science Center at Houston)",
-Yongsoo Song,(Microsoft Research),
-Matthew Luckie,(University of Waikato),
-Robert Beverly,(Naval Postgraduate School),
-Ryan Koga,(CAIDA / UC San Diego),
-Ken Keys,(CAIDA / UC San Diego),
-Joshua Kroll,(UC Berkeley School of Information),
-kc claffy,(CAIDA / UC San Diego),
-Yue Cao,"(University of California, Riverside)",
-Zhongjie Wang,"(University of California, Riverside)",
-Zhiyun Qian,"(University of California, Riverside)",
-Chengyu Song,"(University of California, Riverside)",
-Srikanth Krishnamurthy,"(University of California, Riverside)",
-Paul Yu,(Army Research Laboratory),
-Kenneth Co,(Imperial College London),
-Luis Muñoz-González,(Imperial College London),
-Sixte de Maupeou,(Imperial College London),
-Emil C. Lupu,(Imperial College London),
-Hao Chen,(Microsoft Research),
-Ilaria Chillotti,(KU Leuven),
-Ling Ren,(VMware Research),
-Sazzadur Rahaman,(Virginia Tech),
-Gang Wang,(University of Illinois at Urbana-Champaign),
-Daphne Yao,(Virginia Tech),
-Peng Chen,(ByteDance AI lab),
-Jianzhong Liu,(ShanghaiTech University),
-Hao Chen,"(University of California, Davis)",
-Zhuotao Liu,(UIUC & Google),
-Yangxi Xiang,(Beijing University of Posts and Telecommunications),
-Jian Shi,(Case Western Reserve University),
-Peng Gao,"(University of California, Berkeley)",
-Haoyu Wang,(Beijing University of Posts and Telecommunications),
-Xusheng Xiao,(Case Western Reserve University),
-Bihan Wen,(Nanyang Technological University),
-Yih-Chun Hu,(UIUC),
-Jeffrey Champion,(Northeastern University),
-Abhi Shelat,(Northeastern University),
-Jonathan Ullman,(Northeastern University),
-Poulami Das,"(Technische Universität Darmstadt, Germany)",
-Sebastian Faust,"(Technische Universität Darmstadt, Germany)",
-Julian Loss,"(Ruhr-Universität Bochum, Germany)",
-Haipei Sun,(Qatar Computing Research Institute),
-Xiaokui Xiao,(National University of Singapore),
-Issa Khalil,"(Qatar Computing Research Institute (QCRI)), HBKU)",
-Yin Yang,"(College of Science and Engineering, Hamad Bin Khalifa University)",
-Zhan Qin,(ZheJiang University),
-Hui,(Wendy) Wang (Stevens Institute of Technology),
-Ting Yu,(Qatar Computing Research Institute),
-Mingi Cho,(Yonsei University),
-Seoyoung Kim,(Yonsei University),
-Taekyoung Kwon,(Yonsei University),
-Muhammed F. Esgin,"(Monash University and Data61, CSIRO)",
-Raymond K. Zhao,(Monash University),
-Ron Steinfeld,(Monash University),
-Joseph K. Liu,(Monash University),
-Dongxi Liu,"(Data61, CSIRO)",
-Ryan Wails,(U.S. Naval Research Laboratory),
-Aaron Johnson,(U.S. Naval Research Laboratory),
-Daniel Starin,(Perspecta Labs),
-Arkady Yerukhimovich,(George Washington University),
-S. Dov Gordon,(George Mason University),
-Syed Rafiul Hussain,(Purdue University),
-Mitziu Echeverria,(The University of Iowa),
-Imtiaz Karim,(Purdue University),
-Omar Chowdhury,(The University of Iowa),
-Elisa Bertino,(Purdue University),
-Hafiz Asif,(Rutgers University),
-Periklis Papakonstantinou,(Rutgers University),
-Jaideep Vaidya,(Rutgers University),
-Jingxuan He,(ETH Zurich),
-Mislav Balunovic,(ETH Zurich),
-Nodar Ambroladze,(ETH Zurich),
-Petar Tsankov,(ETH Zurich),
-Martin Vechev,(ETH Zurich),
-Vivek Bagaria,(Stanford University),
-Sreeram Kannan,(University of Washington Seattle),
-David Tse,(Stanford University),
-Giulia Fanti,(Carnegie Mellon University),
-Pramod Viswanath,(University of Illinois Urbana-Champaign),
-Ruiyu Zhu,(Indiana University Bloomington),
-Changchang Ding,(Indiana University Bloomington),
-Yan Huang,(Indiana University Bloomington),
-Thomas Haines,(Norwegian University of Science and Technology),
-Rajev Gore,(The Australian National University),
-Mukesh Tiwari,(The Australian National University),
-Simon Couch,(Reed College),
-Zeki Kazan,(Reed College),
-Kaiyan Shi,(Reed College),
-Andrew Bray,(Reed College),
-Adam Groce,(Reed College),
-Michael Schwarz,(Graz University of Technology),
-Moritz Lipp,(Graz University of Technology),
-Ahmad Moghimi,(Worcester Polytechnic Institute),
-Jo Van Bulck,"(imec-DistriNet, KU Leuven)",
-Julian Stecklina,(Cyberus Technology),
-Thomas Prescher,(Cyberus Technology),
-Daniel Gruss,(Graz University of Technology),
-Christoph Egger,(Friedrich-Alexander-Universität Erlangen-Nürnberg),
-Pedro Moreno-Sanchez,(TU Wien),
-Matteo Maffei,(TU Wien),
-Vitor Pereira,(INESC TEC & DCC FC Universidade do Porto),
-Karim Eldefrawy,(SRI International),
-Vincent Cheval,(INRIA Nancy – Grand Est),
-Steve Kremer,(INRIA Nancy – Grand Est),
-Itsaka Rakotonirina,(INRIA Nancy – Grand Est),
-Kurt Thomas,(Google),
-Theo Bertram,(Google),
-Elie Bursztein,(Google),
-Stephanie Caro,(Google),
-Hubert Chao,(Google),
-Rutledge Chin Feman,(Google),
-Peter Fleischer,(Google),
-Albin Gustafsson,(Google),
-Jess Hemerly,(Google),
-Chris Hibbert,(Google),
-Luca Invernizzi,(Google),
-Lanah Kammourieh Donnelly,(Google),
-Jason Ketover,(Google),
-Jay Laefer,(Google),
-Paul Nicholas,(Google),
-Yuan Niu,(Google),
-Harjinder Obhi,(Google),
-David Price,(Google),
-Andrew Strait,(Google),
-Al Verney,(Google),
-Claudio Canella,(Graz University of Technology),
-Daniel Genkin,(University of Michigan),
-Lukas Giner,(Graz University of Technology),
-Daniel Gruss,(Graz University of Technology),
-Moritz Lipp,(Graz University of Technology),
-Marina Minkin,(University of Michigan),
-Daniel Moghimi,(Worcester Polytechnic Institute),
-Frank Piessens,(KU Leuven),
-Michael Schwarz,(Graz University of Technology),
-Berk Sunar,(Worcester Polytechnic Institute),
-Jo Van Bulck,(KU Leuven),
-Yuval Yarom,(University of Adelaide and Data61),
-Gleb Naumenko,(University of British Columbia),
-Gregory Maxwell,(Independent),
-Pieter Wuille,(Blockstream),
-Alexandra,(Sasha) Fedorova (University of British Columbia),
-Ivan Beschastnikh,(University of British Columbia),
-Ariel Nof,(Bar-Ilan University),
-Yuval Ishai,(Technion and UCLA),
-Elette Boyle,(IDC Herzliya),
-Niv Gilboa,(BGU),
-Susan Hohenberger,(Johns Hopkins University),
-Satyanarayana Vusirikala,(University of Texas at Austin),
-Christine Utz,(Ruhr-Universität Bochum),
-Martin Degeling,(Ruhr-Universität Bochum),
-Sascha Fahl,(Ruhr-Universität Bochum),
-Florian Schaub,(University of Michigan),
-Thorsten Holz,(Ruhr-Universität Bochum),
-Atri Bhattacharyya,(EPFL),
-Alexandra Sandulescu,(IBM Zurich),
-Matthias Neugschwandtner,(IBM Zurich),
-Alessandro Sorniotti,(IBM Zurich),
-Babak Falsafi,(EPFL),
-Mathias Payer,(EPFL),
-Anil Kurmus,(IBM Zurich),
-Shang Gao,(The Hong Kong Polytechnic University),
-Zecheng Li,(The Hong Kong Polytechnic University),
-Zhe Peng,(The Hong Kong Polytechnic University),
-Bin Xiao,(The Hong Kong Polytechnic University),
-Donghang Lu,(Purdue University),
-Thomas Yurek,(UIUC),
-Samarth Kulshreshtha,(UIUC),
-Rahul Govind,(UIUC),
-Aniket Kate,(Purdue University),
-Andrew Miller,(UIUC),
-Sjouke Mauw,"(SnT/CSC, University of Luxembourg)",
-Zach Smith,"(CSC, University of Luxembourg)",
-Jorge Toro-Pozo,"(CSC, University of Luxembourg)",
-Rolando Trujillo-Rasua,"(School of Information Technology, Deakin University)",
-Mainack Mondal,(IIT Kharagpur / University of Chicago),
-Günce Su Yilmaz,(University of Chicago),
-Noah Hirsch,(University of Chicago),
-Mohammad Taha Khan,(University of Illinois at Chicago),
-Michael Tang,(University of Chicago),
-Christopher Tran,(University of Illinois at Chicago),
-Chris Kanich,(University of Illinois at Chicago),
-Blase Ur,(University of Chicago),
-Elena Zheleva,(University of Illinois at Chicago),
-Masoud Ghaffarinia,(University of Texas at Dallas),
-Kevin Hamlen,(University of Texas at Dallas),
-Dahlia Malkhi,(Calibra),
-Kartik Nayak,(VMware Research),
-Ling Ren,(VMware Research),
-Xing Gao,(University of Memphis),
-Zhongshu Gu,(IBM Research),
-Zhengfa Li,(Independent Researcher),
-Hani Jamjoom,(IBM Research),
-Cong Wang,(Old Dominion University),
-Eduard Marin,(University of Birmingham),
-Nicola Bucciol,(University of Padua),
-Mauro Conti,(University of Padua),
-Payap Sirinam,(Navaminda Kasatriyadhiraj Royal Air Force Academy),
-Nate Matthews,(Rochester Institute of Technology),
-Mohammad Saidur Rahman,(Rochester Institute of Technology),
-Matthew Wright,(Rochester Institute of Technology),
-Shen Liu,"(The Pennsylvania State University, University Park)",
-Dongrui Zeng,"(The Pennsylvania State University, University Park)",
-Yongzhe Huang,"(The Pennsylvania State University, University Park)",
-Frank Capobianco,"(The Pennsylvania State University, University Park)",
-Stephen McCamant,"(University of Minnesota, Twin Cities)",
-Trent Jaeger,"(The Pennsylvania State University, University Park)",
-Gang Tan,"(The Pennsylvania State University, University Park)",
-Adrià Gascón,(The Alan Turing Institute / University of Warwick),
-Mariana Raykova,(Google),
-Leonie Reichert,(Humboldt-Universität zu Berlin),
-Phillipp Schoppmann,(Humboldt-Universität zu Berlin),
-Robert Buhren,(Technische Universität Berlin),
-Christian Werling,"(Hasso Plattner Institute, Potsdam)",
-Jean-Pierre Seifert,(Technische Universität Berlin),
-Christian Skalka,(University of Vermont),
-John Ring,(University of Vermont),
-David Darais,(University of Vermont),
-Minseok Kwon,(Rochester Institute of Technology),
-Sahil Gupta,(Rochester Institute of Technology),
-Kyle Diller,(Rochester Institute of Technology),
-Steffen Smolka,(Cornell University),
-Nate Foster,(Cornell University),
-Yushi Cheng,(Zhejiang University),
-Xiaoyu Ji,(Zhejiang University),
-Juchuan Zhang,(Zhejiang University),
-Wenyuan Xu,(Zhejiang University),
-Yi-Chao Chen,(University of Texas at Austin),
-Nitin Agrawal,(University of Oxford),
-Ali Shahin Shamsabadi,(Queen Mary University London),
-Matthew Kusner,"(University of Oxford, The Alan Turing Institute)",
-Adria Gascon,(The Alan Turing Institute),
-Alin Tomescu,(MIT),
-Vivek Bhupatiraju,(Lexington High School),
-Dimitrios Papadopoulos,(Hong Kong University of Science and Technology),
-Charalampos Papamanthou,(University of Maryland),
-Nikos Triandopoulos,(Stevens Institute of Technology),
-Srinivas Devadas,(MIT),
-Fucheng Liu,"(Institute of Information Engineering, Chinese Academy of Science)",
-Yu Wen,"(Institute of Information Engineering, Chinese Academy of Sciences)",
-Dongxue Zhang,"(Institute of Information Engineering, Chinese Academy of Science)",
-Xihe Jiang,"(Institute of Information Engineering, Chinese Academy of Science)",
-Xinyu Xing,(The Pennsylvania State University),
-Dan Meng,"(Institute of Information Engineering, Chinese Academy of Science)",
-Moni Naor,(Weizmann Institue),
-Benny Pinkas,(Bar Ilan University),
-Eyal Ronen,"(Tel Aviv University, KU Leuven)",
-Simon Eberz,(University of Oxford),
-Giulio Lovisotto,(University of Oxford),
-Kasper Rasmussen,(University of Oxford),
-Vincent Lenders,(Armasuisse),
-Ivan Martinovic,(University of Oxford),
-Teodora Baluta,(National University of Singapore),
-Shiqi Shen,(National University of Singapore),
-Shweta Shinde,"(University of California, Berkeley)",
-Kuldeep S. Meel,(National University of Singapore),
-Prateek Saxena,(National University of Singapore),
-David Clayton,(University of Florida),
-Christopher Patton,(University of Florida),
-Thomas Shrimpton,(University of Florida),
-Sadegh M. Milajerdi,(UIC),
-Birhanu Eshete,(University of Michigan-Dearborn),
-Rigel Gjomemo,(UIC),
-V.N. Venkatakrishnan,(UIC),
-Jingjie Li,(University of Wisconsin-Madison),
-Younghyun Kim,(University of Wisconsin-Madison),
-Kassem Fawaz,(University of Wisconsin-Madison),
-Yingqi Liu,(Purdue University),
-Wen-Chuan Lee,(Purdue University),
-Guanhong Tao,(Purdue University),
-Shiqing Ma,(Purdue University),
-Yousra Aafer,(Purdue University),
-Xiangyu Zhang,(Purdue University),
-Phillipp Schoppmann,(Humboldt-Universität zu Berlin),
-Adrià Gascón,"(The Alan Turing Institute, University of Warwick)",
-Mariana Raykova,(Google),
-Benny Pinkas,(Bar Ilan University),
-Zhenyuan LI,(Zhejiang University),
-Qi Alfred Chen,"(University of California, Irvine)",
-Chunlin Xiong,(Zhejiang University),
-Yan Chen,(Northwestern University),
-Tiantian Zhu,(Zhejiang University of Technology),
-Hai Yang,(MagicShield Inc),
-Sven Hammann,(ETH Zurich),
-Sasa Radomirovic,(University of Dundee),
-Ralf Sasse,(ETH Zurich),
-David Basin,(ETH Zurich),
-Chen Yan,(Zhejiang University),
-Yan Long,(Zhejiang University),
-Xiaoyu Ji,(Zhejiang University),
-Wenyuan Xu,(Zhejiang University),
-Min Du,(University of California Berkeley),
-Zhi Chen,(University of California Berkeley),
-Chang Liu,(Citadel Securities),
-Rajvardhan Oak,(University of California Berkeley),
-Dawn Song,(University of California Berkeley),
-Abbas Naderi-Afooshteh,(University of Virginia),
-Yonghwi Kwon,(University of Virginia),
-Jack Davidson,(University of Virginia),
-Anh Nguyen-Tuong,(University of Virginia),
-Ali Razmjoo-Qalaei,(ZDResearch),
-Mohammad-Reza Zamiri-Gourabi,(ZDResearch),
-Dong Yuan,(Tsinghua University),
-Yuanli Miao,(Tsinghua University),
-Neil Zhenqiang Gong,(Duke University),
-Zheng Yang,(Tsinghua University),
-Qi Li,(Tsinghua University),
-Dawn Song,(UC Berkeley),
-Qian Wang,(Wuhan University),
-Xiao Liang,(Tencent),
-Qi Wang,(University of Illinois at Urbana-Champaign),
-Pubali Datta,(University of Illinois at Urbana-Champaign),
-Wei Yang,(The University of Texas at Dallas),
-Si Liu,(University of Illinois at Urbana-Champaign),
-Carl Gunter,(University of Illinois at Urbana-Champaign),
-Adam Bates,(University of Illinois at Urbana-Champaign),
-Dominik Harz,(Imperial College London),
-Lewis Gudgeon,(Imperial College London),
-Arthur Gervais,(Imperial College London),
-William J. Knottenbelt,(Imperial College London),
-Muhammad Ishaq,(University of Edinburgh),
-Ana Milanova,(Rensselaer Polytechnic Institute),
-Vassilis Zikas,(University of Edinburgh),
-Yu-Fu Fu,(Academia Sinica),
-Jiaxiang Liu,(Academia Sinica & Shenzhen University),
-Xiaomu Shi,(Academia Sinica & Shenzhen University),
-Ming-Hsien Tsai,(Academia Sinica),
-Bow-Yaw Wang,(Academia Sinica),
-Bo-Yin Yang,(Academia Sinica),
-Melissa Chase,(Microsoft Research),
-Apoorvaa Deshpande,(Brown University),
-Esha Ghosh,(Microsoft Research),
-Harjasleen Malvai,(Cornell University),
-Simon Birnbach,(University of Oxford),
-Simon Eberz,(University of Oxford),
-Ivan Martinovic,(University of Oxford),
-Ting Chen,(University of Electronic Science and Technology of China),
-Yufei Zhang,(University of Electronic Science and Technology of China),
-Zihao Li,(University of Electronic Science and Technology of China),
-Xiapu Luo,(The Hong Kong Polytechnic University),
-Ting Wang,(Lehigh University),
-Rong Cao,(University of Electronic Science and Technology of China),
-Xiuzhuo Xiao,(University of Electronic Science and Technology of China),
-Xiaosong Zhang,(University of Electronic Science and Technology of China),
-Jun Furukawa,(NEC Israel Research Center),
-Yehuda Lindell,(Bar-Ilan University and Unbound Tech),
-José Bacelar Almeida,(Universidade do Minho & INESC-TEC),
-Cécile Baritel-Ruet,(Université Côte d’Azur & Inria Sophia-Antipolis),
-Manuel Barbosa,(Universidade do Porto & INESC-TEC),
-Gilles Barthe,(MPI-SP & IMDEA Software Institute),
-François Dupressoir,(University of Surrey & University of Bristol),
-Benjamin Grégoire,(Inria Sophia-Antipolis),
-Vincent Laporte,(Inria),
-Tiago Oliveira,(Universidade do Porto & INESC-TEC & FCUP),
-Alley Stoughton,(Boston University),
-Pierre-Yves Strub,(École Polytechnique),
-Jianting Ning,(Fujian Normal University & National University of Singapore),
-Geong Sen Poh,(Trustwave & NUS-Singtel Cyber Security Lab),
-Jia-Ch’ng Loh,(NUS-Singtel Cyber Security Lab),
-Jason Chia,(NUS-Singtel Cyber Security Lab),
-Ee-Chien Chang,(National University of Singapore),
-Chaoshun Zuo,(Ohio State University),
-Haohuang Wen,(Ohio State University),
-Zhiqiang Lin,(Ohio State University),
-Yinqian Zhang,(Ohio State University),
-Megha Byali,"(Indian Institute of Science, Bangalore)",
-Carmit Hazay,"(Bar-Ilan University, Israel)",
-Arpita Patra,"(Indian Institute of Science, Bangalore)",
-Swati Singla,"(Indian Institute of Science, Bangalore)",
-Armaiti Ardeshiricham,(UCSD),
-Yoshiki Takashima,(UCSD),
-Sicun Gao,(UCSD),
-Ryan Kastner,(UCSD),
-Johannes Blömer,(Paderborn University),
-Jan Bobolz,(Paderborn University),
-Denis Diemert,(Paderborn University),
-Fabian Eidens,(Paderborn University),
-Sean Heelan,(University of Oxford),
-Daniel Kroening,(University of Oxford),
-Tom Melham,(University of Oxford),
-Shijun Zhao,(Institute of Software Chinese Academy of Sciences),
-Qianying Zhang,(Capital Normal University Information Engineering Colleg),
-Qin Yu,(Institute of Software Chinese Academy of Sciences),
-Wei Feng,(Institute of Software Chinese Academy of Sciences),
-Dengguo Feng,(Institute of Software Chinese Academy of Sciences),
-Samuel Steffen,(ETH Zürich),
-Benjamin Bichsel,(ETH Zürich),
-Mario Gersbach,(ETH Zürich),
-Noa Melchior,(ETH Zürich),
-Petar Tsankov,(ETH Zürich),
-Martin Vechev,(ETH Zürich),
-Kangjie Lu,(University of Minnesota),
-Hong Hu,(GeorgiaTech),
-Aurore Fass,(CISPA Helmholtz Center for Information Security),
-Michael Backes,(CISPA Helmholtz Center for Information Security),
-Ben Stock,(CISPA Helmholtz Center for Information Security),
-Yueqi Chen,(Pennsylvania State University),
-Xinyu Xing,(Pennsylvania State University),
-Jo Van Bulck,"(imec-DistriNet, KU Leuven, Belgium)",
-David Oswald,"(School of Computer Science, University of Birmingham, UK)",
-Eduard Marin,"(School of Computer Science, University of Birmingham, UK)",
-Abdulla Aldoseri,"(School of Computer Science, University of Birmingham, UK)",
-Flavio D. Garcia,"(School of Computer Science, University of Birmingham, UK)",
-Frank Piessens,"(imec-DistriNet, KU Leuven, Belgium)",
-Alex Biryukov,(University of Luxembourg),
-Daniel Feher,(University of Luxembourg),
-Giuseppe Vitto,(University of Luxembourg),
-Mengchen Cao,"(Orion Security Lab, Alibaba Group)",
-Xiantong Hou,"(Orion Security Lab, Alibaba Group)",
-Tao Wang,"(Orion Security Lab, Alibaba Group)",
-Hunter Qu,"(Orion Security Lab, Alibaba Group)",
-Yajin Zhou,(Zhejiang University),
-Xiaolong Bai,"(Orion Security Lab, Alibaba Group)",
-Fuwei Wang,"(Orion Security Lab, Alibaba Group)",
-Hoai Viet Nguyen,(Cologne University of Applied Sciences),
-Luigi Lo Iacono,(Cologne University of Applied Sciences),
-Hannes Federrath,(University of Hamburg),
-Sunyoung Seiler-Hwang,(University of Mannheim),
-Patricia Arias-Cabarcos,(University of Mannheim),
-Andrés Marín,(University Carlos III of Madrid),
-Florina Almenares,(University Carlos III of Madrid),
-Daniel Díaz-Sánchez,(University Carlos III of Madrid),
-Christian Becker,(University of Mannheim),
-Yue Zhao,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences, China)",
-School of Cyber Securitya),,
-University of Chinese Academy of Sciencesa),,
-China),,
-Hong Zhu,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences, China)",
-School of Cyber Securitya),,
-University of Chinese Academy of Sciencesa),,
-China),,
-Ruigang Liang,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China)",
-Qintao Shen,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences, China)",
-School of Cyber Securitya),,
-University of Chinese Academy of Sciencesa),,
-China),,
-Shengzhi Zhang,"(Department of Computer Science, Metropolitan College, Boston University)",
-Kai Chen,"(SKLOIS, Institute of Information Engineering,Chinese Academy of Sciences, China)",
-School of Cyber Security),,
-University of Chinese Academy of Sciences),,
-China),,
-Russell W. F. Lai,(Friedrich-Alexander University Erlangen-Nuremberg),
-Giulio Malavolta,( Carnegie Mellon University),
-Viktoria Ronge,(Friedrich-Alexander University Erlangen-Nuremberg),
-Andreas Hülsing,(TU Eindhoven),
-Peter Schwabe,(RU Nijmegen),
-Joost Rijneveld,(RU Nijmegen),
-Stefan Kölbl,(Cybercrypt),
-Daniel J Bernstein,(University of Illinois at Chicago and Ruhr University Bochum),
-Ruben Niederhagen,(SIT Fraunhofer),
-Kevin Bock,(University of Maryland),
-George Hughey,(University of Maryland),
-Xiao Qiang,(UC Berkeley),
-Dave Levin,(University of Maryland),
-Faris Bugra Kokulu,(Arizona State University),
-Ananta Soneji,(Arizona State University),
-Tiffany Bao,(Arizona State University),
-Yan Shoshitaishvili,(Arizona State University),
-Ziming Zhao,(Rochester Institute of Technology),
-Adam Doupé,(Arizona State University),
-Gail-Joon Ahn,(Arizona State University and Samsung Research),
-Florian Tramèr,(Stanford University),
-Pascal Dupré,(CISPA),
-Gili Rusak,(Stanford),
-Giancarlo Pellegrino,"(Stanford University, CISPA)",
-Dan Boneh,(Stanford University),
-Matteo Campanelli,"(IMDEA Software Institute, Madrid, Spain)",
-Dario Fiore,"(IMDEA Software Institute, Madrid, Spain)",
-Anaïs Querol,"(IMDEA Software Institute, Madrid, and Universidad Politecnica de Madrid, Spain)",
-Gilles Barthe,(MPI-SP and IMDEA Software Institute),
-Sonia Belaïd,(CryptoExperts),
-Thomas Espitau,(Sorbonne Université),
-Pierre-Alain Fouque,(Univ Rennes),
-Mélissa Rossi,(ENS and Thalès),
-Mehdi Tibouchi,(NTT Corporation),
-Sergey Frolov,(University of Colorado Boulder),
-Jack Wampler,(University of Colorado Boulder),
-Sze Chuen Tan,(UIUC),
-J. Alex Halderman,(University of Michigan),
-Nikita Borisov,(UIUC),
-Eric Wustrow,(University of Colorado Boulder),
-Christian Tiefenau,(University of Bonn),
-Emanuel von Zezschwitz,"(University of Bonn, Fraunhofer FKIE)",
-Maximilian Häring,(Fraunhofer FKIE),
-Katharina Krombholz,(CISPA Helmholtz Center for Information Security),
-Matthew Smith,"(University of Bonn, Fraunhofer FKIE)",
-Binghui Wang,(Duke University),
-Neil Zhenqiang Gong,(Duke University),
-Michael Klooß,(Karlsruhe Institute of Technology),
-Max Hoffmann,(Ruhr University Bochum),
-Andy Rupp,(Karlsruhe Institute of Technology),
-Dennis Jackson,(University of Oxford),
-Katriel Cohn-Gordon,(Facebook),
-Cas Cremers,(CISPA Helmholtz Center for Information Security),
-Ralf Sasse,(ETH Zürich),
-Angelique Faye Loe,"(Royal Holloway, University of London)",
-Elizabeth Quaglia,"(Royal Holloway, University of London)",
-Yuanshun Yao,(University of Chicago),
-Huiying Li,(University of Chicago),
-Haitao Zheng,(University of Chicago),
-Ben Y. Zhao,(University of Chicago),
-Mary Maller,(University College London),
-Sean Bowe,(Zcash),
-Markulf Kohlweiss,"(University of Edinburgh, IOHK)",
-Sarah Meiklejohn,(University College London),
-Michael Backes,(CISPA Helmholtz Center for Information Security),
-Lucjan Hanzlik,"(CISPA Helmholtz Center for Information Security, Stanford University)",
-Jonas Schneider-Bensch,(CISPA Helmholtz Center for Information Security),
-Yulong Cao,(University of Michigan),
-Chaowei Xiao,(University of Michigan),
-Benjamin Cyr,(University of Michigan),
-Yimeng Zhou,(University of Michigan),
-Won Park,(University of Michigan),
-Sara Rampazzi,(University of Michigan),
-Qi Alfred Chen,"(University of California, Irvine)",
-Kevin Fu,(University of Michigan),
-Z. Morley Mao,(University of Michigan),
-Guoxing Chen,(The Ohio State University),
-Yinqian Zhang,(The Ohio State University),
-Ten-Hwang Lai,(The Ohio State University),
-Shengqu Xi,(Nanjing University),
-Shao Yang,(Case Western Reserve University),
-Xusheng Xiao,(Case Western Reserve University),
-Yuan Yao,(Nanjing University),
-Yayuan Xiong,(Nanjing University),
-Fengyuan Xu,"(National Key Lab for Novel Software Technology, Nanjing University)",
-Haoyu Wang,(Beijing University of Posts and Telecommunications),
-Peng Gao,"(University of California, Berkeley)",
-Zhuotao Liu,(University of Illinois at Urbana-Champaign),
-Feng Xu,(Nanjing University),
-Jian Lu,(Nanjing University),
-Josh Aas,(Let’s Encrypt),
-Richard Barnes,(Cisco),
-Benton Case,(Stanford University),
-Zakir Durumeric,(Stanford University),
-Peter Eckersley,(Electronic Frontier Foundation),
-Alan Flores-López,(Stanford University),
-J. Alex Halderman,(University of Michigan),
-Jacob Hoffman-Andrews,(Electronic Frontier Foundation),
-James Kasten,(University of Michigan),
-Eric Rescorla,(Mozilla),
-Seth Schoen,(Electronic Frontier Foundation),
-Brad Warren,(Electronic Frontier Foundation),
-Mert D. Pesé,"(University of Michigan, Ann Arbor)",
-Troy Stacer,"(University of Michigan, Ann Arbor)",
-C. Andrés Campos,"(University of Michigan, Ann Arbor)",
-Eric Newberry,"(University of Michigan, Ann Arbor)",
-Dongyao Chen,"(University of Michigan, Ann Arbor)",
-Kang G. Shin,"(University of Michigan, Ann Arbor)",
-Huibo Wang,(University of Texas at Dallas),
-Pei Wang,(Baidu X-Lab),
-Yu Ding,(Baidu X-Lab),
-Mingshen Sun,(Baidu X-Lab),
-Yiming Jing,(Baidu X-Lab),
-Ran Duan,(Baidu X-Lab),
-Long Li,(Baidu X-Lab),
-Yulong Zhang,(Baidu X-Lab),
-Tao Wei,(Baidu X-Lab),
-Zhiqiang Lin,(Ohio State University),
-Soumya Basu,"(Cornell University, IC3, VMWare Research)",
-Alin Tomescu,"(MIT, VMWare Research)",
-Ittai Abraham,(VMware Research),
-Dahlia Malkhi,(VMWare),
-Mike Reiter,"(UNC, VMWare Research)",
-Emin Gün Sirer,"(Cornell, IC3)",
-Mizanur Rahman,(Amazon),
-Nestor Hernandez,(FIU),
-Ruben Recabarren,(FIU),
-Syed Ishtiaque Ahmed,(University of Toronto),
-Bogdan Carbunar,(FIU),
-Richard Roberts,(University of Maryland),
-Yaelle Goldschlag,(University of Maryland),
-Rachel Walter,(University of Maryland),
-Taejoong Chung,(Rochester Institute of Technology),
-Alan Mislove,(Northeastern University),
-Dave Levin,(University of Maryland),
-Yazhou Tu,(University of Louisiana at Lafayette),
-Sara Rampazzi,(University of Michigan),
-Bin Hao,(University of Louisiana at Lafayette),
-Angel Rodriguez,(University of Michigan),
-Kevin Fu,(University of Michigan),
-Xiali Hei,(University of Louisiana at Lafayette),
-Huayi DUAN,(City University of Hong Kong),
-Cong Wang,(City University of Hong Kong),
-Xingliang Yuan,(Monash University),
-Yajin Zhou,(Zhejiang University),
-Qian Wang,(Wuhan University),
-Kui Ren,(Zhejiang University),
-Phi Hung Le,(George Mason University),
-Samuel Ranellucci,"(University of Maryland, George Mason University)",
-S. Dov Gordon,(George Mason University),
-Sazzadur Rahaman,"(Department of Computer Science, Virginia Tech)",
-Ya Xiao,"(Department of Computer Science, Virginia Tech)",
-Sharmin Afrose,"(Department of Computer Science, Virginia Tech)",
-Fahad Shaon,"(Department of Computer Science, The University of Texas at Dallas)",
-Ke Tian,"(Department of Computer Science, Virginia Tech)",
-Miles Frantz,"(Department of Computer Science, Virginia Tech)",
-Danfeng,"(Daphne) Yao (Department of Computer Science, Virginia Tech)",
-Murat Kantarcioglu,"(Department of Computer Science, The University of Texas at Dallas)",
-Bingyu Li,"(Institute of Information Engineering, CAS)",
-Jingqiang Lin,"(Institute of Information Engineering, CAS)",
-Fengjun Li,"(The University of Kansas, Lawrence, USA)",
-Qiongxiao Wang,"(Institute of Information Engineering, CAS)",
-Qi Li,"(Tsinghua University, China)",
-Jiwu Jing,"(Institute of Information Engineering, CAS)",
-Congli Wang,"(Institute of Information Engineering, CAS)",
-Christine Utz,(Ruhr-Universität),
-  Bochum),,
-Martin Degeling,(Ruhr-Universität Bochum),
-Sascha Fahl,,
-,(Ruhr-Universität Bochum),
-Florian Schaub,(University of Michigan),
-Thorsten,,
-Holz,(Ruhr-Universität Bochum),
-Sunyoung Seiler-Hwang,(University of Mannheim),
-Patricia Arias-Cabarcos,(University of Mannheim),
-Andrés Marín,(University Carlos III of Madrid),
-Florina Almenares,(University Carlos III of Madrid),
-Daniel Díaz-Sánchez,(University Carlos III of Madrid),
-Christian Becker,(University of Mannheim),
-Vladislav Mladenov,"(Ruhr University Bochum, Chair for)",
-  Network and Data Security),,
-Christian Mainka,"(Ruhr University Bochum, Chair)",
-  for Network and Data Security),,
-Karsten Meyer zu Selhausen,(Hackmanit GmbH),
-Martin,,
-Grothe,"(Ruhr University Bochum, Chair for Network and Data Security)",
-Jörg,,
-Schwenk,"(Ruhr University Bochum, Chair for Network and Data Security)",
-Simon Eberz,(University of Oxford),
-Giulio Lovisotto,,
-,(University of Oxford),
-Kasper Rasmussen,(University of Oxford),
-Vincent,,
-Lenders,(Armasuisse),
-Ivan Martinovic,(University of Oxford),
-Syed Rafiul Hussain,(Purdue University),
-Mitziu Echeverria,,
-,(University of Iowa),
-Imtiaz Karim,(Purdue University),
-Omar Chowdhury,(The),
-  University of Iowa),,
-Elisa Bertino,(Purdue University),
-Poulami Das,(Technische Universität),
-"  Darmstadt, Germany)",,
-Sebastian Faust,"(Technische Universität Darmstadt,)",
-  Germany),,
-Julian Loss,"(Ruhr-Universität Bochum, Germany)",
-Vitor Pereira,(INESC TEC & DCC FC Universidade do),
-  Porto),,
-Karim Eldefrawy,(SRI International),
-José Bacelar Almeida,(University of Minho and INESC TEC),
-Manuel,,
-Barbosa,(University of Porto (FCUP) and INESC TEC),
-Gilles Barthe,(MPI-SP and),
-  IMDEA Software Institute),,
-Matthew Campagna,(Amazon Web Services),
-Ernie,,
-Cohen,(Amazon Web Services),
-Benjamin Gregoire,(INRIA Sophia Antipolis),
-Vitor,,
-Pereira,(University of Porto (FCUP) and INESC TEC),
-Bernardo Portela,,
-,(University of Porto (FCUP) and INESC TEC),
-Pierre-Yves Strub,(École),
-  Polytechnique),,
-Serdar Tasiran,(Amazon Web Services),
-Jo Van Bulck,"(imec-DistriNet, KU Leuven, Belgium)",
-David,,
-Oswald,"(School of Computer Science, University of Birmingham, UK)",
-Eduard,,
-Marin,"(School of Computer Science, University of Birmingham, UK)",
-Abdulla,,
-Aldoseri,"(School of Computer Science, University of Birmingham, UK)",
-Flavio,,
-D. Garcia,"(School of Computer Science, University of Birmingham, UK)",
-Frank,,
-Piessens,"(imec-DistriNet, KU Leuven, Belgium)",
-Christian Tiefenau,(University of Bonn),
-Emanuel von,,
-Zezschwitz,"(University of Bonn, Fraunhofer FKIE)",
-Maximilian Häring,,
-,(Fraunhofer FKIE),
-Katharina Krombholz,(CISPA Helmholtz Center for),
-  Information Security),,
-Matthew Smith,"(University of Bonn, Fraunhofer FKIE)",
-Yingqi Liu,(Purdue University),
-Wen-Chuan Lee,(Purdue),
-  University),,
-Guanhong Tao,(Purdue University),
-Shiqing Ma,(Purdue University),
-Yousra Aafer,(Purdue University),
-Xiangyu Zhang,(Purdue University),
-Yulong Cao,(University of Michigan),
-Chaowei Xiao,,
-,(University of Michigan),
-Benjamin Cyr,(University of Michigan),
-Yimeng Zhou,,
-,(University of Michigan),
-Won Park,(University of Michigan),
-Sara Rampazzi,,
-,(University of Michigan),
-Qi Alfred Chen,"(University of California, Irvine)",
-Kevin,,
-Fu,(University of Michigan),
-Z. Morley Mao,(University of Michigan),
-Florian Tramèr,(Stanford),
-  University),,
-Pascal Dupré,(CISPA),
-Gili Rusak,(Stanford),
-Giancarlo,,
-Pellegrino,"(Stanford University, CISPA)",
-Dan Boneh,(Stanford University),
-Eduard Marin,(University of Birmingham),
-Nicola Bucciol,,
-,(University of Padua),
-Mauro Conti,(University of Padua),
-Haipei Sun,(Qatar Computing Research Institute),
-Xiaokui,,
-Xiao,(National University of Singapore),
-Issa Khalil,(Qatar Computing),
-Research Institute,"(QCRI)), HBKU)",
-Yin Yang,(College of Science and),
-"  Engineering, Hamad Bin Khalifa University)",,
-Zhan Qin,(ZheJiang University),
-Hui,,
-,(Wendy) Wang (Stevens Institute of Technology),
-Ting Yu,(Qatar Computing),
-  Research Institute),,
-Susan Hohenberger,(Johns Hopkins University),
-Satyanarayana,,
-Vusirikala,(University of Texas at Austin),
-Christoph Egger,,
-,(Friedrich-Alexander-Universität Erlangen-Nürnberg),
-Pedro Moreno-Sanchez,(TU),
-  Wien),,
-Matteo Maffei,(TU Wien),
-Binghui Wang,(Duke University),
-Neil,,
-Zhenqiang Gong,(Duke University),
-Chaoshun Zuo,(Ohio State University),
-Haohuang Wen,(Ohio),
-  State University),,
-Zhiqiang Lin,(Ohio State University),
-Yinqian Zhang,(Ohio),
-  State University),,
-Dominik Harz,(Imperial College London),
-Lewis Gudgeon,,
-,(Imperial College London),
-Arthur Gervais,(Imperial College London),
-William,,
-J. Knottenbelt,(Imperial College London),
-Masoud Ghaffarinia,(University of Texas at Dallas),
-Kevin,,
-Hamlen,(University of Texas at Dallas),
-Bingyu Li,"(Institute of Information Engineering, CAS)",
-Jingqiang,,
-Lin,"(Institute of Information Engineering, CAS)",
-Fengjun Li,(The University),
-"  of Kansas, Lawrence, USA)",,
-Qiongxiao Wang,(Institute of Information),
-"  Engineering, CAS)",,
-Qi Li,"(Tsinghua University, China)",
-Jiwu Jing,(Institute),
-"  of Information Engineering, CAS)",,
-Congli Wang,(Institute of Information),
-"  Engineering, CAS)",,
-Qi Wang,(University of Illinois at Urbana-Champaign),
-Pubali,,
-Datta,(University of Illinois at Urbana-Champaign),
-Wei Yang,(The University),
-  of Texas at Dallas),,
-Si Liu,(University of Illinois at Urbana-Champaign),
-Carl,,
-Gunter,(University of Illinois at Urbana-Champaign),
-Adam Bates,(University),
-  of Illinois at Urbana-Champaign),,
-Sergey Frolov,(University of Colorado Boulder),
-Jack,,
-Wampler,(University of Colorado Boulder),
-Sze Chuen Tan,(UIUC),
-J. Alex,,
-Halderman,(University of Michigan),
-Nikita Borisov,(UIUC),
-Eric Wustrow,,
-,(University of Colorado Boulder),
-J. Alex Halderman,(University of Michigan),
-Sazzadur Rahaman,"(Department of Computer Science, Virginia   Tech)",
-Ya Xiao,"(Department of Computer Science, Virginia Tech)",
-Sharmin   Afrose,"(Department of Computer Science, Virginia Tech)",
-Fahad Shaon,"(Department of Computer Science, The University of Texas at Dallas)",
-Ke Tian,"(Department of Computer Science, Virginia Tech)",
-Miles Frantz,"(Department of   Computer Science, Virginia Tech)",
-Murat Kantarcioglu,"(Department of Computer   Science, The University of Texas at Dallas)",
-Danfeng,"(Daphne) Yao (Department of   Computer Science, Virginia Tech)",
-Shengqu Xi,(Nanjing University),
-Shao Yang,(Case Western Reserve University),
-Xusheng Xiao,(Case Western),
-  Reserve University),,
-Yuan Yao,(Nanjing University),
-Yayuan Xiong,(Nanjing),
-  University),,
-Fengyuan Xu,"(National Key Lab for Novel Software Technology,)",
-  Nanjing University),,
-Haoyu Wang,(Beijing University of Posts and),
-  Telecommunications),,
-Peng Gao,"(University of California, Berkeley)",
-Zhuotao,,
-Liu,(University of Illinois at Urbana-Champaign),
-Feng Xu,(Nanjing),
-  University),,
-Jian Lu,(Nanjing University),
-Yushi Cheng,(Zhejiang University),
-Xiaoyu Ji,(Zhejiang),
-  University),,
-Juchuan Zhang,(Zhejiang University),
-Wenyuan Xu,(Zhejiang),
-  University),,
-Yi-Chao Chen,(University of Texas at Austin),
-Dong Yuan,(Tsinghua University),
-Yuanli Miao,(Tsinghua University),
-Neil Zhenqiang Gong,(Duke University),
-Zheng,,
-Yang,(Tsinghua University),
-Qi Li,(Tsinghua University),
-Dawn Song,(UC),
-  Berkeley),,
-Qian Wang,(Wuhan University),
-Xiao Liang,(Tencent),
-Mengchen Cao,"(Orion Security Lab, Alibaba Group)",
-Xiantong,,
-Hou,"(Orion Security Lab, Alibaba Group)",
-Tao Wang,"(Orion Security Lab,)",
-  Alibaba Group),,
-Hunter Qu,"(Orion Security Lab, Alibaba Group)",
-Yajin Zhou,,
-,(Zhejiang University),
-Xiaolong Bai,"(Orion Security Lab, Alibaba Group)",
-Fuwei,,
-Wang,"(Orion Security Lab, Alibaba Group)",
-Simon Couch,(Reed College),
-Zeki Kazan,(Reed College),
-Kaiyan,,
-Shi,(Reed College),
-Andrew Bray,(Reed College),
-Adam Groce,(Reed College),
-Adrià Gascón,(The Alan Turing Institute / University of),
-  Warwick),,
-Mariana Raykova,(Google),
-Leonie Reichert,(Humboldt-Universität zu),
-  Berlin),,
-Phillipp Schoppmann,(Humboldt-Universität zu Berlin),
-Zhenyuan LI,(Zhejiang University),
-Qi Alfred Chen,,
-,"(University of California, Irvine)",
-Chunlin Xiong,(Zhejiang University),
-Yan,,
-Chen,(Northwestern University),
-Tiantian Zhu,(Zhejiang University of),
-  Technology),,
-Hai Yang,(MagicShield Inc),
-Muhammad Ishaq,(University of Edinburgh),
-Ana Milanova,(Rensselaer Polytechnic Institute),
-Vassilis Zikas,(University of Edinburgh),
-Hao Chen,(MIcrosoft Research),
-Wei Dai,(Microsoft),
-  Research),,
-Miran Kim,"(University of Texas, Health Science Center at Houston)",
-Yongsoo Song,(Microsoft Research),
-Ruiyu Zhu,(Indiana University Bloomington),
-Changchang,,
-Ding,(Indiana University Bloomington),
-Yan Huang,(Indiana University),
-  Bloomington),,
-Elette Boyle,(IDC Herzliya),
-Geoffroy Couteau,(Karlsruhe),
-  Institute of Technology),,
-Niv Gilboa,(Ben-Gurion University of the Negev),
-Yuval,,
-Ishai,(Technion),
-Lisa Kohl,(Karlsruhe Institute of Technology),
-Peter Rindal,,
-,(Visa Research),
-Peter Scholl,(Aarhus University),
-Soumya Basu,"(Cornell University, IC3, VMWare Research)",
-Alin,,
-Tomescu,"(MIT, VMWare Research)",
-Ittai Abraham,(VMware Research),
-Dahlia,,
-Malkhi,(VMWare),
-Mike Reiter,"(UNC, VMWare Research)",
-Emin Gün Sirer,"(Cornell,)",
-  IC3),,
-Michael Klooß,(Karlsruhe Institute of Technology),
-Max,,
-Hoffmann,(Ruhr University Bochum),
-Andy Rupp,(Karlsruhe Institute of),
-  Technology),,
-Zichen Gui,(University of),
-  Bristol),,
-Oliver Johnson,(University of Bristol),
-Bogdan Warinschi,,
-,(University of Bristol),
-Peter Rindal,(Visa Research),
-Daniel Masny,(Visa Research),
-Gleb Naumenko,(University of British Columbia),
-Gregory Maxwell,(Independent),
-Pieter Wuille,(Blockstream),
-Alexandra,(Sasha) Fedorova (University of British Columbia),
-Ivan Beschastnikh,(University of British Columbia),
-Vincent Cheval,(INRIA Nancy – Grand Est),
-Steve Kremer,(INRIA Nancy – Grand Est),
-Itsaka Rakotonirina,(INRIA Nancy – Grand Est),
-Claudio Canella,(Graz University),
-  of Technology),,
-Daniel Genkin,(University of Michigan),
-Lukas Giner,(Graz),
-  University of Technology),,
-Daniel Gruss,(Graz University of Technology),
-Moritz,,
-Lipp,(Graz University of Technology),
-Marina Minkin,(University of Michigan),
-Daniel Moghimi,(Worcester Polytechnic Institute),
-Frank Piessens,(KU Leuven),
-Michael Schwarz,(Graz University of Technology),
-Berk Sunar,(Worcester),
-  Polytechnic Institute),,
-Jo Van Bulck,(KU Leuven),
-Yuval Yarom,(University of),
-  Adelaide and Data61),,
-Megha Byali,"(Indian Institute of Science, Bangalore)",
-Carmit,,
-Hazay,"(Bar-Ilan University, Israel)",
-Arpita Patra,(Indian Institute of),
-"  Science, Bangalore)",,
-Swati Singla,"(Indian Institute of Science, Bangalore)",
-Kurt Thomas,(Google),
-Theo,,
-Bertram,(Google),
-Elie Bursztein,(Google),
-Stephanie Caro,(Google),
-Hubert,,
-Chao,(Google),
-Rutledge Chin Feman,(Google),
-Peter Fleischer,(Google),
-Albin,,
-Gustafsson,(Google),
-Jess Hemerly,(Google),
-Chris Hibbert,(Google),
-Luca,,
-Invernizzi,(Google),
-Lanah Kammourieh Donnelly,(Google),
-Jason Ketover,,
-,(Google),
-Jay Laefer,(Google),
-Paul Nicholas,(Google),
-Yuan Niu,(Google),
-Harjinder,,
-Obhi,(Google),
-David Price,(Google),
-Andrew Strait,(Google),
-Al Verney,,
-,(Google),
-Dahlia Malkhi,(VMware Research),
-Kartik Nayak,(VMware),
-  Research),,
-Ling Ren,(VMware Research),
-Gilles Barthe,(MPI-SP and IMDEA Software Institute),
-Sonia Belaïd,(CryptoExperts),
-Thomas Espitau,(Sorbonne Université),
-Pierre-Alain Fouque,(Univ Rennes),
-Mélissa Ross,(ENS and Thalès),
-Mehdi Tibouchi,(NTT Corporation),
-Kevin Bock,(University of Maryland),
-George Hughey,,
-,(University of Maryland),
-Xiao Qiang,(UC Berkeley),
-Dave Levin,(University of),
-  Maryland),,
-Sean Heelan,(University of Oxford),
-Daniel Kroening,,
-,(University of Oxford),
-Tom Melham,(University of Oxford),
-Keegan Ryan,(NCC Group),
-Keegan Ryan,(NCC Group),
-Aurore Fass,(CISPA Helmholtz Center for Information Security),
-Michael Backes,(CISPA Helmholtz Center for Information Security),
-Ben Stock,(CISPA Helmholtz Center for Information Security),
-Donghang Lu,(Purdue University),
-Thomas Yurek,(UIUC),
-Samarth,,
-Kulshreshtha,(UIUC),
-Rahul Govind,(UIUC),
-Aniket Kate,(Purdue University),
-Andrew,,
-Miller,(UIUC),
-Xing Gao,(University of Memphis),
-Zhongshu Gu,(IBM Research),
-Zhengfa Li,(Independent Researcher),
-Hani Jamjoom,,
-,(IBM Research),
-Cong Wang,(Old Dominion University),
-Moni Naor,(Weizmann Institue),
-Benny Pinkas,(Bar Ilan University),
-Eyal Ronen,"(Tel Aviv University, KU Leuven)",
-Hafiz Asif,(Rutgers University),
-Periklis Papakonstantinou,,
-,(Rutgers University),
-Jaideep Vaidya,(Rutgers University),
-Zhuotao Liu,(UIUC & Google),
-Yangxi Xiang,(Beijing),
-  University of Posts and Telecommunications),,
-Jian Shi,(Case Western Reserve),
-  University),,
-Peng Gao,"(University of California, Berkeley)",
-Haoyu Wang,,
-,(Beijing University of Posts and Telecommunications),
-Xusheng Xiao,(Case),
-  Western Reserve University),,
-Bihan Wen,(Nanyang Technological University),
-Yih-Chun,,
-Hu,(UIUC),
-Robert,,
-Buhren,(Technische Universität Berlin),
-Christian Werling,(Hasso Plattner),
-"  Institute, Potsdam)",,
-Jean-Pierre Seifert,(Technische Universität Berlin),
-Mingi Cho,(Yonsei University),
-Seoyoung Kim,(Yonsei University),
-Taekyoung Kwon,(Yonsei University),
-H.L.J. Bijmans,(Delft University of Technology),
-T.M. Booij,(Delft University of Technology),
-C. Doerr,(Delft University of Technology),
-Yuanshun Yao,(University of Chicago),
-Huiying Li,,
-,(University of Chicago),
-Haitao Zheng,(University of Chicago),
-Ben Y. Zhao,,
-,(University of Chicago),
-Jingxuan He,(ETH Zurich),
-Mislav Balunovic,(ETH Zurich),
-Nodar,,
-Ambroladze,(ETH Zurich),
-Petar Tsankov,(ETH Zurich),
-Martin Vechev,(ETH),
-  Zurich),,
-Matteo Campanelli,"(IMDEA Software Institute, Madrid,)",
-  Spain),,
-Dario Fiore,"(IMDEA Software Institute, Madrid, Spain)",
-Anaïs Querol,,
-,"(IMDEA Software Institute, Madrid, and Universidad Politecnica de Madrid,)",
-  Spain),,
-Josh Aas,(Let’s Encrypt),
-Richard Barnes,(Cisco),
-Benton,,
-Case,(Stanford University),
-Zakir Durumeric,(Stanford University),
-Peter,,
-Eckersley,(Electronic Frontier Foundation),
-Alan Flores-López,(Stanford),
-  University),,
-J. Alex Halderman,(University of Michigan),
-Jacob Hoffman-Andrews,,
-,(Electronic Frontier Foundation),
-James Kasten,(University of Michigan),
-Eric,,
-Rescorla,(Mozilla),
-Seth Schoen,(Electronic Frontier Foundation),
-Brad Warren,,
-,(Electronic Frontier Foundation),
-Carmit Hazay,(Bar-Ilan University),
-Yuval Ishai,(Technion),
-Antonio Marcedone,(Cornell-Tech),
-Muthu Venkitasubramaniam,(University of),
-  Rochester),,
-Mert D. Pesé,"(University of Michigan, Ann Arbor)",
-Troy,,
-Stacer,"(University of Michigan, Ann Arbor)",
-C. Andrés Campos,(University of),
-"  Michigan, Ann Arbor)",,
-Eric Newberry,"(University of Michigan, Ann Arbor)",
-Dongyao,,
-Chen,"(University of Michigan, Ann Arbor)",
-Kang G. Shin,(University of),
-"  Michigan, Ann Arbor)",,
-Min Du,(University of California Berkeley),
-Zhi Chen,(University of California  Berkeley),
-Chang Liu,(Citadel Securities),
-Rajvardhan Oak,(University of California Berkeley),
-Dawn Song,(University of California Berkeley),
-Huayi DUAN,(City University of Hong Kong),
-Cong Wang,(City),
-  University of Hong Kong),,
-Xingliang Yuan,(Monash University),
-Yajin Zhou,,
-,(Zhejiang University),
-Qian Wang,(Wuhan University),
-Kui Ren,(Zhejiang),
-  University),,
-Fucheng Liu,"(Institute of Information Engineering, Chinese Academy of Science)",
-Yu Wen,"(Institute of Information Engineering, Chinese Academy of Sciences)",
-Dongxue Zhang,"(Institute of Information Engineering, Chinese Academy of Science)",
-Xihe Jiang,"(Institute of Information Engineering, Chinese Academy of Science)",
-Xinyu Xing,(The Pennsylvania State University),
-Dan Meng,"(Institute of Information Engineering, Chinese Academy of Science)",
-José Bacelar Almeida,(Universidade do Minho &),
-  INESC-TEC),,
-Cécile Baritel-Ruet,(Université Côte d’Azur & Inria),
-  Sophia-Antipolis),,
-Manuel Barbosa,(Universidade do Porto & INESC-TEC),
-Gilles,,
-Barthe,(MPI-SP & IMDEA Software Institute),
-François Dupressoir,,
-,(University of Surrey & University of Bristol),
-Benjamin Grégoire,(Inria),
-  Sophia-Antipolis),,
-Vincent Laporte,(Inria),
-Tiago Oliveira,(Universidade do),
-  Porto & INESC-TEC & FCUP),,
-Alley Stoughton,(Boston University),
-Pierre-Yves,,
-Strub,(École Polytechnique),
-Phillipp Schoppmann,(Humboldt-Universität zu Berlin),
-Adrià,,
-Gascón,"(The Alan Turing Institute, University of Warwick)",
-Mariana Raykova,,
-,(Google),
-Benny Pinkas,(Bar Ilan University),
-Abbas Naderi-Afooshteh,(University of Virginia),
-Yonghwi,,
-Kwon,(University of Virginia),
-Jack Davidson,(University of Virginia),
-Anh,,
-Nguyen-Tuong,(University of Virginia),
-Ali Razmjoo-Qalaei,(ZDResearch),
-Mohammad-Reza,,
-Zamiri-Gourabi,(ZDResearch),
-Faris Bugra Kokulu,(Arizona State University),
-Ananta,,
-Soneji,(Arizona State University),
-Tiffany Bao,(Arizona State University),
-Yan,,
-Shoshitaishvili,(Arizona State University),
-Ziming Zhao,(Rochester Institute),
-  of Technology),,
-Adam Doupé,(Arizona State University),
-Gail-Joon Ahn,(Arizona),
-  State University and Samsung Research),,
-Muhammed F. Esgin,(Monash),
-"  University and Data61, CSIRO)",,
-Raymond K. Zhao,(Monash University),
-Ron,,
-Steinfeld,(Monash University),
-Joseph K. Liu,(Monash University),
-Dongxi Liu,,
-,"(Data61, CSIRO)",
-Peng Chen,(ByteDance AI lab),
-Jianzhong Liu,(ShanghaiTech),
-  University),,
-Hao Chen,"(University of California, Davis)",
-Michael Backes,(CISPA Helmholtz Center for Information),
-  Security),,
-Lucjan Hanzlik,"(CISPA Helmholtz Center for Information Security,)",
-  Stanford University),,
-Jonas Schneider-Bensch,(CISPA Helmholtz Center for),
-  Information Security),,
-Jinyuan Jia,(Duke University),
-Ahmed,,
-Salem,(CISPA Helmholtz Center for Information Security),
-Michael Backes,,
-,(CISPA Helmholtz Center for Information Security),
-Yang Zhang,(CISPA),
-  Helmholtz Center for Information Security),,
-Neil Zhenqiang Gong,(Duke),
-  University),,
-Sarvar Patel,(Google),
-Giuseppe Persiano,(Universita’ di),
-  Salerno and Google),,
-Kevin Yeo,(Google),
-Moti Yung,(Google),
-Mainack Mondal,(Cornell University / University of),
-  Chicago),,
-Günce Su Yılmaz,(University of Chicago),
-Noah Hirsch,(University of),
-  Chicago),,
-Mohammad Taha Khan,(University of Illinois at Chicago),
-Michael,,
-Tang,(University of Chicago),
-Christopher Tran,(University of Illinois at),
-  Chicago),,
-Chris Kanich,(University of Illinois at Chicago),
-Blase Ur,,
-,(University of Chicago),
-Elena Zheleva,(University of Illinois at Chicago),
-Matthew Luckie,(University of),
-  Waikato),,
-Robert Beverly,(Naval Postgraduate School),
-Ryan Koga,(CAIDA / UC),
-  San Diego),,
-Ken Keys,(CAIDA / UC San Diego),
-Joshua Kroll,(UC Berkeley School),
-  of Information),,
-kc claffy,(CAIDA / UC San Diego),
-Ziqi Yang,(National University of Singapore),
-Jiyi Zhang,,
-,(National University of Singapore),
-Ee-Chien Chang,(National University of),
-  Singapore),,
-Zhenkai Liang,(National University of Singapore),
-Ben Weinshel,(University of Chicago),
-Miranda Wei,,
-,(University of Chicago),
-Mainack Mondal,(Cornell University / University of),
-  Chicago),,
-Euirim Choi,(University of Chicago),
-Shawn Shan,(University of),
-  Chicago),,
-Claire Dolin,(University of Chicago),
-Michelle L. Mazurek,,
-,(University of Maryland),
-Blase Ur,(University of Chicago),
-Russell W. F. Lai,(Friedrich Alexander University),
-  Erlangen-Nuremberg),,
-Viktoria Ronge,(Friedrich Alexander University Erlangen-Nuremberg),
-Tim Ruffing,(Blockstream),
-Dominique Schröder,(Friedrich Alexander University),
-  Erlangen-Nuremberg),,
-Sri Aravinda Krishnan Thyagarajan,(Friedrich Alexander),
-  University Erlangen-Nuremberg),,
-Jiafan Wang,(Chinese University of Hong Kong),
-Hao Chen,(Microsoft Research),
-Ilaria Chillotti,(KU),
-  Leuven),,
-Ling Ren,(VMware Research),
-Guoxing Chen,(The Ohio State University),
-Yinqian Zhang,,
-,(The Ohio State University),
-Ten-Hwang Lai,(The Ohio State University),
-Daniel Gruss,(Graz University of Technology),
-Erik Kraft,,
-,(Graz University of Technology),
-Trishita Tiwari,(Boston University),
-Michael,,
-Schwarz,(Graz University of Technology),
-Ari Trachtenberg,(Boston University),
-Jason Hennessey,(NetApp),
-Alex Ionescu,(CrowdStrike),
-Anders Fogh,(Intel),
-  Corporation),,
-Simon Birnbach,(University of Oxford),
-Simon Eberz,,
-,(University of Oxford),
-Ivan Martinovic,(University of Oxford),
-Sadegh M. Milajerdi,(UIC),
-Birhanu Eshete,(University of),
-  Michigan-Dearborn),,
-Rigel Gjomemo,(UIC),
-V.N. Venkatakrishnan,(UIC),
-Sjouke Mauw,"(SnT/CSC, University of Luxembourg)",
-Zach,,
-Smith,"(CSC, University of Luxembourg)",
-Jorge Toro-Pozo,"(CSC, University of)",
-  Luxembourg),,
-Rolando Trujillo-Rasua,"(School of Information Technology, Deakin)",
-  University),,
-Shang Gao,(The Hong Kong Polytechnic University),
-Zecheng,,
-Li,(The Hong Kong Polytechnic University),
-Zhe Peng,(The Hong Kong),
-  Polytechnic University),,
-Bin Xiao,(The Hong Kong Polytechnic University),
-Shang,,
-Gao,(Microsoft Research),
-Jens Müller,(Ruhr University Bochum),
-Fabian Ising,,
-,(Münster University of Applied Sciences),
-Vladislav Mladenov,(Ruhr University),
-  Bochum),,
-Christian Mainka,(Ruhr University Bochum),
-Sebastian Schinzel,,
-,(Münster University of Applied Sciences),
-Jörg Schwenk,(Ruhr University),
-  Bochum),,
-Ariel Nof,(Bar-Ilan University),
-Yuval Ishai,(Technion and),
-  UCLA),,
-Elette Boyle,(IDC Herzliya),
-Niv Gilboa,(BGU),
-Yue Cao,"(University of California, Riverside)",
-Zhongjie,,
-Wang,"(University of California, Riverside)",
-Zhiyun Qian,(University of),
-"  California, Riverside)",,
-Chengyu Song,"(University of California, Riverside)",
-Srikanth,,
-Krishnamurthy,"(University of California, Riverside)",
-Paul Yu,(Army Research),
-  Laboratory),,
-Vivek Bagaria,(Stanford University),
-Sreeram Kannan,(University),
-  of Washington Seattle),,
-David Tse,(Stanford University),
-Giulia Fanti,,
-,(Carnegie Mellon University),
-Pramod Viswanath,(University of Illinois),
-  Urbana-Champaign),,
-Alex Biryukov,(University of Luxembourg),
-Daniel Feher,,
-,(University of Luxembourg),
-Giuseppe Vitto,(University of Luxembourg),
-Liwei Song,(Princeton University),
-Reza Shokri,(National),
-University of Singapore,(NUS)),
-Prateek Mittal,(Princeton University),
-Jianting Ning,(Fujian Normal),
-  University & National University of Singapore),,
-Geong Sen Poh,(Trustwave),
-  & NUS-Singtel Cyber Security Lab),,
-Jia-Ch’ng Loh,(NUS-Singtel Cyber),
-  Security Lab),,
-Jason Chia,(NUS-Singtel Cyber Security Lab),
-Ee-Chien Chang,,
-,(National University of Singapore),
-David Clayton,(University of Florida),
-Christopher Patton,,
-,(University of Florida),
-Thomas Shrimpton,(University of Florida),
-Kenneth Co,(Imperial College London),
-Luis Muñoz-González,(Imperial College London),
-Emil C. Lupu,(Imperial College London),
-Sixte de Maupeou,(Imperial College London),
-Kenneth Co,(Imperial College London),
-Shen Liu,"(The Pennsylvania State University, University)",
-  Park),,
-Dongrui Zeng,"(The Pennsylvania State University, University Park)",
-Yongzhe,,
-Huang,"(The Pennsylvania State University, University Park)",
-Frank Capobianco,,
-,"(The Pennsylvania State University, University Park)",
-Stephen McCamant,,
-,"(University of Minnesota, Twin Cities)",
-Trent Jaeger,(The Pennsylvania State),
-"  University, University Park)",,
-Gang Tan,"(The Pennsylvania State University,)",
-  University Park),,
-Christian Skalka,(University of),
-  Vermont),,
-John Ring,(University of Vermont),
-David Darais,(University of),
-  Vermont),,
-Minseok Kwon,(Rochester Institute of Technology),
-Sahil Gupta,,
-,(Rochester Institute of Technology),
-Kyle Diller,(Rochester Institute of),
-  Technology),,
-Steffen Smolka,(Cornell University),
-Nate Foster,(Cornell University),
-Teodora Baluta,(National University of Singapore),
-Shiqi Shen,(National University of Singapore),
-Shweta Shinde,"(University of California, Berkeley)",
-Kuldeep S. Meel,(National University of Singapore),
-Prateek Saxena,(National University of Singapore),
-Nitin   Agrawal,(University of Oxford),
-Ali Shahin Shamsabadi,(Queen Mary University London),
-Matthew Kusner,"(University of Oxford, The   Alan Turing Institute)",
-Adria Gascon,(The Alan Turing   Institute),
-Roopa Vishwanathan,(New Mexico State University),
-Gaurav,,
-Panwar,(New Mexico State University),
-Satyajayant Misra,(New Mexico State),
-  University),,
-Austin Bos,(New Mexico State University),
-Shijun Zhao,(Institute of Software Chinese Academy of),
-  Sciences),,
-Qianying Zhang,(Capital Normal University Information Engineering),
-  Colleg),,
-Qin Yu,(Institute of Software Chinese Academy of Sciences),
-Wei Feng,,
-,(Institute of Software Chinese Academy of Sciences),
-Dengguo Feng,(Institute),
-  of Software Chinese Academy of Sciences),,
-Jeffrey Champion,(Northeastern University),
-Abhi Shelat,,
-,(Northeastern University),
-Jonathan Ullman,(Northeastern University),
-Sazzadur Rahaman,(Virginia),
-  Tech),,
-Gang Wang,(University of Illinois at Urbana-Champaign),
-Daphne Yao,,
-,(Virginia Tech),
-Yue Zhao,"(SKLOIS, Institute of Information Engineering,)",
-"  Chinese Academy of Sciences, China",,
-School of Cyber Securitya),,
-University of,,
-  Chinese Academy of Sciencesa),,
-China),,
-Hong Zhu,"(SKLOIS, Institute of)",
-"  Information Engineering, Chinese Academy of Sciences, China",,
-School of Cyber,,
-  Securitya),,
-University of Chinese Academy of Sciencesa),,
-China),,
-Ruigang Liang,,
-,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences,)",
-"  Beijing, China)",,
-Qintao Shen,"(SKLOIS, Institute of Information Engineering,)",
-"  Chinese Academy of Sciences, China",,
-School of Cyber Securitya),,
-University of,,
-  Chinese Academy of Sciencesa),,
-China),,
-Shengzhi Zhang,(Department of Computer),
-"  Science, Metropolitan College, Boston University)",,
-Kai Chen,"(SKLOIS, Institute)",
-"  of Information Engineering,Chinese Academy of Sciences, China",,
-School of,,
-  Cyber Securitya),,
-University of Chinese Academy of Sciencesa),,
-China),,
-Melissa Chase,(Microsoft Research),
-Apoorvaa Deshpande,,
-,(Brown University),
-Esha Ghosh,(Microsoft Research),
-Harjasleen Malvai,,
-,(Cornell University),
-Dennis Jackson,(University of Oxford),
-Katriel Cohn-Gordon,(independent),
-Cas Cremers,(CISPA Helmholtz Center for Information Security),
-Ralf   Sasse,(ETH Zürich),
-Henry Birge-Lee,(Princeton University),
-Liang Wang,,
-,(Princeton University),
-Jennifer Rexford,(Princeton University),
-Prateek,,
-Mittal,(Princeton University),
-Yu-Fu Fu,(Academia Sinica),
-Jiaxiang Liu,(Academia Sinica),
-  & Shenzhen University),,
-Xiaomu Shi,(Academia Sinica & Shenzhen),
-  University),,
-Ming-Hsien Tsai,(Academia Sinica),
-Bow-Yaw Wang,(Academia),
-  Sinica),,
-Bo-Yin Yang,(Academia Sinica),
-Yueqi Chen,(Pennsylvania State University),
-Xinyu Xing,,
-,(Pennsylvania State University),
-Atri Bhattacharyya,(EPFL),
-Alexandra Sandulescu,(IBM),
-  Zurich),,
-Matthias Neugschwandtner,(IBM Zurich),
-Alessandro Sorniotti,(IBM),
-  Zurich),,
-Babak Falsafi,(EPFL),
-Mathias Payer,(EPFL),
-Anil Kurmus,(IBM Zurich),
-Mary Maller,(University College London),
-Sean Bowe,(Zcash),
-Markulf Kohlweiss,"(University of Edinburgh, IOHK)",
-Sarah Meiklejohn,,
-,(University College London),
-Ryan Wails,(U.S. Naval Research Laboratory),
-Aaron Johnson,(U.S. Naval Research Laboratory),
-Daniel Starin,(Perspecta Labs),
-Arkady Yerukhimovich,(George Washington University),
-S. Dov Gordon,(George Mason University),
-Russell W.,,
-F. Lai,(Friedrich-Alexander University Erlangen-Nuremberg),
-Giulio Malavolta,,
-,( Carnegie Mellon University),
-Viktoria Ronge,(Friedrich-Alexander University),
-  Erlangen-Nuremberg),,
-Mizanur Rahman,(Amazon),
-Nestor,,
-Hernandez,(FIU),
-Ruben Recabarren,(FIU),
-Syed Ishtiaque Ahmed,(University of),
-  Toronto),,
-Bogdan Carbunar,(FIU),
-Chen Yan,(Zhejiang University),
-Yan Long,(Zhejiang),
-  University),,
-Xiaoyu Ji,(Zhejiang University),
-Wenyuan Xu,(Zhejiang),
-  University),,
-Carlos Cotrini,(ETH Zurich),
-Luca Corinzia,(ETH Zurich),
-Thilo,,
-Weghorn,(ETH Zurich),
-David Basin,(ETH Zurich),
-Andreas Hülsing,(TU Eindhoven),
-Peter,,
-Schwabe,(RU Nijmegen),
-Joost Rijneveld,(RU Nijmegen),
-Stefan Kölbl,,
-,(Cybercrypt),
-Daniel J Bernstein,(University of Illinois at Chicago and Ruhr),
-  University Bochum),,
-Ruben Niederhagen,(SIT Fraunhofer),
-Ting Chen,(University of Electronic Science and Technology),
-  of China),,
-Yufei Zhang,(University of Electronic Science and Technology of),
-  China),,
-Zihao Li,(University of Electronic Science and Technology of China),
-Xiapu,,
-Luo,(The Hong Kong Polytechnic University),
-Ting Wang,(Lehigh University),
-Rong,,
-Cao,(University of Electronic Science and Technology of China),
-Xiuzhuo Xiao,,
-,(University of Electronic Science and Technology of China),
-Xiaosong Zhang,,
-,(University of Electronic Science and Technology of China),
-Chengcheng Xiang,(University of California San Diego),
-Yudong,,
-Wu,(University of California San Diego),
-Bingyu Shen,(University of),
-  California San Diego),,
-Mingyao Shen,(University of California San Diego),
-Tianyin,,
-Xu,(University of Illinois Urbana-Champaign),
-Yuanyuan Zhou,(University of),
-  California San Diego),,
-Cindy Moore,(University of California San Diego),
-Xinxin,,
-Jin,"(Whova, Inc.)",
-Tianwei Sheng,"(Whova, Inc.)",
-Huibo Wang,(University of Texas),
-  at Dallas),,
-Pei Wang,(Baidu X-Lab),
-Yu Ding,(Baidu X-Lab),
-Mingshen Sun,,
-,(Baidu X-Lab),
-Yiming Jing,(Baidu X-Lab),
-Ran Duan,(Baidu X-Lab),
-Long Li,,
-,(Baidu X-Lab),
-Yulong Zhang,(Baidu X-Lab),
-Tao Wei,(Baidu X-Lab),
-Zhiqiang,,
-Lin,(Ohio State University),
-Alin Tomescu,(MIT),
-Vivek Bhupatiraju,(Lexington High),
-  School),,
-Dimitrios Papadopoulos,(Hong Kong University of Science and),
-  Technology),,
-Charalampos Papamanthou,(University of Maryland),
-Nikos,,
-Triandopoulos,(Stevens Institute of Technology),
-Srinivas Devadas,(MIT),
-Yazhou Tu,(University of Louisiana at Lafayette),
-Sara,,
-Rampazzi,(University of Michigan),
-Bin Hao,(University of Louisiana at),
-  Lafayette),,
-Angel Rodriguez,(University of Michigan),
-Kevin Fu,(University of),
-  Michigan),,
-Xiali Hei,(University of Louisiana at Lafayette),
-Payap Sirinam,(Navaminda),
-  Kasatriyadhiraj Royal Air Force Academy),,
-Nate Matthews,(Rochester Institute),
-  of Technology),,
-Mohammad Saidur Rahman,(Rochester Institute of Technology),
-Matthew,,
-Wright,(Rochester Institute of Technology),
-Phi Hung Le,(George Mason University),
-Samuel Ranellucci,"(University of Maryland, George Mason University)",
-S. Dov Gordon,(George Mason University),
-Jun Furukawa,(NEC Israel Research Center),
-Yehuda Lindell,,
-,(Bar-Ilan University and Unbound Tech),
-Johannes Blömer,(Paderborn University),
-Jan Bobolz,,
-,(Paderborn University),
-Denis Diemert,(Paderborn University),
-Fabian Eidens,,
-,(Paderborn University),
-Stanislaw Jarecki,"(University of California, Irvine)",
-Hugo Krawczyk,(Algorand Foundation),
-Jason Resch,(Independent),
-Sven Hammann,(ETH Zurich),
-Sasa Radomirovic,(University of),
-  Dundee),,
-Ralf Sasse,(ETH Zurich),
-David Basin,(ETH Zurich),
-Jingjie Li,(University of Wisconsin-Madison),
-Younghyun,,
-Kim,(University of Wisconsin-Madison),
-Kassem Fawaz,(University of),
-  Wisconsin-Madison),,
-Thomas Haines,(Norwegian University of Science and Technology),
-Rajev Gore,(The Australian National University),
-Mukesh Tiwari,(The Australian National University),
-Armaiti Ardeshiricham,(UCSD),
-Yoshiki Takashima,(UCSD),
-Sicun,,
-Gao,(UCSD),
-Ryan Kastner,(UCSD),
-Pengfei Qiu,(Research Institute of Information Technology),
-"  & BNRist, Tsinghua University, Beijing, China)",,
-Yongqiang Lyu,(Research),
-"  Institute of Information Technology & BNRist, Tsinghua University,",,
-"  Beijing, China)",,
-Dongsheng Wang,(Research Institute of Information Technology),
-"  & BNRist, Tsinghua University, Beijing, China)",,
-Gang Qu,(Department of),
-"  Electrical and Computer Engineering, University of Maryland, College Park,",,
-"  Maryland, USA)",,
-Hooman Mohajeri Moghaddam,,
-,(Princeton University),
-Gunes Acar,(Princeton University),
-Arunesh Mathur,,
-,(Princeton University),
-Danny Y. Huang,(Princeton University),
-Ben Burgess,,
-,(Princeton University),
-Nick Feamster,(Princeton University),
-Edward Felten,,
-,(Princeton University),
-Prateek Mittal,(Princeton University),
-Arvind,,
-Narayanan,(Princeton University),
-Kangjie Lu,(University of Minnesota),
-Hong Hu,(GeorgiaTech),
-Georg Fuchsbauer,(Inria and Ecole normale superieure),
-Richard Roberts,(University of Maryland),
-Yaelle,,
-Goldschlag,(University of Maryland),
-Rachel Walter,(University of Maryland),
-Taejoong,,
-Chung,(Rochester Institute of Technology),
-Alan Mislove,(Northeastern),
-  University),,
-Dave Levin,(University of Maryland),
-Angelique Faye Loe,"(Royal Holloway, University of London)",
-Elizabeth Quaglia,"(Royal Holloway, University of London)",
-Hoai Viet Nguyen,(Cologne University of Applied Sciences),
-Luigi Lo Iacono,(Cologne University of Applied Sciences),
-Hannes Federrath,,
-,(University of Hamburg),
-Samuel Steffen,(ETH Zürich),
-Benjamin,,
-Bichsel,(ETH Zürich),
-Mario Gersbach,(ETH Zürich),
-Noa Melchior,(ETH Zürich),
-Petar Tsankov,(ETH Zürich),
-Martin Vechev,(ETH Zürich),
-Michael Schwarz,(Graz University of Technology),
-Moritz,,
-Lipp,(Graz University of Technology),
-Ahmad Moghimi,(Worcester Polytechnic),
-  Institute),,
-Jo Van Bulck,"(imec-DistriNet, KU Leuven)",
-Julian Stecklina,,
-,(Cyberus Technology),
-Thomas Prescher,(Cyberus Technology),
-Daniel Gruss,,
-,(Graz University of Technology),
-XiaoFeng Wang,(Indiana University),
-Jonathan Katz,(George Mason University),
-Manuel Egele,(Boston University),
-Guofei Gu,(Texas A&M University),
-Michael Hicks,(University of Maryland),
-Zhiqiang Lin,(Ohio State University),
-Mike Rosulek,(Oregon State University),
-Adam Smith,(Boston University),
-Ninghui Li,(Purdue University),
-Andrew Miller,(UIUC),
-Gail-Joon Ahn,(Arizona State University and SAMSUNG Research),
-Sumayah Alrwais,(King Saud University),
-Owen Arden,(UC Santa Cruz),
-Adam Aviv,(United States Naval Academy),
-Erman Ayday,(Case Western Reserve University/Bilkent University),
-Michael Backes,(CISPA Helmholtz Center for Information Security),
-Gilles Barthe,(IMDEA Software Institute),
-Raef Bassily,(Ohio State University),
-Lujo Bauer,(Carnegie Mellon University),
-Mihir Bellare,(UC San Diego),
-Karthikeyan Bhargavan,(INRIA),
-Leyla Bilge,(Symantec),
-Vincent Bindschaedler,(University of Florida),
-Jeremiah Blocki,(Purdue University),
-Rakesh Bobba,(Oregon State University),
-Sven Bugiel,(CISPA Helmholtz Center for Information Security),
-Christian Cachin,(IBM Research/University of Bern),
-Jean Camp,(Indiana University),
-Yinzhi Cao,(Johns Hopkins University),
-Alvaro Cardenas,(UC Santa Cruz),
-David Cash,(University of Chicago),
-Hao Chen,(UC Davis),
-Shuo Chen,(Microsoft Research),
-Yan Chen,(Northwestern University),
-Kai Chen,(IIE CAS),
-Haibo Chen,(Shanghai Jiao Tong University),
-Hao Chen,(Microsoft Research),
-Yingying Chen,(Rutgers University),
-Omar Chowdhury,(The University of Iowa),
-Nicolas Christin,(Carnegie Mellon University),
-Weidong Cui,(Microsoft Research),
-Lucas Davi,(University of Duisburg-Essen),
-Lorenzo De Carli,(Worcester Polytechnic Institute),
-Emiliano De Cristofaro,(University College London),
-Soteris Demetriou,(Imperial College London),
-Wenrui Diao,(Jinan University),
-Adam Doupe,(Arizona State University),
-Haixin Duan,(Tsinghua University),
-Tudor Dumitras,(University of Maryland),
-Manuel Egele,(Boston University),
-Ittay Eyal,(Technion),
-Sascha Fahl,(Leibniz University Hannover),
-Kassem Fawaz,(University of Wisconsin-Madison),
-Dario Fiore,(IMDEA Software Institute),
-Marc Fischlin,(TU Darmstadt),
-Sara Foresti,(Università degli Studi di Milano),
-Michael Franz,(UC Irvine),
-Xinyang Ge,(Microsoft Research),
-Daniel Genkin,(University of Michigan),
-Rosario Gennaro,(The City College of New York),
-Irene Giacomelli,(Protocol Labs),
-Neil Gong,(Iowa State University),
-Guofei Gu,(Texas A&M University),
-Yong Guan,(Iowa State University),
-Carl Gunter,(University of Illinois at Urbana-Champaign),
-Weili Han,(Fudan University),
-Carmit Hazay,(Bar-Ilan University),
-Ryan Henry,(University of Calgary),
-Michael Hicks,(University of Maryland),
-Thorsten Holz,(Ruhr-University Bochum),
-Nick Hopper,(University of Minnesota),
-Amir Houmansadr,(University of Massachusetts Amherst),
-Yan Huang,(Indiana University),
-Trent Jaeger,(Penn State University),
-Tibor Jager,(Paderborn University),
-Rob Jansen,(U.S. Naval Research Laboratory),
-Somesh Jha,(University of Wisconsin–Madison),
-Shouling Ji,(Zhejiang University),
-Yier Jin,(University of Florida),
-Brent Byunghoon Kang,(KAIST),
-Murat Kantarcioglu,(UT Dallas),
-Alexandros Kapravelos,(North Carolina State University),
-Aniket Kate,(Purdue University),
-Aggelos Kiayias,(University of Edinburgh and IOHK),
-Yongdae Kim,(KAIST),
-Taesoo Kim,(Georgia Tech),
-Engin Kirda,(Northeastern University),
-Ralf Kuesters,(University of Stuttgart),
-BumJun Kwon,(National Security Research Institute),
-Wenke Lee,(Georgia Tech),
-Ruby Lee,(Princeton),
-Kirill Levchenko,(University of Illinois at Urbana-Champaign),
-Zhou Li,(UC Irvine),
-Bo Li,(University of Illinois at Urbana-Champaign),
-Ninghui Li,(Purdue University),
-Zhenkai Liang,(National University of Singapore),
-Xiaojing Liao,(Indiana University),
-David Lie,(University of Toronto),
-Zhiqiang Lin,(Ohio State University),
-Yang Liu,(Nanyang Technological University),
-Peng Liu,(Penn State University),
-Wenjing  Lou,(Virginia Tech),
-Kangjie Lu,(University of Minnesota),
-Vadim Lyubashevsky,(IBM Research – Zurich),
-Ashwin Machanavajjhala,(Duke University),
-Matteo Maffei,(TU Wien),
-Mohammad Mannan,(Concordia University),
-Damon McCoy,(New York University),
-Patrick McDaniel,(Penn State University),
-Andrew Miller,(University of Illinois at Urbana-Champaign),
-Jiang Ming,(UT Arlington),
-Ilya Mironov,(Google),
-Esfandiar Mohammadi,(ETH Zurich),
-Payman Mohassel,(Visa Research),
-Muhammad Naveed,(University of Southern California),
-Olga Ohrimenko,(Microsoft Research),
-Claudio Orlandi,(Aarhus University),
-Nicolas Papernot,(Google Brain),
-Kenneth Paterson,(RHUL/ETH Zurich),
-Mathias Payer,(EPFL),
-Paul Pearce,(Georgia Tech/Facebook),
-Adrian Perrig,(ETH),
-Frank Piessens,(KU Leuven),
-Zhiyun Qian,(UC Riverside),
-Feng Qian,(University of Minnesota),
-William Robertson,(Northeastern University),
-Mike Rosulek,(Oregon State University),
-Andrew Ruef,(Self),
-Ulrich Rührmair,(LMU Munich),
-Andrei Sabelfeld,(Chalmers University of Technology),
-Ahmad-Reza Sadeghi,(TU Darmstadt),
-Stefan Nuernberger,(CISPA Helmholtz Center for Information Security),
-Michael Reiter,(University of North Carolina at Chapel Hill),
-Nitesh Saxena,(University of Alabama at Birmingham),
-Joshua Schiffman,(HP Inc.),
-Benedikt Schmidt,(Google),
-Dominique Schroder,(University of Erlangen-Nuremberg),
-Abhi Shelat,(Northeastern University),
-Seungwon Shin,(KAIST),
-Reza Shokri,(National University of Singapore),
-Adam Smith,(Boston University),
-Chengyu Song,(UC Riverside),
-Ben Stock,(CISPA Helmholtz Center for Information Security),
-Gianluca Stringhini,(Boston University),
-Kun Sun,(George Mason University),
-Paul Syverson,(NRL),
-U.S. Naval Research Laboratory,(NRL),
-Kunal Talwar,(Google),
-Yuan Tian,(University of Virginia),
-Nils Ole Tippenhauer,(CISPA Helmholtz Center for Information Security),
-Mohit Tiwari,(UT Austin),
-Blase Ur,(University of Chicago),
-Venkat Venkatakrishnan,(University of Illinois at Chicago),
-Giovanni Vigna,(UC Santa Barbara),
-Hayawardh Vijayakumar,(Samsung Research America),
-Haining Wang,(University of Delaware),
-Xiao Wang,(MIT and Boston University),
-Wenhao Wang,(IIE CAS),
-Ruoyu,(Fish),"Wang, Arizona State University"
-Rebecca Wright,(Rutgers and Barnard),
-Dinghao Wu,(Penn State University),
-Tao Xie,(University of Illinois at Urbana-Champaign),
-Luyi Xing,(Indiana University),
-Xinyu Xing,(Penn State University),
-Li  Xiong,(Emory University),
-Wenyuan Xu,(Zhejiang University),
-Min Yang,(Fudan University),
-Danfeng,(Daphne),"Yao, Virginia Tech"
-Yuval Yarom,(University of Adelaide),
-Arkady Yerukhimovich,(George Washington University),
-Heng Yin,(UC Riverside),
-Ting Yu,(Qatar Computing Research Institute),
-Yu Yu,(Shanghai Jiao Tong University),
-Danfeng Zhang,(Penn State University),
-Yinqian Zhang,(Ohio State University),
-Xiangyu Zhang,(Purdue University),
-Kehuan Zhang,(The Chinese University of Hong Kong),
-Yang Zhang,(CISPA Helmholtz Center for Information Security),
-Fengwei Zhang,(Wayne State University),
-Chao Zhang,(Tsinghua University),
-Yajin Zhou,(Zhejiang University),
-Jianying Zhou,(SUTD),
-Yupeng Zhang,(UC Berkeley),
-Zhe Zhou,(Fudan University),
-Lorenzo Cavallaro,(King’s College London),
-Johannes Kinder,(Bundeswehr University Munich),
-Mia Robertson,,
-Swen Jacobs,(CISPA Helmholtz Center for Information Security),
-Brendan Dolan-Gavitt,(New York University),
-Gianluca Stringhini,(Boston University),
-Emiliano De Cristofaro,(University College London),
-Mark Manulis,(University of Surrey),
-Mathias Payer,(EPFL),
-Stefan Brunthaler,(Bundeswehr University Munich),
-Thorsten Holz,(Ruhr-Uni­ver­si­ty Bo­chum),
-Nick Nikiforakis,(Stony Brook University),
-Andrew Paverd,(Microsoft Research),
-Hassan Takabi,(University of North Texas),
-Elissa Redmiles,(University of Maryland),
-Katharina Krombholz,(CISPA Helmholtz Center for Information Security),
-Jorge Blasco Alis,(Royal Holloway University of London),
-Daniele Sgandurra,(Royal Holloway University of London),
-Adam Doupé,(Arizona State University),
-Dan O’Keeffe,(Royal Holloway University of London),
-Nathan Burow,(MIT Lincoln Labs),
-Gareth Davies,(Paderborn University),
-Wouter Lueks,(EPF Lausanne),
-Georgios Portokalidis,(Stevens Institute of Technology),
-Kami Vaniea,(University of Edinburgh),
-Marco Vassena,(CISPA Helmholtz Center for Information Security),
-Stijn Volckaert,(KU Leuven),
-Stefan Brunthaler,(Nat’l Cyber Defence Research Institute CODE),Munich
+Name,Organization,Location,Gender,Race
+Vladislav Mladenov,"(Ruhr University Bochum, Chair for Network and Data Security)",,male,W_NL
+Christian Mainka,"(Ruhr University Bochum, Chair for Network and Data Security)",,male,W_NL
+Karsten Meyer zu Selhausen,(Hackmanit GmbH),,male,W_NL
+Martin Grothe,"(Ruhr University Bochum, Chair for Network and Data Security)",,male,W_NL
+Jörg Schwenk,"(Ruhr University Bochum, Chair for Network and Data Security)",,male,W_NL
+Russell W. F. Lai,(Friedrich Alexander University Erlangen-Nuremberg),,male,W_NL
+Viktoria Ronge,(Friedrich Alexander University Erlangen-Nuremberg),,female,HL
+Tim Ruffing,(Blockstream),,male,W_NL
+Dominique Schröder,(Friedrich Alexander University Erlangen-Nuremberg),,female,W_NL
+Sri Aravinda Krishnan Thyagarajan,(Friedrich Alexander University Erlangen-Nuremberg),,male,A
+Jiafan Wang,(Chinese University of Hong Kong),,male,A
+José Bacelar Almeida,(University of Minho and INESC TEC),,male,HL
+Manuel Barbosa,(University of Porto (FCUP) and INESC TEC),,male,HL
+Gilles Barthe,(MPI-SP and IMDEA Software Institute),,male,B_NL
+Matthew Campagna,(Amazon Web Services),,male,W_NL
+Ernie Cohen,(Amazon Web Services),,male,W_NL
+Benjamin Gregoire,(INRIA Sophia Antipolis),,male,W_NL
+Vitor Pereira,(University of Porto (FCUP) and INESC TEC),,male,HL
+Bernardo Portela,(University of Porto (FCUP) and INESC TEC),,male,HL
+Pierre-Yves Strub,(École Polytechnique),,male,W_NL
+Serdar Tasiran,(Amazon Web Services),,male,A
+Carlos Cotrini,(ETH Zurich),,male,HL
+Luca Corinzia,(ETH Zurich),,male,HL
+Thilo Weghorn,(ETH Zurich),,male,A
+David Basin,(ETH Zurich),,male,W_NL
+Hooman Mohajeri Moghaddam,(Princeton University),,male,A
+Gunes Acar,(Princeton University),,male,A
+Arunesh Mathur,(Princeton University),,male,A
+Danny Y. Huang,(Princeton University),,male,A
+Ben Burgess,(Princeton University),,male,W_NL
+Nick Feamster,(Princeton University),,male,B_NL
+Edward Felten,(Princeton University),,male,W_NL
+Prateek Mittal,(Princeton University),,male,A
+Arvind Narayanan,(Princeton University),,male,A
+Jens Müller,(Ruhr University Bochum),,male,W_NL
+Fabian Ising,(Münster University of Applied Sciences),,male,A
+Vladislav Mladenov,(Ruhr University Bochum),,male,W_NL
+Christian Mainka,(Ruhr University Bochum),,male,W_NL
+Sebastian Schinzel,(Münster University of Applied Sciences),,male,W_NL
+Jörg Schwenk,(Ruhr University Bochum),,male,W_NL
+Georg Fuchsbauer,(Inria and Ecole normale superieure),,male,W_NL
+Sarvar Patel,(Google),,male,A
+Giuseppe Persiano,(Universita’ di Salerno and Google),,male,HL
+Kevin Yeo,(Google),,male,A
+Moti Yung,(Google),,male,A
+Chengcheng Xiang,(University of California San Diego),,female,A
+Yudong Wu,(University of California San Diego),,male,A
+Bingyu Shen,(University of California San Diego),,male,A
+Mingyao Shen,(University of California San Diego),,female,A
+Tianyin Xu,(University of Illinois Urbana-Champaign),,male,A
+Yuanyuan Zhou,(University of California San Diego),,male,A
+Cindy Moore,(University of California San Diego),,female,W_NL
+Xinxin Jin,"(Whova, Inc.)",,female,A
+Tianwei Sheng,"(Whova, Inc.)",,male,A
+Ben Weinshel,(University of Chicago),,male,W_NL
+Miranda Wei,(University of Chicago),,female,A
+Mainack Mondal,(IIT Kharagpur / University of Chicago),,male,A
+Euirim Choi,(University of Chicago),,male,A
+Shawn Shan,(University of Chicago),,male,A
+Claire Dolin,(University of Chicago),,female,W_NL
+Michelle L. Mazurek,(University of Maryland),,female,W_NL
+Blase Ur,(University of Chicago),,male,W_NL
+Daniel Gruss,(Graz University of Technology),,male,W_NL
+Erik Kraft,(Graz University of Technology),,male,W_NL
+Trishita Tiwari,(Boston University),,female,A
+Michael Schwarz,(Graz University of Technology),,male,W_NL
+Ari Trachtenberg,(Boston University),,male,A
+Jason Hennessey,(NetApp),,male,W_NL
+Alex Ionescu,(CrowdStrike),,male,A
+Anders Fogh,(Intel Corporation),,male,W_NL
+Ziqi Yang,(National University of Singapore),,female,A
+Jiyi Zhang,(National University of Singapore),,female,A
+Ee-Chien Chang,(National University of Singapore),,female,A
+Zhenkai Liang,(National University of Singapore),,male,A
+Elette Boyle,(IDC Herzliya),,female,W_NL
+Geoffroy Couteau,(Karlsruhe Institute of Technology),,male,W_NL
+Niv Gilboa,(Ben-Gurion University of the Negev),,male,A
+Yuval Ishai,(Technion),,male,A
+Lisa Kohl,(Karlsruhe Institute of Technology),,female,W_NL
+Peter Rindal,(Visa Research),,male,W_NL
+Peter Scholl,(Aarhus University),,male,W_NL
+Zichen Gui,(University of Bristol),,male,A
+Oliver Johnson,(University of Bristol),,male,B_NL
+Bogdan Warinschi,(University of Bristol),,male,W_NL
+Henry Birge-Lee,(Princeton University),,male,B_NL
+Liang Wang,(Princeton University),,male,A
+Jennifer Rexford,(Princeton University),,female,W_NL
+Prateek Mittal,(Princeton University),,male,A
+Keegan Ryan,(NCC Group),,male,W_NL
+Liwei Song,(Princeton University),,female,A
+Reza Shokri,(National University of Singapore (NUS)),,male,A
+Prateek Mittal,(Princeton University),,male,A
+Peter Rindal,(Visa Research),,male,W_NL
+Daniel Masny,(Visa Research),,male,W_NL
+Stanislaw Jarecki,"(University of California, Irvine)",,male,W_NL
+Hugo Krawczyk,(Algorand Foundation),,male,HL
+Jason Resch,(Independent),,male,W_NL
+H.L.J. Bijmans,(Delft University of Technology),,male,W_NL
+T.M. Booij,(Delft University of Technology),,male,A
+C. Doerr,(Delft University of Technology),,male,W_NL
+Pengfei Qiu,"(Research Institute of Information Technology & BNRist, Tsinghua University, Beijing, China)",,male,A
+Yongqiang Lyu,"(Research Institute of Information Technology & BNRist, Tsinghua University, Beijing, China)",,male,A
+Dongsheng Wang,"(Research Institute of Information Technology & BNRist, Tsinghua University, Beijing, China)",,male,A
+Gang Qu,"(Department of Electrical and Computer Engineering, University of Maryland, College Park, Maryland, USA)",,male,A
+Jinyuan Jia,(Duke University),,male,A
+Ahmed Salem,(CISPA Helmholtz Center for Information Security),,male,A
+Michael Backes,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Yang Zhang,(CISPA Helmholtz Center for Information Security),,male,A
+Neil Zhenqiang Gong,(Duke University),,male,A
+Carmit Hazay,(Bar-Ilan University),,female,W_NL
+Yuval Ishai,(Technion),,male,A
+Antonio Marcedone,(Cornell-Tech),,male,HL
+Muthu Venkitasubramaniam,(University of Rochester),,male,A
+Hao Chen,(MIcrosoft Research),,male,A
+Wei Dai,(Microsoft Research),,male,A
+Miran Kim,"(University of Texas, Health Science Center at Houston)",,male,A
+Yongsoo Song,(Microsoft Research),,female,A
+Matthew Luckie,(University of Waikato),,male,W_NL
+Robert Beverly,(Naval Postgraduate School),,male,W_NL
+Ryan Koga,(CAIDA / UC San Diego),,male,A
+Ken Keys,(CAIDA / UC San Diego),,male,B_NL
+Joshua Kroll,(UC Berkeley School of Information),,male,W_NL
+kc claffy,(CAIDA / UC San Diego),,male,W_NL
+Yue Cao,"(University of California, Riverside)",,male,A
+Zhongjie Wang,"(University of California, Riverside)",,female,A
+Zhiyun Qian,"(University of California, Riverside)",,female,A
+Chengyu Song,"(University of California, Riverside)",,female,A
+Srikanth Krishnamurthy,"(University of California, Riverside)",,male,A
+Paul Yu,(Army Research Laboratory),,male,A
+Kenneth Co,(Imperial College London),,male,A
+Luis Muñoz-González,(Imperial College London),,male,HL
+Sixte de Maupeou,(Imperial College London),,male,A
+Emil C. Lupu,(Imperial College London),,male,W_NL
+Hao Chen,(Microsoft Research),,male,A
+Ilaria Chillotti,(KU Leuven),,female,HL
+Ling Ren,(VMware Research),,female,A
+Sazzadur Rahaman,(Virginia Tech),,male,A
+Gang Wang,(University of Illinois at Urbana-Champaign),,male,A
+Daphne Yao,(Virginia Tech),,female,A
+Peng Chen,(ByteDance AI lab),,male,A
+Jianzhong Liu,(ShanghaiTech University),,male,A
+Hao Chen,"(University of California, Davis)",,male,A
+Zhuotao Liu,(UIUC & Google),,male,A
+Yangxi Xiang,(Beijing University of Posts and Telecommunications),,female,A
+Jian Shi,(Case Western Reserve University),,male,A
+Peng Gao,"(University of California, Berkeley)",,male,A
+Haoyu Wang,(Beijing University of Posts and Telecommunications),,male,A
+Xusheng Xiao,(Case Western Reserve University),,male,A
+Bihan Wen,(Nanyang Technological University),,female,A
+Yih-Chun Hu,(UIUC),,male,A
+Jeffrey Champion,(Northeastern University),,male,W_NL
+Abhi Shelat,(Northeastern University),,male,A
+Jonathan Ullman,(Northeastern University),,male,W_NL
+Poulami Das,"(Technische Universität Darmstadt, Germany)",,male,A
+Sebastian Faust,"(Technische Universität Darmstadt, Germany)",,male,W_NL
+Julian Loss,"(Ruhr-Universität Bochum, Germany)",,male,W_NL
+Haipei Sun,(Qatar Computing Research Institute),,female,A
+Xiaokui Xiao,(National University of Singapore),,female,A
+Issa Khalil,"(Qatar Computing Research Institute (QCRI)), HBKU)",,male,A
+Yin Yang,"(College of Science and Engineering, Hamad Bin Khalifa University)",,female,A
+Zhan Qin,(ZheJiang University),,male,A
+Hui,(Wendy) Wang (Stevens Institute of Technology),,,
+Ting Yu,(Qatar Computing Research Institute),,female,A
+Mingi Cho,(Yonsei University),,male,A
+Seoyoung Kim,(Yonsei University),,female,A
+Taekyoung Kwon,(Yonsei University),,female,A
+Muhammed F. Esgin,"(Monash University and Data61, CSIRO)",,male,A
+Raymond K. Zhao,(Monash University),,male,A
+Ron Steinfeld,(Monash University),,male,W_NL
+Joseph K. Liu,(Monash University),,male,A
+Dongxi Liu,"(Data61, CSIRO)",,female,A
+Ryan Wails,(U.S. Naval Research Laboratory),,male,W_NL
+Aaron Johnson,(U.S. Naval Research Laboratory),,male,B_NL
+Daniel Starin,(Perspecta Labs),,male,W_NL
+Arkady Yerukhimovich,(George Washington University),,male,W_NL
+S. Dov Gordon,(George Mason University),,male,B_NL
+Syed Rafiul Hussain,(Purdue University),,male,A
+Mitziu Echeverria,(The University of Iowa),,female,HL
+Imtiaz Karim,(Purdue University),,male,A
+Omar Chowdhury,(The University of Iowa),,male,A
+Elisa Bertino,(Purdue University),,female,HL
+Hafiz Asif,(Rutgers University),,male,A
+Periklis Papakonstantinou,(Rutgers University),,male,A
+Jaideep Vaidya,(Rutgers University),,male,A
+Jingxuan He,(ETH Zurich),,male,A
+Mislav Balunovic,(ETH Zurich),,male,W_NL
+Nodar Ambroladze,(ETH Zurich),,male,A
+Petar Tsankov,(ETH Zurich),,male,A
+Martin Vechev,(ETH Zurich),,male,W_NL
+Vivek Bagaria,(Stanford University),,male,A
+Sreeram Kannan,(University of Washington Seattle),,male,A
+David Tse,(Stanford University),,male,A
+Giulia Fanti,(Carnegie Mellon University),,female,HL
+Pramod Viswanath,(University of Illinois Urbana-Champaign),,male,A
+Ruiyu Zhu,(Indiana University Bloomington),,female,A
+Changchang Ding,(Indiana University Bloomington),,male,A
+Yan Huang,(Indiana University Bloomington),,male,A
+Thomas Haines,(Norwegian University of Science and Technology),,male,W_NL
+Rajev Gore,(The Australian National University),,male,A
+Mukesh Tiwari,(The Australian National University),,male,A
+Simon Couch,(Reed College),,male,B_NL
+Zeki Kazan,(Reed College),,male,A
+Kaiyan Shi,(Reed College),,male,A
+Andrew Bray,(Reed College),,male,W_NL
+Adam Groce,(Reed College),,male,W_NL
+Michael Schwarz,(Graz University of Technology),,male,W_NL
+Moritz Lipp,(Graz University of Technology),,male,W_NL
+Ahmad Moghimi,(Worcester Polytechnic Institute),,male,A
+Jo Van Bulck,"(imec-DistriNet, KU Leuven)",,male,A
+Julian Stecklina,(Cyberus Technology),,male,HL
+Thomas Prescher,(Cyberus Technology),,male,W_NL
+Daniel Gruss,(Graz University of Technology),,male,W_NL
+Christoph Egger,(Friedrich-Alexander-Universität Erlangen-Nürnberg),,male,W_NL
+Pedro Moreno-Sanchez,(TU Wien),,male,HL
+Matteo Maffei,(TU Wien),,male,HL
+Vitor Pereira,(INESC TEC & DCC FC Universidade do Porto),,male,HL
+Karim Eldefrawy,(SRI International),,male,A
+Vincent Cheval,(INRIA Nancy – Grand Est),,male,B_NL
+Steve Kremer,(INRIA Nancy – Grand Est),,male,W_NL
+Itsaka Rakotonirina,(INRIA Nancy – Grand Est),,female,A
+Kurt Thomas,(Google),,male,W_NL
+Theo Bertram,(Google),,male,W_NL
+Elie Bursztein,(Google),,male,W_NL
+Stephanie Caro,(Google),,female,HL
+Hubert Chao,(Google),,male,A
+Rutledge Chin Feman,(Google),,male,A
+Peter Fleischer,(Google),,male,W_NL
+Albin Gustafsson,(Google),,male,W_NL
+Jess Hemerly,(Google),,male,W_NL
+Chris Hibbert,(Google),,male,B_NL
+Luca Invernizzi,(Google),,male,W_NL
+Lanah Kammourieh Donnelly,(Google),,female,W_NL
+Jason Ketover,(Google),,male,W_NL
+Jay Laefer,(Google),,male,A
+Paul Nicholas,(Google),,male,W_NL
+Yuan Niu,(Google),,male,A
+Harjinder Obhi,(Google),,male,A
+David Price,(Google),,male,W_NL
+Andrew Strait,(Google),,male,W_NL
+Al Verney,(Google),,male,A
+Claudio Canella,(Graz University of Technology),,male,HL
+Daniel Genkin,(University of Michigan),,male,W_NL
+Lukas Giner,(Graz University of Technology),,male,HL
+Daniel Gruss,(Graz University of Technology),,male,W_NL
+Moritz Lipp,(Graz University of Technology),,male,W_NL
+Marina Minkin,(University of Michigan),,female,W_NL
+Daniel Moghimi,(Worcester Polytechnic Institute),,male,W_NL
+Frank Piessens,(KU Leuven),,male,W_NL
+Michael Schwarz,(Graz University of Technology),,male,W_NL
+Berk Sunar,(Worcester Polytechnic Institute),,male,A
+Jo Van Bulck,(KU Leuven),,male,A
+Yuval Yarom,(University of Adelaide and Data61),,male,A
+Gleb Naumenko,(University of British Columbia),,male,W_NL
+Gregory Maxwell,(Independent),,male,W_NL
+Pieter Wuille,(Blockstream),,male,W_NL
+Alexandra,(Sasha) Fedorova (University of British Columbia),,,
+Ivan Beschastnikh,(University of British Columbia),,male,HL
+Ariel Nof,(Bar-Ilan University),,male,HL
+Yuval Ishai,(Technion and UCLA),,male,A
+Elette Boyle,(IDC Herzliya),,female,W_NL
+Niv Gilboa,(BGU),,male,A
+Susan Hohenberger,(Johns Hopkins University),,female,W_NL
+Satyanarayana Vusirikala,(University of Texas at Austin),,male,A
+Christine Utz,(Ruhr-Universität Bochum),,female,W_NL
+Martin Degeling,(Ruhr-Universität Bochum),,male,W_NL
+Sascha Fahl,(Ruhr-Universität Bochum),,female,W_NL
+Florian Schaub,(University of Michigan),,male,W_NL
+Thorsten Holz,(Ruhr-Universität Bochum),,male,W_NL
+Atri Bhattacharyya,(EPFL),,male,A
+Alexandra Sandulescu,(IBM Zurich),,female,HL
+Matthias Neugschwandtner,(IBM Zurich),,male,W_NL
+Alessandro Sorniotti,(IBM Zurich),,male,HL
+Babak Falsafi,(EPFL),,male,A
+Mathias Payer,(EPFL),,male,W_NL
+Anil Kurmus,(IBM Zurich),,male,A
+Shang Gao,(The Hong Kong Polytechnic University),,male,A
+Zecheng Li,(The Hong Kong Polytechnic University),,male,A
+Zhe Peng,(The Hong Kong Polytechnic University),,male,A
+Bin Xiao,(The Hong Kong Polytechnic University),,male,A
+Donghang Lu,(Purdue University),,male,A
+Thomas Yurek,(UIUC),,male,W_NL
+Samarth Kulshreshtha,(UIUC),,male,A
+Rahul Govind,(UIUC),,male,A
+Aniket Kate,(Purdue University),,male,A
+Andrew Miller,(UIUC),,male,W_NL
+Sjouke Mauw,"(SnT/CSC, University of Luxembourg)",,male,A
+Zach Smith,"(CSC, University of Luxembourg)",,male,W_NL
+Jorge Toro-Pozo,"(CSC, University of Luxembourg)",,male,HL
+Rolando Trujillo-Rasua,"(School of Information Technology, Deakin University)",,male,HL
+Mainack Mondal,(IIT Kharagpur / University of Chicago),,male,A
+Günce Su Yilmaz,(University of Chicago),,female,A
+Noah Hirsch,(University of Chicago),,male,W_NL
+Mohammad Taha Khan,(University of Illinois at Chicago),,male,A
+Michael Tang,(University of Chicago),,male,A
+Christopher Tran,(University of Illinois at Chicago),,male,A
+Chris Kanich,(University of Illinois at Chicago),,male,W_NL
+Blase Ur,(University of Chicago),,male,W_NL
+Elena Zheleva,(University of Illinois at Chicago),,female,A
+Masoud Ghaffarinia,(University of Texas at Dallas),,male,A
+Kevin Hamlen,(University of Texas at Dallas),,male,W_NL
+Dahlia Malkhi,(Calibra),,female,A
+Kartik Nayak,(VMware Research),,male,A
+Ling Ren,(VMware Research),,female,A
+Xing Gao,(University of Memphis),,male,A
+Zhongshu Gu,(IBM Research),,male,A
+Zhengfa Li,(Independent Researcher),,male,A
+Hani Jamjoom,(IBM Research),,male,A
+Cong Wang,(Old Dominion University),,male,A
+Eduard Marin,(University of Birmingham),,male,HL
+Nicola Bucciol,(University of Padua),,female,W_NL
+Mauro Conti,(University of Padua),,male,HL
+Payap Sirinam,(Navaminda Kasatriyadhiraj Royal Air Force Academy),,male,A
+Nate Matthews,(Rochester Institute of Technology),,male,B_NL
+Mohammad Saidur Rahman,(Rochester Institute of Technology),,male,A
+Matthew Wright,(Rochester Institute of Technology),,male,W_NL
+Shen Liu,"(The Pennsylvania State University, University Park)",,male,A
+Dongrui Zeng,"(The Pennsylvania State University, University Park)",,male,A
+Yongzhe Huang,"(The Pennsylvania State University, University Park)",,male,A
+Frank Capobianco,"(The Pennsylvania State University, University Park)",,male,W_NL
+Stephen McCamant,"(University of Minnesota, Twin Cities)",,male,W_NL
+Trent Jaeger,"(The Pennsylvania State University, University Park)",,male,W_NL
+Gang Tan,"(The Pennsylvania State University, University Park)",,male,A
+Adrià Gascón,(The Alan Turing Institute / University of Warwick),,female,HL
+Mariana Raykova,(Google),,female,HL
+Leonie Reichert,(Humboldt-Universität zu Berlin),,female,W_NL
+Phillipp Schoppmann,(Humboldt-Universität zu Berlin),,male,W_NL
+Robert Buhren,(Technische Universität Berlin),,male,W_NL
+Christian Werling,"(Hasso Plattner Institute, Potsdam)",,male,W_NL
+Jean-Pierre Seifert,(Technische Universität Berlin),,male,W_NL
+Christian Skalka,(University of Vermont),,male,W_NL
+John Ring,(University of Vermont),,male,W_NL
+David Darais,(University of Vermont),,male,W_NL
+Minseok Kwon,(Rochester Institute of Technology),,male,A
+Sahil Gupta,(Rochester Institute of Technology),,male,A
+Kyle Diller,(Rochester Institute of Technology),,male,W_NL
+Steffen Smolka,(Cornell University),,male,W_NL
+Nate Foster,(Cornell University),,male,B_NL
+Yushi Cheng,(Zhejiang University),,male,A
+Xiaoyu Ji,(Zhejiang University),,female,A
+Juchuan Zhang,(Zhejiang University),,male,A
+Wenyuan Xu,(Zhejiang University),,male,A
+Yi-Chao Chen,(University of Texas at Austin),,female,A
+Nitin Agrawal,(University of Oxford),,male,A
+Ali Shahin Shamsabadi,(Queen Mary University London),,male,A
+Matthew Kusner,"(University of Oxford, The Alan Turing Institute)",,male,W_NL
+Adria Gascon,(The Alan Turing Institute),,female,HL
+Alin Tomescu,(MIT),,male,HL
+Vivek Bhupatiraju,(Lexington High School),,male,A
+Dimitrios Papadopoulos,(Hong Kong University of Science and Technology),,male,W_NL
+Charalampos Papamanthou,(University of Maryland),,male,A
+Nikos Triandopoulos,(Stevens Institute of Technology),,male,HL
+Srinivas Devadas,(MIT),,male,A
+Fucheng Liu,"(Institute of Information Engineering, Chinese Academy of Science)",,male,A
+Yu Wen,"(Institute of Information Engineering, Chinese Academy of Sciences)",,female,A
+Dongxue Zhang,"(Institute of Information Engineering, Chinese Academy of Science)",,female,A
+Xihe Jiang,"(Institute of Information Engineering, Chinese Academy of Science)",,female,A
+Xinyu Xing,(The Pennsylvania State University),,female,A
+Dan Meng,"(Institute of Information Engineering, Chinese Academy of Science)",,male,A
+Moni Naor,(Weizmann Institue),,female,A
+Benny Pinkas,(Bar Ilan University),,male,W_NL
+Eyal Ronen,"(Tel Aviv University, KU Leuven)",,male,W_NL
+Simon Eberz,(University of Oxford),,male,A
+Giulio Lovisotto,(University of Oxford),,male,HL
+Kasper Rasmussen,(University of Oxford),,male,W_NL
+Vincent Lenders,(Armasuisse),,male,B_NL
+Ivan Martinovic,(University of Oxford),,male,HL
+Teodora Baluta,(National University of Singapore),,female,A
+Shiqi Shen,(National University of Singapore),,female,A
+Shweta Shinde,"(University of California, Berkeley)",,female,A
+Kuldeep S. Meel,(National University of Singapore),,male,A
+Prateek Saxena,(National University of Singapore),,male,A
+David Clayton,(University of Florida),,male,W_NL
+Christopher Patton,(University of Florida),,male,W_NL
+Thomas Shrimpton,(University of Florida),,male,W_NL
+Sadegh M. Milajerdi,(UIC),,male,W_NL
+Birhanu Eshete,(University of Michigan-Dearborn),,male,A
+Rigel Gjomemo,(UIC),,male,HL
+V.N. Venkatakrishnan,(UIC),,male,A
+Jingjie Li,(University of Wisconsin-Madison),,female,A
+Younghyun Kim,(University of Wisconsin-Madison),,female,A
+Kassem Fawaz,(University of Wisconsin-Madison),,male,A
+Yingqi Liu,(Purdue University),,female,A
+Wen-Chuan Lee,(Purdue University),,male,A
+Guanhong Tao,(Purdue University),,male,A
+Shiqing Ma,(Purdue University),,female,A
+Yousra Aafer,(Purdue University),,female,A
+Xiangyu Zhang,(Purdue University),,female,A
+Phillipp Schoppmann,(Humboldt-Universität zu Berlin),,male,W_NL
+Adrià Gascón,"(The Alan Turing Institute, University of Warwick)",,female,HL
+Mariana Raykova,(Google),,female,HL
+Benny Pinkas,(Bar Ilan University),,male,W_NL
+Zhenyuan LI,(Zhejiang University),,male,A
+Qi Alfred Chen,"(University of California, Irvine)",,male,A
+Chunlin Xiong,(Zhejiang University),,male,A
+Yan Chen,(Northwestern University),,male,A
+Tiantian Zhu,(Zhejiang University of Technology),,male,A
+Hai Yang,(MagicShield Inc),,male,A
+Sven Hammann,(ETH Zurich),,male,W_NL
+Sasa Radomirovic,(University of Dundee),,male,W_NL
+Ralf Sasse,(ETH Zurich),,male,W_NL
+David Basin,(ETH Zurich),,male,W_NL
+Chen Yan,(Zhejiang University),,male,A
+Yan Long,(Zhejiang University),,male,A
+Xiaoyu Ji,(Zhejiang University),,female,A
+Wenyuan Xu,(Zhejiang University),,male,A
+Min Du,(University of California Berkeley),,male,A
+Zhi Chen,(University of California Berkeley),,male,A
+Chang Liu,(Citadel Securities),,male,A
+Rajvardhan Oak,(University of California Berkeley),,male,A
+Dawn Song,(University of California Berkeley),,female,A
+Abbas Naderi-Afooshteh,(University of Virginia),,male,A
+Yonghwi Kwon,(University of Virginia),,male,A
+Jack Davidson,(University of Virginia),,male,W_NL
+Anh Nguyen-Tuong,(University of Virginia),,female,A
+Ali Razmjoo-Qalaei,(ZDResearch),,male,A
+Mohammad-Reza Zamiri-Gourabi,(ZDResearch),,male,A
+Dong Yuan,(Tsinghua University),,male,A
+Yuanli Miao,(Tsinghua University),,female,A
+Neil Zhenqiang Gong,(Duke University),,male,A
+Zheng Yang,(Tsinghua University),,male,A
+Qi Li,(Tsinghua University),,male,A
+Dawn Song,(UC Berkeley),,female,A
+Qian Wang,(Wuhan University),,male,A
+Xiao Liang,(Tencent),,male,A
+Qi Wang,(University of Illinois at Urbana-Champaign),,male,A
+Pubali Datta,(University of Illinois at Urbana-Champaign),,male,A
+Wei Yang,(The University of Texas at Dallas),,male,A
+Si Liu,(University of Illinois at Urbana-Champaign),,male,A
+Carl Gunter,(University of Illinois at Urbana-Champaign),,male,W_NL
+Adam Bates,(University of Illinois at Urbana-Champaign),,male,W_NL
+Dominik Harz,(Imperial College London),,male,W_NL
+Lewis Gudgeon,(Imperial College London),,male,W_NL
+Arthur Gervais,(Imperial College London),,male,W_NL
+William J. Knottenbelt,(Imperial College London),,male,W_NL
+Muhammad Ishaq,(University of Edinburgh),,male,A
+Ana Milanova,(Rensselaer Polytechnic Institute),,female,HL
+Vassilis Zikas,(University of Edinburgh),,male,W_NL
+Yu-Fu Fu,(Academia Sinica),,female,A
+Jiaxiang Liu,(Academia Sinica & Shenzhen University),,male,A
+Xiaomu Shi,(Academia Sinica & Shenzhen University),,female,A
+Ming-Hsien Tsai,(Academia Sinica),,male,A
+Bow-Yaw Wang,(Academia Sinica),,male,A
+Bo-Yin Yang,(Academia Sinica),,female,A
+Melissa Chase,(Microsoft Research),,female,W_NL
+Apoorvaa Deshpande,(Brown University),,male,A
+Esha Ghosh,(Microsoft Research),,female,A
+Harjasleen Malvai,(Cornell University),,male,A
+Simon Birnbach,(University of Oxford),,male,W_NL
+Simon Eberz,(University of Oxford),,male,A
+Ivan Martinovic,(University of Oxford),,male,HL
+Ting Chen,(University of Electronic Science and Technology of China),,female,A
+Yufei Zhang,(University of Electronic Science and Technology of China),,female,A
+Zihao Li,(University of Electronic Science and Technology of China),,male,A
+Xiapu Luo,(The Hong Kong Polytechnic University),,female,A
+Ting Wang,(Lehigh University),,female,A
+Rong Cao,(University of Electronic Science and Technology of China),,male,A
+Xiuzhuo Xiao,(University of Electronic Science and Technology of China),,female,A
+Xiaosong Zhang,(University of Electronic Science and Technology of China),,male,A
+Jun Furukawa,(NEC Israel Research Center),,female,A
+Yehuda Lindell,(Bar-Ilan University and Unbound Tech),,male,W_NL
+José Bacelar Almeida,(Universidade do Minho & INESC-TEC),,male,HL
+Cécile Baritel-Ruet,(Université Côte d’Azur & Inria Sophia-Antipolis),,female,B_NL
+Manuel Barbosa,(Universidade do Porto & INESC-TEC),,male,HL
+Gilles Barthe,(MPI-SP & IMDEA Software Institute),,male,B_NL
+François Dupressoir,(University of Surrey & University of Bristol),,male,B_NL
+Benjamin Grégoire,(Inria Sophia-Antipolis),,male,B_NL
+Vincent Laporte,(Inria),,male,W_NL
+Tiago Oliveira,(Universidade do Porto & INESC-TEC & FCUP),,male,HL
+Alley Stoughton,(Boston University),,female,W_NL
+Pierre-Yves Strub,(École Polytechnique),,male,W_NL
+Jianting Ning,(Fujian Normal University & National University of Singapore),,male,A
+Geong Sen Poh,(Trustwave & NUS-Singtel Cyber Security Lab),,male,A
+Jia-Ch’ng Loh,(NUS-Singtel Cyber Security Lab),,female,A
+Jason Chia,(NUS-Singtel Cyber Security Lab),,male,A
+Ee-Chien Chang,(National University of Singapore),,female,A
+Chaoshun Zuo,(Ohio State University),,male,A
+Haohuang Wen,(Ohio State University),,female,A
+Zhiqiang Lin,(Ohio State University),,male,A
+Yinqian Zhang,(Ohio State University),,male,A
+Megha Byali,"(Indian Institute of Science, Bangalore)",,female,A
+Carmit Hazay,"(Bar-Ilan University, Israel)",,female,W_NL
+Arpita Patra,"(Indian Institute of Science, Bangalore)",,female,A
+Swati Singla,"(Indian Institute of Science, Bangalore)",,female,A
+Armaiti Ardeshiricham,(UCSD),,female,A
+Yoshiki Takashima,(UCSD),,female,A
+Sicun Gao,(UCSD),,male,A
+Ryan Kastner,(UCSD),,male,W_NL
+Johannes Blömer,(Paderborn University),,male,W_NL
+Jan Bobolz,(Paderborn University),,male,W_NL
+Denis Diemert,(Paderborn University),,male,W_NL
+Fabian Eidens,(Paderborn University),,male,HL
+Sean Heelan,(University of Oxford),,male,W_NL
+Daniel Kroening,(University of Oxford),,male,W_NL
+Tom Melham,(University of Oxford),,male,A
+Shijun Zhao,(Institute of Software Chinese Academy of Sciences),,male,A
+Qianying Zhang,(Capital Normal University Information Engineering Colleg),,female,A
+Qin Yu,(Institute of Software Chinese Academy of Sciences),,female,A
+Wei Feng,(Institute of Software Chinese Academy of Sciences),,male,A
+Dengguo Feng,(Institute of Software Chinese Academy of Sciences),,male,A
+Samuel Steffen,(ETH Zürich),,male,W_NL
+Benjamin Bichsel,(ETH Zürich),,male,W_NL
+Mario Gersbach,(ETH Zürich),,male,HL
+Noa Melchior,(ETH Zürich),,female,W_NL
+Petar Tsankov,(ETH Zürich),,male,A
+Martin Vechev,(ETH Zürich),,male,W_NL
+Kangjie Lu,(University of Minnesota),,male,A
+Hong Hu,(GeorgiaTech),,male,A
+Aurore Fass,(CISPA Helmholtz Center for Information Security),,female,W_NL
+Michael Backes,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Ben Stock,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Yueqi Chen,(Pennsylvania State University),,female,A
+Xinyu Xing,(Pennsylvania State University),,female,A
+Jo Van Bulck,"(imec-DistriNet, KU Leuven, Belgium)",,male,A
+David Oswald,"(School of Computer Science, University of Birmingham, UK)",,male,W_NL
+Eduard Marin,"(School of Computer Science, University of Birmingham, UK)",,male,HL
+Abdulla Aldoseri,"(School of Computer Science, University of Birmingham, UK)",,male,A
+Flavio D. Garcia,"(School of Computer Science, University of Birmingham, UK)",,male,HL
+Frank Piessens,"(imec-DistriNet, KU Leuven, Belgium)",,male,W_NL
+Alex Biryukov,(University of Luxembourg),,male,A
+Daniel Feher,(University of Luxembourg),,male,W_NL
+Giuseppe Vitto,(University of Luxembourg),,male,W_NL
+Mengchen Cao,"(Orion Security Lab, Alibaba Group)",,male,A
+Xiantong Hou,"(Orion Security Lab, Alibaba Group)",,male,A
+Tao Wang,"(Orion Security Lab, Alibaba Group)",,male,A
+Hunter Qu,"(Orion Security Lab, Alibaba Group)",,male,B_NL
+Yajin Zhou,(Zhejiang University),,female,A
+Xiaolong Bai,"(Orion Security Lab, Alibaba Group)",,male,A
+Fuwei Wang,"(Orion Security Lab, Alibaba Group)",,female,A
+Hoai Viet Nguyen,(Cologne University of Applied Sciences),,male,A
+Luigi Lo Iacono,(Cologne University of Applied Sciences),,male,A
+Hannes Federrath,(University of Hamburg),,male,W_NL
+Sunyoung Seiler-Hwang,(University of Mannheim),,female,A
+Patricia Arias-Cabarcos,(University of Mannheim),,female,HL
+Andrés Marín,(University Carlos III of Madrid),,male,HL
+Florina Almenares,(University Carlos III of Madrid),,female,HL
+Daniel Díaz-Sánchez,(University Carlos III of Madrid),,male,HL
+Christian Becker,(University of Mannheim),,male,W_NL
+Yue Zhao,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences, China)",,male,A
+School of Cyber Securitya),,,,
+University of Chinese Academy of Sciencesa),,,,
+China),,,,
+Hong Zhu,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences, China)",,female,A
+School of Cyber Securitya),,,,
+University of Chinese Academy of Sciencesa),,,,
+China),,,,
+Ruigang Liang,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China)",,male,A
+Qintao Shen,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences, China)",,male,A
+School of Cyber Securitya),,,,
+University of Chinese Academy of Sciencesa),,,,
+China),,,,
+Shengzhi Zhang,"(Department of Computer Science, Metropolitan College, Boston University)",,male,A
+Kai Chen,"(SKLOIS, Institute of Information Engineering,Chinese Academy of Sciences, China)",,male,A
+School of Cyber Security),,,,
+University of Chinese Academy of Sciences),,,,
+China),,,,
+Russell W. F. Lai,(Friedrich-Alexander University Erlangen-Nuremberg),,male,W_NL
+Giulio Malavolta,( Carnegie Mellon University),,male,HL
+Viktoria Ronge,(Friedrich-Alexander University Erlangen-Nuremberg),,female,HL
+Andreas Hülsing,(TU Eindhoven),,male,W_NL
+Peter Schwabe,(RU Nijmegen),,male,W_NL
+Joost Rijneveld,(RU Nijmegen),,male,W_NL
+Stefan Kölbl,(Cybercrypt),,male,W_NL
+Daniel J Bernstein,(University of Illinois at Chicago and Ruhr University Bochum),,male,W_NL
+Ruben Niederhagen,(SIT Fraunhofer),,male,HL
+Kevin Bock,(University of Maryland),,male,W_NL
+George Hughey,(University of Maryland),,male,W_NL
+Xiao Qiang,(UC Berkeley),,male,A
+Dave Levin,(University of Maryland),,male,W_NL
+Faris Bugra Kokulu,(Arizona State University),,male,A
+Ananta Soneji,(Arizona State University),,male,A
+Tiffany Bao,(Arizona State University),,female,A
+Yan Shoshitaishvili,(Arizona State University),,male,A
+Ziming Zhao,(Rochester Institute of Technology),,male,A
+Adam Doupé,(Arizona State University),,male,W_NL
+Gail-Joon Ahn,(Arizona State University and Samsung Research),,male,A
+Florian Tramèr,(Stanford University),,male,W_NL
+Pascal Dupré,(CISPA),,male,B_NL
+Gili Rusak,(Stanford),,female,W_NL
+Giancarlo Pellegrino,"(Stanford University, CISPA)",,male,HL
+Dan Boneh,(Stanford University),,male,W_NL
+Matteo Campanelli,"(IMDEA Software Institute, Madrid, Spain)",,male,W_NL
+Dario Fiore,"(IMDEA Software Institute, Madrid, Spain)",,male,HL
+Anaïs Querol,"(IMDEA Software Institute, Madrid, and Universidad Politecnica de Madrid, Spain)",,female,HL
+Gilles Barthe,(MPI-SP and IMDEA Software Institute),,male,B_NL
+Sonia Belaïd,(CryptoExperts),,female,HL
+Thomas Espitau,(Sorbonne Université),,male,W_NL
+Pierre-Alain Fouque,(Univ Rennes),,male,B_NL
+Mélissa Rossi,(ENS and Thalès),,female,W_NL
+Mehdi Tibouchi,(NTT Corporation),,male,A
+Sergey Frolov,(University of Colorado Boulder),,male,W_NL
+Jack Wampler,(University of Colorado Boulder),,male,W_NL
+Sze Chuen Tan,(UIUC),,male,A
+J. Alex Halderman,(University of Michigan),,male,W_NL
+Nikita Borisov,(UIUC),,male,A
+Eric Wustrow,(University of Colorado Boulder),,male,W_NL
+Christian Tiefenau,(University of Bonn),,male,W_NL
+Emanuel von Zezschwitz,"(University of Bonn, Fraunhofer FKIE)",,male,HL
+Maximilian Häring,(Fraunhofer FKIE),,male,W_NL
+Katharina Krombholz,(CISPA Helmholtz Center for Information Security),,female,W_NL
+Matthew Smith,"(University of Bonn, Fraunhofer FKIE)",,male,W_NL
+Binghui Wang,(Duke University),,male,A
+Neil Zhenqiang Gong,(Duke University),,male,A
+Michael Klooß,(Karlsruhe Institute of Technology),,male,W_NL
+Max Hoffmann,(Ruhr University Bochum),,male,W_NL
+Andy Rupp,(Karlsruhe Institute of Technology),,male,W_NL
+Dennis Jackson,(University of Oxford),,male,B_NL
+Katriel Cohn-Gordon,(Facebook),,female,W_NL
+Cas Cremers,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Ralf Sasse,(ETH Zürich),,male,W_NL
+Angelique Faye Loe,"(Royal Holloway, University of London)",,female,B_NL
+Elizabeth Quaglia,"(Royal Holloway, University of London)",,female,W_NL
+Yuanshun Yao,(University of Chicago),,male,A
+Huiying Li,(University of Chicago),,female,A
+Haitao Zheng,(University of Chicago),,male,A
+Ben Y. Zhao,(University of Chicago),,male,A
+Mary Maller,(University College London),,female,W_NL
+Sean Bowe,(Zcash),,male,W_NL
+Markulf Kohlweiss,"(University of Edinburgh, IOHK)",,male,W_NL
+Sarah Meiklejohn,(University College London),,female,W_NL
+Michael Backes,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Lucjan Hanzlik,"(CISPA Helmholtz Center for Information Security, Stanford University)",,male,W_NL
+Jonas Schneider-Bensch,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Yulong Cao,(University of Michigan),,male,A
+Chaowei Xiao,(University of Michigan),,male,A
+Benjamin Cyr,(University of Michigan),,male,W_NL
+Yimeng Zhou,(University of Michigan),,female,A
+Won Park,(University of Michigan),,male,A
+Sara Rampazzi,(University of Michigan),,female,W_NL
+Qi Alfred Chen,"(University of California, Irvine)",,male,A
+Kevin Fu,(University of Michigan),,male,A
+Z. Morley Mao,(University of Michigan),,male,A
+Guoxing Chen,(The Ohio State University),,male,A
+Yinqian Zhang,(The Ohio State University),,male,A
+Ten-Hwang Lai,(The Ohio State University),,female,A
+Shengqu Xi,(Nanjing University),,female,A
+Shao Yang,(Case Western Reserve University),,male,A
+Xusheng Xiao,(Case Western Reserve University),,male,A
+Yuan Yao,(Nanjing University),,male,A
+Yayuan Xiong,(Nanjing University),,male,A
+Fengyuan Xu,"(National Key Lab for Novel Software Technology, Nanjing University)",,male,A
+Haoyu Wang,(Beijing University of Posts and Telecommunications),,male,A
+Peng Gao,"(University of California, Berkeley)",,male,A
+Zhuotao Liu,(University of Illinois at Urbana-Champaign),,male,A
+Feng Xu,(Nanjing University),,male,A
+Jian Lu,(Nanjing University),,male,A
+Josh Aas,(Let’s Encrypt),,male,W_NL
+Richard Barnes,(Cisco),,male,W_NL
+Benton Case,(Stanford University),,male,W_NL
+Zakir Durumeric,(Stanford University),,male,A
+Peter Eckersley,(Electronic Frontier Foundation),,male,W_NL
+Alan Flores-López,(Stanford University),,male,HL
+J. Alex Halderman,(University of Michigan),,male,W_NL
+Jacob Hoffman-Andrews,(Electronic Frontier Foundation),,male,W_NL
+James Kasten,(University of Michigan),,male,W_NL
+Eric Rescorla,(Mozilla),,male,HL
+Seth Schoen,(Electronic Frontier Foundation),,male,W_NL
+Brad Warren,(Electronic Frontier Foundation),,male,W_NL
+Mert D. Pesé,"(University of Michigan, Ann Arbor)",,male,W_NL
+Troy Stacer,"(University of Michigan, Ann Arbor)",,male,W_NL
+C. Andrés Campos,"(University of Michigan, Ann Arbor)",,male,HL
+Eric Newberry,"(University of Michigan, Ann Arbor)",,male,B_NL
+Dongyao Chen,"(University of Michigan, Ann Arbor)",,male,A
+Kang G. Shin,"(University of Michigan, Ann Arbor)",,male,A
+Huibo Wang,(University of Texas at Dallas),,male,A
+Pei Wang,(Baidu X-Lab),,male,A
+Yu Ding,(Baidu X-Lab),,female,A
+Mingshen Sun,(Baidu X-Lab),,male,A
+Yiming Jing,(Baidu X-Lab),,male,A
+Ran Duan,(Baidu X-Lab),,male,A
+Long Li,(Baidu X-Lab),,male,A
+Yulong Zhang,(Baidu X-Lab),,male,A
+Tao Wei,(Baidu X-Lab),,male,A
+Zhiqiang Lin,(Ohio State University),,male,A
+Soumya Basu,"(Cornell University, IC3, VMWare Research)",,female,A
+Alin Tomescu,"(MIT, VMWare Research)",,male,HL
+Ittai Abraham,(VMware Research),,male,A
+Dahlia Malkhi,(VMWare),,female,A
+Mike Reiter,"(UNC, VMWare Research)",,male,W_NL
+Emin Gün Sirer,"(Cornell, IC3)",,male,A
+Mizanur Rahman,(Amazon),,male,A
+Nestor Hernandez,(FIU),,male,HL
+Ruben Recabarren,(FIU),,male,HL
+Syed Ishtiaque Ahmed,(University of Toronto),,male,A
+Bogdan Carbunar,(FIU),,male,W_NL
+Richard Roberts,(University of Maryland),,male,W_NL
+Yaelle Goldschlag,(University of Maryland),,female,A
+Rachel Walter,(University of Maryland),,female,W_NL
+Taejoong Chung,(Rochester Institute of Technology),,female,A
+Alan Mislove,(Northeastern University),,male,W_NL
+Dave Levin,(University of Maryland),,male,W_NL
+Yazhou Tu,(University of Louisiana at Lafayette),,male,A
+Sara Rampazzi,(University of Michigan),,female,W_NL
+Bin Hao,(University of Louisiana at Lafayette),,male,A
+Angel Rodriguez,(University of Michigan),,male,HL
+Kevin Fu,(University of Michigan),,male,A
+Xiali Hei,(University of Louisiana at Lafayette),,female,A
+Huayi DUAN,(City University of Hong Kong),,male,A
+Cong Wang,(City University of Hong Kong),,male,A
+Xingliang Yuan,(Monash University),,male,A
+Yajin Zhou,(Zhejiang University),,female,A
+Qian Wang,(Wuhan University),,male,A
+Kui Ren,(Zhejiang University),,male,A
+Phi Hung Le,(George Mason University),,male,A
+Samuel Ranellucci,"(University of Maryland, George Mason University)",,male,W_NL
+S. Dov Gordon,(George Mason University),,male,B_NL
+Sazzadur Rahaman,"(Department of Computer Science, Virginia Tech)",,male,A
+Ya Xiao,"(Department of Computer Science, Virginia Tech)",,female,A
+Sharmin Afrose,"(Department of Computer Science, Virginia Tech)",,female,A
+Fahad Shaon,"(Department of Computer Science, The University of Texas at Dallas)",,male,A
+Ke Tian,"(Department of Computer Science, Virginia Tech)",,male,A
+Miles Frantz,"(Department of Computer Science, Virginia Tech)",,male,B_NL
+Danfeng,"(Daphne) Yao (Department of Computer Science, Virginia Tech)",,,
+Murat Kantarcioglu,"(Department of Computer Science, The University of Texas at Dallas)",,male,A
+Bingyu Li,"(Institute of Information Engineering, CAS)",,male,A
+Jingqiang Lin,"(Institute of Information Engineering, CAS)",,male,A
+Fengjun Li,"(The University of Kansas, Lawrence, USA)",,male,A
+Qiongxiao Wang,"(Institute of Information Engineering, CAS)",,female,A
+Qi Li,"(Tsinghua University, China)",,male,A
+Jiwu Jing,"(Institute of Information Engineering, CAS)",,female,A
+Congli Wang,"(Institute of Information Engineering, CAS)",,female,A
+Christine Utz,(Ruhr-Universität),,female,W_NL
+  Bochum),,,,
+Martin Degeling,(Ruhr-Universität Bochum),,male,W_NL
+Sascha Fahl,,,female,W_NL
+,(Ruhr-Universität Bochum),,,
+Florian Schaub,(University of Michigan),,male,W_NL
+Thorsten,,,,
+Holz,(Ruhr-Universität Bochum),,,
+Sunyoung Seiler-Hwang,(University of Mannheim),,female,A
+Patricia Arias-Cabarcos,(University of Mannheim),,female,HL
+Andrés Marín,(University Carlos III of Madrid),,male,HL
+Florina Almenares,(University Carlos III of Madrid),,female,HL
+Daniel Díaz-Sánchez,(University Carlos III of Madrid),,male,HL
+Christian Becker,(University of Mannheim),,male,W_NL
+Vladislav Mladenov,"(Ruhr University Bochum, Chair for)",,male,W_NL
+  Network and Data Security),,,,
+Christian Mainka,"(Ruhr University Bochum, Chair)",,male,W_NL
+  for Network and Data Security),,,,
+Karsten Meyer zu Selhausen,(Hackmanit GmbH),,male,W_NL
+Martin,,,,
+Grothe,"(Ruhr University Bochum, Chair for Network and Data Security)",,,
+Jörg,,,,
+Schwenk,"(Ruhr University Bochum, Chair for Network and Data Security)",,,
+Simon Eberz,(University of Oxford),,male,A
+Giulio Lovisotto,,,male,HL
+,(University of Oxford),,,
+Kasper Rasmussen,(University of Oxford),,male,W_NL
+Vincent,,,,
+Lenders,(Armasuisse),,,
+Ivan Martinovic,(University of Oxford),,male,HL
+Syed Rafiul Hussain,(Purdue University),,male,A
+Mitziu Echeverria,,,female,HL
+,(University of Iowa),,,
+Imtiaz Karim,(Purdue University),,male,A
+Omar Chowdhury,(The),,male,A
+  University of Iowa),,,,
+Elisa Bertino,(Purdue University),,female,HL
+Poulami Das,(Technische Universität),,male,A
+"  Darmstadt, Germany)",,,,
+Sebastian Faust,"(Technische Universität Darmstadt,)",,male,W_NL
+  Germany),,,,
+Julian Loss,"(Ruhr-Universität Bochum, Germany)",,male,W_NL
+Vitor Pereira,(INESC TEC & DCC FC Universidade do),,male,HL
+  Porto),,,,
+Karim Eldefrawy,(SRI International),,male,A
+José Bacelar Almeida,(University of Minho and INESC TEC),,male,HL
+Manuel,,,,
+Barbosa,(University of Porto (FCUP) and INESC TEC),,,
+Gilles Barthe,(MPI-SP and),,male,B_NL
+  IMDEA Software Institute),,,,
+Matthew Campagna,(Amazon Web Services),,male,W_NL
+Ernie,,,,
+Cohen,(Amazon Web Services),,,
+Benjamin Gregoire,(INRIA Sophia Antipolis),,male,W_NL
+Vitor,,,,
+Pereira,(University of Porto (FCUP) and INESC TEC),,,
+Bernardo Portela,,,male,HL
+,(University of Porto (FCUP) and INESC TEC),,,
+Pierre-Yves Strub,(École),,male,W_NL
+  Polytechnique),,,,
+Serdar Tasiran,(Amazon Web Services),,male,A
+Jo Van Bulck,"(imec-DistriNet, KU Leuven, Belgium)",,male,A
+David,,,,
+Oswald,"(School of Computer Science, University of Birmingham, UK)",,,
+Eduard,,,,
+Marin,"(School of Computer Science, University of Birmingham, UK)",,,
+Abdulla,,,,
+Aldoseri,"(School of Computer Science, University of Birmingham, UK)",,,
+Flavio,,,,
+D. Garcia,"(School of Computer Science, University of Birmingham, UK)",,male,HL
+Frank,,,,
+Piessens,"(imec-DistriNet, KU Leuven, Belgium)",,,
+Christian Tiefenau,(University of Bonn),,male,W_NL
+Emanuel von,,,male,A
+Zezschwitz,"(University of Bonn, Fraunhofer FKIE)",,,
+Maximilian Häring,,,male,W_NL
+,(Fraunhofer FKIE),,,
+Katharina Krombholz,(CISPA Helmholtz Center for),,female,W_NL
+  Information Security),,,,
+Matthew Smith,"(University of Bonn, Fraunhofer FKIE)",,male,W_NL
+Yingqi Liu,(Purdue University),,female,A
+Wen-Chuan Lee,(Purdue),,male,A
+  University),,,,
+Guanhong Tao,(Purdue University),,male,A
+Shiqing Ma,(Purdue University),,female,A
+Yousra Aafer,(Purdue University),,female,A
+Xiangyu Zhang,(Purdue University),,female,A
+Yulong Cao,(University of Michigan),,male,A
+Chaowei Xiao,,,male,A
+,(University of Michigan),,,
+Benjamin Cyr,(University of Michigan),,male,W_NL
+Yimeng Zhou,,,female,A
+,(University of Michigan),,,
+Won Park,(University of Michigan),,male,A
+Sara Rampazzi,,,female,W_NL
+,(University of Michigan),,,
+Qi Alfred Chen,"(University of California, Irvine)",,male,A
+Kevin,,,,
+Fu,(University of Michigan),,,
+Z. Morley Mao,(University of Michigan),,male,A
+Florian Tramèr,(Stanford),,male,W_NL
+  University),,,,
+Pascal Dupré,(CISPA),,male,B_NL
+Gili Rusak,(Stanford),,female,W_NL
+Giancarlo,,,,
+Pellegrino,"(Stanford University, CISPA)",,,
+Dan Boneh,(Stanford University),,male,W_NL
+Eduard Marin,(University of Birmingham),,male,HL
+Nicola Bucciol,,,female,W_NL
+,(University of Padua),,,
+Mauro Conti,(University of Padua),,male,HL
+Haipei Sun,(Qatar Computing Research Institute),,female,A
+Xiaokui,,,,
+Xiao,(National University of Singapore),,,
+Issa Khalil,(Qatar Computing),,male,A
+Research Institute,"(QCRI)), HBKU)",,male,B_NL
+Yin Yang,(College of Science and),,female,A
+"  Engineering, Hamad Bin Khalifa University)",,,,
+Zhan Qin,(ZheJiang University),,male,A
+Hui,,,,
+,(Wendy) Wang (Stevens Institute of Technology),,,
+Ting Yu,(Qatar Computing),,female,A
+  Research Institute),,,,
+Susan Hohenberger,(Johns Hopkins University),,female,W_NL
+Satyanarayana,,,,
+Vusirikala,(University of Texas at Austin),,,
+Christoph Egger,,,male,W_NL
+,(Friedrich-Alexander-Universität Erlangen-Nürnberg),,,
+Pedro Moreno-Sanchez,(TU),,male,HL
+  Wien),,,,
+Matteo Maffei,(TU Wien),,male,HL
+Binghui Wang,(Duke University),,male,A
+Neil,,,,
+Zhenqiang Gong,(Duke University),,male,A
+Chaoshun Zuo,(Ohio State University),,male,A
+Haohuang Wen,(Ohio),,female,A
+  State University),,,,
+Zhiqiang Lin,(Ohio State University),,male,A
+Yinqian Zhang,(Ohio),,male,A
+  State University),,,,
+Dominik Harz,(Imperial College London),,male,W_NL
+Lewis Gudgeon,,,male,W_NL
+,(Imperial College London),,,
+Arthur Gervais,(Imperial College London),,male,W_NL
+William,,,,
+J. Knottenbelt,(Imperial College London),,male,W_NL
+Masoud Ghaffarinia,(University of Texas at Dallas),,male,A
+Kevin,,,,
+Hamlen,(University of Texas at Dallas),,,
+Bingyu Li,"(Institute of Information Engineering, CAS)",,male,A
+Jingqiang,,,,
+Lin,"(Institute of Information Engineering, CAS)",,,
+Fengjun Li,(The University),,male,A
+"  of Kansas, Lawrence, USA)",,,,
+Qiongxiao Wang,(Institute of Information),,female,A
+"  Engineering, CAS)",,,,
+Qi Li,"(Tsinghua University, China)",,male,A
+Jiwu Jing,(Institute),,female,A
+"  of Information Engineering, CAS)",,,,
+Congli Wang,(Institute of Information),,female,A
+"  Engineering, CAS)",,,,
+Qi Wang,(University of Illinois at Urbana-Champaign),,male,A
+Pubali,,,,
+Datta,(University of Illinois at Urbana-Champaign),,,
+Wei Yang,(The University),,male,A
+  of Texas at Dallas),,,,
+Si Liu,(University of Illinois at Urbana-Champaign),,male,A
+Carl,,,,
+Gunter,(University of Illinois at Urbana-Champaign),,,
+Adam Bates,(University),,male,W_NL
+  of Illinois at Urbana-Champaign),,,,
+Sergey Frolov,(University of Colorado Boulder),,male,W_NL
+Jack,,,,
+Wampler,(University of Colorado Boulder),,,
+Sze Chuen Tan,(UIUC),,male,A
+J. Alex,,,male,HL
+Halderman,(University of Michigan),,,
+Nikita Borisov,(UIUC),,male,A
+Eric Wustrow,,,male,W_NL
+,(University of Colorado Boulder),,,
+J. Alex Halderman,(University of Michigan),,male,W_NL
+Sazzadur Rahaman,"(Department of Computer Science, Virginia   Tech)",,male,A
+Ya Xiao,"(Department of Computer Science, Virginia Tech)",,female,A
+Sharmin   Afrose,"(Department of Computer Science, Virginia Tech)",,female,A
+Fahad Shaon,"(Department of Computer Science, The University of Texas at Dallas)",,male,A
+Ke Tian,"(Department of Computer Science, Virginia Tech)",,male,A
+Miles Frantz,"(Department of   Computer Science, Virginia Tech)",,male,B_NL
+Murat Kantarcioglu,"(Department of Computer   Science, The University of Texas at Dallas)",,male,A
+Danfeng,"(Daphne) Yao (Department of   Computer Science, Virginia Tech)",,,
+Shengqu Xi,(Nanjing University),,female,A
+Shao Yang,(Case Western Reserve University),,male,A
+Xusheng Xiao,(Case Western),,male,A
+  Reserve University),,,,
+Yuan Yao,(Nanjing University),,male,A
+Yayuan Xiong,(Nanjing),,male,A
+  University),,,,
+Fengyuan Xu,"(National Key Lab for Novel Software Technology,)",,male,A
+  Nanjing University),,,,
+Haoyu Wang,(Beijing University of Posts and),,male,A
+  Telecommunications),,,,
+Peng Gao,"(University of California, Berkeley)",,male,A
+Zhuotao,,,,
+Liu,(University of Illinois at Urbana-Champaign),,,
+Feng Xu,(Nanjing),,male,A
+  University),,,,
+Jian Lu,(Nanjing University),,male,A
+Yushi Cheng,(Zhejiang University),,male,A
+Xiaoyu Ji,(Zhejiang),,female,A
+  University),,,,
+Juchuan Zhang,(Zhejiang University),,male,A
+Wenyuan Xu,(Zhejiang),,male,A
+  University),,,,
+Yi-Chao Chen,(University of Texas at Austin),,female,A
+Dong Yuan,(Tsinghua University),,male,A
+Yuanli Miao,(Tsinghua University),,female,A
+Neil Zhenqiang Gong,(Duke University),,male,A
+Zheng,,,,
+Yang,(Tsinghua University),,,
+Qi Li,(Tsinghua University),,male,A
+Dawn Song,(UC),,female,A
+  Berkeley),,,,
+Qian Wang,(Wuhan University),,male,A
+Xiao Liang,(Tencent),,male,A
+Mengchen Cao,"(Orion Security Lab, Alibaba Group)",,male,A
+Xiantong,,,,
+Hou,"(Orion Security Lab, Alibaba Group)",,,
+Tao Wang,"(Orion Security Lab,)",,male,A
+  Alibaba Group),,,,
+Hunter Qu,"(Orion Security Lab, Alibaba Group)",,male,B_NL
+Yajin Zhou,,,female,A
+,(Zhejiang University),,,
+Xiaolong Bai,"(Orion Security Lab, Alibaba Group)",,male,A
+Fuwei,,,,
+Wang,"(Orion Security Lab, Alibaba Group)",,,
+Simon Couch,(Reed College),,male,B_NL
+Zeki Kazan,(Reed College),,male,A
+Kaiyan,,,,
+Shi,(Reed College),,,
+Andrew Bray,(Reed College),,male,W_NL
+Adam Groce,(Reed College),,male,W_NL
+Adrià Gascón,(The Alan Turing Institute / University of),,female,HL
+  Warwick),,,,
+Mariana Raykova,(Google),,female,HL
+Leonie Reichert,(Humboldt-Universität zu),,female,W_NL
+  Berlin),,,,
+Phillipp Schoppmann,(Humboldt-Universität zu Berlin),,male,W_NL
+Zhenyuan LI,(Zhejiang University),,male,A
+Qi Alfred Chen,,,male,A
+,"(University of California, Irvine)",,,
+Chunlin Xiong,(Zhejiang University),,male,A
+Yan,,,,
+Chen,(Northwestern University),,,
+Tiantian Zhu,(Zhejiang University of),,male,A
+  Technology),,,,
+Hai Yang,(MagicShield Inc),,male,A
+Muhammad Ishaq,(University of Edinburgh),,male,A
+Ana Milanova,(Rensselaer Polytechnic Institute),,female,HL
+Vassilis Zikas,(University of Edinburgh),,male,W_NL
+Hao Chen,(MIcrosoft Research),,male,A
+Wei Dai,(Microsoft),,male,A
+  Research),,,,
+Miran Kim,"(University of Texas, Health Science Center at Houston)",,male,A
+Yongsoo Song,(Microsoft Research),,female,A
+Ruiyu Zhu,(Indiana University Bloomington),,female,A
+Changchang,,,,
+Ding,(Indiana University Bloomington),,,
+Yan Huang,(Indiana University),,male,A
+  Bloomington),,,,
+Elette Boyle,(IDC Herzliya),,female,W_NL
+Geoffroy Couteau,(Karlsruhe),,male,W_NL
+  Institute of Technology),,,,
+Niv Gilboa,(Ben-Gurion University of the Negev),,male,A
+Yuval,,,,
+Ishai,(Technion),,,
+Lisa Kohl,(Karlsruhe Institute of Technology),,female,W_NL
+Peter Rindal,,,male,W_NL
+,(Visa Research),,,
+Peter Scholl,(Aarhus University),,male,W_NL
+Soumya Basu,"(Cornell University, IC3, VMWare Research)",,female,A
+Alin,,,,
+Tomescu,"(MIT, VMWare Research)",,,
+Ittai Abraham,(VMware Research),,male,A
+Dahlia,,,,
+Malkhi,(VMWare),,,
+Mike Reiter,"(UNC, VMWare Research)",,male,W_NL
+Emin Gün Sirer,"(Cornell,)",,male,A
+  IC3),,,,
+Michael Klooß,(Karlsruhe Institute of Technology),,male,W_NL
+Max,,,,
+Hoffmann,(Ruhr University Bochum),,,
+Andy Rupp,(Karlsruhe Institute of),,male,W_NL
+  Technology),,,,
+Zichen Gui,(University of),,male,A
+  Bristol),,,,
+Oliver Johnson,(University of Bristol),,male,B_NL
+Bogdan Warinschi,,,male,W_NL
+,(University of Bristol),,,
+Peter Rindal,(Visa Research),,male,W_NL
+Daniel Masny,(Visa Research),,male,W_NL
+Gleb Naumenko,(University of British Columbia),,male,W_NL
+Gregory Maxwell,(Independent),,male,W_NL
+Pieter Wuille,(Blockstream),,male,W_NL
+Alexandra,(Sasha) Fedorova (University of British Columbia),,,
+Ivan Beschastnikh,(University of British Columbia),,male,HL
+Vincent Cheval,(INRIA Nancy – Grand Est),,male,B_NL
+Steve Kremer,(INRIA Nancy – Grand Est),,male,W_NL
+Itsaka Rakotonirina,(INRIA Nancy – Grand Est),,female,A
+Claudio Canella,(Graz University),,male,HL
+  of Technology),,,,
+Daniel Genkin,(University of Michigan),,male,W_NL
+Lukas Giner,(Graz),,male,HL
+  University of Technology),,,,
+Daniel Gruss,(Graz University of Technology),,male,W_NL
+Moritz,,,,
+Lipp,(Graz University of Technology),,,
+Marina Minkin,(University of Michigan),,female,W_NL
+Daniel Moghimi,(Worcester Polytechnic Institute),,male,W_NL
+Frank Piessens,(KU Leuven),,male,W_NL
+Michael Schwarz,(Graz University of Technology),,male,W_NL
+Berk Sunar,(Worcester),,male,A
+  Polytechnic Institute),,,,
+Jo Van Bulck,(KU Leuven),,male,A
+Yuval Yarom,(University of),,male,A
+  Adelaide and Data61),,,,
+Megha Byali,"(Indian Institute of Science, Bangalore)",,female,A
+Carmit,,,,
+Hazay,"(Bar-Ilan University, Israel)",,,
+Arpita Patra,(Indian Institute of),,female,A
+"  Science, Bangalore)",,,,
+Swati Singla,"(Indian Institute of Science, Bangalore)",,female,A
+Kurt Thomas,(Google),,male,W_NL
+Theo,,,,
+Bertram,(Google),,,
+Elie Bursztein,(Google),,male,W_NL
+Stephanie Caro,(Google),,female,HL
+Hubert,,,,
+Chao,(Google),,,
+Rutledge Chin Feman,(Google),,male,A
+Peter Fleischer,(Google),,male,W_NL
+Albin,,,,
+Gustafsson,(Google),,,
+Jess Hemerly,(Google),,male,W_NL
+Chris Hibbert,(Google),,male,B_NL
+Luca,,,,
+Invernizzi,(Google),,,
+Lanah Kammourieh Donnelly,(Google),,female,W_NL
+Jason Ketover,,,male,W_NL
+,(Google),,,
+Jay Laefer,(Google),,male,A
+Paul Nicholas,(Google),,male,W_NL
+Yuan Niu,(Google),,male,A
+Harjinder,,,,
+Obhi,(Google),,,
+David Price,(Google),,male,W_NL
+Andrew Strait,(Google),,male,W_NL
+Al Verney,,,male,A
+,(Google),,,
+Dahlia Malkhi,(VMware Research),,female,A
+Kartik Nayak,(VMware),,male,A
+  Research),,,,
+Ling Ren,(VMware Research),,female,A
+Gilles Barthe,(MPI-SP and IMDEA Software Institute),,male,B_NL
+Sonia Belaïd,(CryptoExperts),,female,HL
+Thomas Espitau,(Sorbonne Université),,male,W_NL
+Pierre-Alain Fouque,(Univ Rennes),,male,B_NL
+Mélissa Ross,(ENS and Thalès),,female,W_NL
+Mehdi Tibouchi,(NTT Corporation),,male,A
+Kevin Bock,(University of Maryland),,male,W_NL
+George Hughey,,,male,W_NL
+,(University of Maryland),,,
+Xiao Qiang,(UC Berkeley),,male,A
+Dave Levin,(University of),,male,W_NL
+  Maryland),,,,
+Sean Heelan,(University of Oxford),,male,W_NL
+Daniel Kroening,,,male,W_NL
+,(University of Oxford),,,
+Tom Melham,(University of Oxford),,male,A
+Keegan Ryan,(NCC Group),,male,W_NL
+Keegan Ryan,(NCC Group),,male,W_NL
+Aurore Fass,(CISPA Helmholtz Center for Information Security),,female,W_NL
+Michael Backes,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Ben Stock,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Donghang Lu,(Purdue University),,male,A
+Thomas Yurek,(UIUC),,male,W_NL
+Samarth,,,,
+Kulshreshtha,(UIUC),,,
+Rahul Govind,(UIUC),,male,A
+Aniket Kate,(Purdue University),,male,A
+Andrew,,,,
+Miller,(UIUC),,,
+Xing Gao,(University of Memphis),,male,A
+Zhongshu Gu,(IBM Research),,male,A
+Zhengfa Li,(Independent Researcher),,male,A
+Hani Jamjoom,,,male,A
+,(IBM Research),,,
+Cong Wang,(Old Dominion University),,male,A
+Moni Naor,(Weizmann Institue),,female,A
+Benny Pinkas,(Bar Ilan University),,male,W_NL
+Eyal Ronen,"(Tel Aviv University, KU Leuven)",,male,W_NL
+Hafiz Asif,(Rutgers University),,male,A
+Periklis Papakonstantinou,,,male,A
+,(Rutgers University),,,
+Jaideep Vaidya,(Rutgers University),,male,A
+Zhuotao Liu,(UIUC & Google),,male,A
+Yangxi Xiang,(Beijing),,female,A
+  University of Posts and Telecommunications),,,,
+Jian Shi,(Case Western Reserve),,male,A
+  University),,,,
+Peng Gao,"(University of California, Berkeley)",,male,A
+Haoyu Wang,,,male,A
+,(Beijing University of Posts and Telecommunications),,,
+Xusheng Xiao,(Case),,male,A
+  Western Reserve University),,,,
+Bihan Wen,(Nanyang Technological University),,female,A
+Yih-Chun,,,,
+Hu,(UIUC),,,
+Robert,,,,
+Buhren,(Technische Universität Berlin),,,
+Christian Werling,(Hasso Plattner),,male,W_NL
+"  Institute, Potsdam)",,,,
+Jean-Pierre Seifert,(Technische Universität Berlin),,male,W_NL
+Mingi Cho,(Yonsei University),,male,A
+Seoyoung Kim,(Yonsei University),,female,A
+Taekyoung Kwon,(Yonsei University),,female,A
+H.L.J. Bijmans,(Delft University of Technology),,male,W_NL
+T.M. Booij,(Delft University of Technology),,male,A
+C. Doerr,(Delft University of Technology),,male,W_NL
+Yuanshun Yao,(University of Chicago),,male,A
+Huiying Li,,,female,A
+,(University of Chicago),,,
+Haitao Zheng,(University of Chicago),,male,A
+Ben Y. Zhao,,,male,A
+,(University of Chicago),,,
+Jingxuan He,(ETH Zurich),,male,A
+Mislav Balunovic,(ETH Zurich),,male,W_NL
+Nodar,,,,
+Ambroladze,(ETH Zurich),,,
+Petar Tsankov,(ETH Zurich),,male,A
+Martin Vechev,(ETH),,male,W_NL
+  Zurich),,,,
+Matteo Campanelli,"(IMDEA Software Institute, Madrid,)",,male,W_NL
+  Spain),,,,
+Dario Fiore,"(IMDEA Software Institute, Madrid, Spain)",,male,HL
+Anaïs Querol,,,female,HL
+,"(IMDEA Software Institute, Madrid, and Universidad Politecnica de Madrid,)",,,
+  Spain),,,,
+Josh Aas,(Let’s Encrypt),,male,W_NL
+Richard Barnes,(Cisco),,male,W_NL
+Benton,,,,
+Case,(Stanford University),,,
+Zakir Durumeric,(Stanford University),,male,A
+Peter,,,,
+Eckersley,(Electronic Frontier Foundation),,,
+Alan Flores-López,(Stanford),,male,HL
+  University),,,,
+J. Alex Halderman,(University of Michigan),,male,W_NL
+Jacob Hoffman-Andrews,,,male,W_NL
+,(Electronic Frontier Foundation),,,
+James Kasten,(University of Michigan),,male,W_NL
+Eric,,,,
+Rescorla,(Mozilla),,,
+Seth Schoen,(Electronic Frontier Foundation),,male,W_NL
+Brad Warren,,,male,W_NL
+,(Electronic Frontier Foundation),,,
+Carmit Hazay,(Bar-Ilan University),,female,W_NL
+Yuval Ishai,(Technion),,male,A
+Antonio Marcedone,(Cornell-Tech),,male,HL
+Muthu Venkitasubramaniam,(University of),,male,A
+  Rochester),,,,
+Mert D. Pesé,"(University of Michigan, Ann Arbor)",,male,W_NL
+Troy,,,,
+Stacer,"(University of Michigan, Ann Arbor)",,,
+C. Andrés Campos,(University of),,male,HL
+"  Michigan, Ann Arbor)",,,,
+Eric Newberry,"(University of Michigan, Ann Arbor)",,male,B_NL
+Dongyao,,,,
+Chen,"(University of Michigan, Ann Arbor)",,,
+Kang G. Shin,(University of),,male,A
+"  Michigan, Ann Arbor)",,,,
+Min Du,(University of California Berkeley),,male,A
+Zhi Chen,(University of California  Berkeley),,male,A
+Chang Liu,(Citadel Securities),,male,A
+Rajvardhan Oak,(University of California Berkeley),,male,A
+Dawn Song,(University of California Berkeley),,female,A
+Huayi DUAN,(City University of Hong Kong),,male,A
+Cong Wang,(City),,male,A
+  University of Hong Kong),,,,
+Xingliang Yuan,(Monash University),,male,A
+Yajin Zhou,,,female,A
+,(Zhejiang University),,,
+Qian Wang,(Wuhan University),,male,A
+Kui Ren,(Zhejiang),,male,A
+  University),,,,
+Fucheng Liu,"(Institute of Information Engineering, Chinese Academy of Science)",,male,A
+Yu Wen,"(Institute of Information Engineering, Chinese Academy of Sciences)",,female,A
+Dongxue Zhang,"(Institute of Information Engineering, Chinese Academy of Science)",,female,A
+Xihe Jiang,"(Institute of Information Engineering, Chinese Academy of Science)",,female,A
+Xinyu Xing,(The Pennsylvania State University),,female,A
+Dan Meng,"(Institute of Information Engineering, Chinese Academy of Science)",,male,A
+José Bacelar Almeida,(Universidade do Minho &),,male,HL
+  INESC-TEC),,,,
+Cécile Baritel-Ruet,(Université Côte d’Azur & Inria),,female,B_NL
+  Sophia-Antipolis),,,,
+Manuel Barbosa,(Universidade do Porto & INESC-TEC),,male,HL
+Gilles,,,,
+Barthe,(MPI-SP & IMDEA Software Institute),,,
+François Dupressoir,,,male,B_NL
+,(University of Surrey & University of Bristol),,,
+Benjamin Grégoire,(Inria),,male,B_NL
+  Sophia-Antipolis),,,,
+Vincent Laporte,(Inria),,male,W_NL
+Tiago Oliveira,(Universidade do),,male,HL
+  Porto & INESC-TEC & FCUP),,,,
+Alley Stoughton,(Boston University),,female,W_NL
+Pierre-Yves,,,,
+Strub,(École Polytechnique),,,
+Phillipp Schoppmann,(Humboldt-Universität zu Berlin),,male,W_NL
+Adrià,,,,
+Gascón,"(The Alan Turing Institute, University of Warwick)",,,
+Mariana Raykova,,,female,HL
+,(Google),,,
+Benny Pinkas,(Bar Ilan University),,male,W_NL
+Abbas Naderi-Afooshteh,(University of Virginia),,male,A
+Yonghwi,,,,
+Kwon,(University of Virginia),,,
+Jack Davidson,(University of Virginia),,male,W_NL
+Anh,,,,
+Nguyen-Tuong,(University of Virginia),,,
+Ali Razmjoo-Qalaei,(ZDResearch),,male,A
+Mohammad-Reza,,,,
+Zamiri-Gourabi,(ZDResearch),,,
+Faris Bugra Kokulu,(Arizona State University),,male,A
+Ananta,,,,
+Soneji,(Arizona State University),,,
+Tiffany Bao,(Arizona State University),,female,A
+Yan,,,,
+Shoshitaishvili,(Arizona State University),,,
+Ziming Zhao,(Rochester Institute),,male,A
+  of Technology),,,,
+Adam Doupé,(Arizona State University),,male,W_NL
+Gail-Joon Ahn,(Arizona),,male,A
+  State University and Samsung Research),,,,
+Muhammed F. Esgin,(Monash),,male,A
+"  University and Data61, CSIRO)",,,,
+Raymond K. Zhao,(Monash University),,male,A
+Ron,,,,
+Steinfeld,(Monash University),,,
+Joseph K. Liu,(Monash University),,male,A
+Dongxi Liu,,,female,A
+,"(Data61, CSIRO)",,,
+Peng Chen,(ByteDance AI lab),,male,A
+Jianzhong Liu,(ShanghaiTech),,male,A
+  University),,,,
+Hao Chen,"(University of California, Davis)",,male,A
+Michael Backes,(CISPA Helmholtz Center for Information),,male,W_NL
+  Security),,,,
+Lucjan Hanzlik,"(CISPA Helmholtz Center for Information Security,)",,male,W_NL
+  Stanford University),,,,
+Jonas Schneider-Bensch,(CISPA Helmholtz Center for),,male,W_NL
+  Information Security),,,,
+Jinyuan Jia,(Duke University),,male,A
+Ahmed,,,,
+Salem,(CISPA Helmholtz Center for Information Security),,,
+Michael Backes,,,male,W_NL
+,(CISPA Helmholtz Center for Information Security),,,
+Yang Zhang,(CISPA),,male,A
+  Helmholtz Center for Information Security),,,,
+Neil Zhenqiang Gong,(Duke),,male,A
+  University),,,,
+Sarvar Patel,(Google),,male,A
+Giuseppe Persiano,(Universita’ di),,male,HL
+  Salerno and Google),,,,
+Kevin Yeo,(Google),,male,A
+Moti Yung,(Google),,male,A
+Mainack Mondal,(Cornell University / University of),,male,A
+  Chicago),,,,
+Günce Su Yılmaz,(University of Chicago),,female,A
+Noah Hirsch,(University of),,male,W_NL
+  Chicago),,,,
+Mohammad Taha Khan,(University of Illinois at Chicago),,male,A
+Michael,,,,
+Tang,(University of Chicago),,,
+Christopher Tran,(University of Illinois at),,male,A
+  Chicago),,,,
+Chris Kanich,(University of Illinois at Chicago),,male,W_NL
+Blase Ur,,,male,W_NL
+,(University of Chicago),,,
+Elena Zheleva,(University of Illinois at Chicago),,female,A
+Matthew Luckie,(University of),,male,W_NL
+  Waikato),,,,
+Robert Beverly,(Naval Postgraduate School),,male,W_NL
+Ryan Koga,(CAIDA / UC),,male,A
+  San Diego),,,,
+Ken Keys,(CAIDA / UC San Diego),,male,B_NL
+Joshua Kroll,(UC Berkeley School),,male,W_NL
+  of Information),,,,
+kc claffy,(CAIDA / UC San Diego),,male,W_NL
+Ziqi Yang,(National University of Singapore),,female,A
+Jiyi Zhang,,,female,A
+,(National University of Singapore),,,
+Ee-Chien Chang,(National University of),,female,A
+  Singapore),,,,
+Zhenkai Liang,(National University of Singapore),,male,A
+Ben Weinshel,(University of Chicago),,male,W_NL
+Miranda Wei,,,female,A
+,(University of Chicago),,,
+Mainack Mondal,(Cornell University / University of),,male,A
+  Chicago),,,,
+Euirim Choi,(University of Chicago),,male,A
+Shawn Shan,(University of),,male,A
+  Chicago),,,,
+Claire Dolin,(University of Chicago),,female,W_NL
+Michelle L. Mazurek,,,female,W_NL
+,(University of Maryland),,,
+Blase Ur,(University of Chicago),,male,W_NL
+Russell W. F. Lai,(Friedrich Alexander University),,male,W_NL
+  Erlangen-Nuremberg),,,,
+Viktoria Ronge,(Friedrich Alexander University Erlangen-Nuremberg),,female,HL
+Tim Ruffing,(Blockstream),,male,W_NL
+Dominique Schröder,(Friedrich Alexander University),,female,W_NL
+  Erlangen-Nuremberg),,,,
+Sri Aravinda Krishnan Thyagarajan,(Friedrich Alexander),,male,A
+  University Erlangen-Nuremberg),,,,
+Jiafan Wang,(Chinese University of Hong Kong),,male,A
+Hao Chen,(Microsoft Research),,male,A
+Ilaria Chillotti,(KU),,female,HL
+  Leuven),,,,
+Ling Ren,(VMware Research),,female,A
+Guoxing Chen,(The Ohio State University),,male,A
+Yinqian Zhang,,,male,A
+,(The Ohio State University),,,
+Ten-Hwang Lai,(The Ohio State University),,female,A
+Daniel Gruss,(Graz University of Technology),,male,W_NL
+Erik Kraft,,,male,W_NL
+,(Graz University of Technology),,,
+Trishita Tiwari,(Boston University),,female,A
+Michael,,,,
+Schwarz,(Graz University of Technology),,,
+Ari Trachtenberg,(Boston University),,male,A
+Jason Hennessey,(NetApp),,male,W_NL
+Alex Ionescu,(CrowdStrike),,male,A
+Anders Fogh,(Intel),,male,W_NL
+  Corporation),,,,
+Simon Birnbach,(University of Oxford),,male,W_NL
+Simon Eberz,,,male,A
+,(University of Oxford),,,
+Ivan Martinovic,(University of Oxford),,male,HL
+Sadegh M. Milajerdi,(UIC),,male,W_NL
+Birhanu Eshete,(University of),,male,A
+  Michigan-Dearborn),,,,
+Rigel Gjomemo,(UIC),,male,HL
+V.N. Venkatakrishnan,(UIC),,male,A
+Sjouke Mauw,"(SnT/CSC, University of Luxembourg)",,male,A
+Zach,,,,
+Smith,"(CSC, University of Luxembourg)",,,
+Jorge Toro-Pozo,"(CSC, University of)",,male,HL
+  Luxembourg),,,,
+Rolando Trujillo-Rasua,"(School of Information Technology, Deakin)",,male,HL
+  University),,,,
+Shang Gao,(The Hong Kong Polytechnic University),,male,A
+Zecheng,,,,
+Li,(The Hong Kong Polytechnic University),,,
+Zhe Peng,(The Hong Kong),,male,A
+  Polytechnic University),,,,
+Bin Xiao,(The Hong Kong Polytechnic University),,male,A
+Shang,,,,
+Gao,(Microsoft Research),,,
+Jens Müller,(Ruhr University Bochum),,male,W_NL
+Fabian Ising,,,male,A
+,(Münster University of Applied Sciences),,,
+Vladislav Mladenov,(Ruhr University),,male,W_NL
+  Bochum),,,,
+Christian Mainka,(Ruhr University Bochum),,male,W_NL
+Sebastian Schinzel,,,male,W_NL
+,(Münster University of Applied Sciences),,,
+Jörg Schwenk,(Ruhr University),,male,W_NL
+  Bochum),,,,
+Ariel Nof,(Bar-Ilan University),,male,HL
+Yuval Ishai,(Technion and),,male,A
+  UCLA),,,,
+Elette Boyle,(IDC Herzliya),,female,W_NL
+Niv Gilboa,(BGU),,male,A
+Yue Cao,"(University of California, Riverside)",,male,A
+Zhongjie,,,,
+Wang,"(University of California, Riverside)",,,
+Zhiyun Qian,(University of),,female,A
+"  California, Riverside)",,,,
+Chengyu Song,"(University of California, Riverside)",,female,A
+Srikanth,,,,
+Krishnamurthy,"(University of California, Riverside)",,,
+Paul Yu,(Army Research),,male,A
+  Laboratory),,,,
+Vivek Bagaria,(Stanford University),,male,A
+Sreeram Kannan,(University),,male,A
+  of Washington Seattle),,,,
+David Tse,(Stanford University),,male,A
+Giulia Fanti,,,female,HL
+,(Carnegie Mellon University),,,
+Pramod Viswanath,(University of Illinois),,male,A
+  Urbana-Champaign),,,,
+Alex Biryukov,(University of Luxembourg),,male,A
+Daniel Feher,,,male,W_NL
+,(University of Luxembourg),,,
+Giuseppe Vitto,(University of Luxembourg),,male,W_NL
+Liwei Song,(Princeton University),,female,A
+Reza Shokri,(National),,male,A
+University of Singapore,(NUS)),,,
+Prateek Mittal,(Princeton University),,male,A
+Jianting Ning,(Fujian Normal),,male,A
+  University & National University of Singapore),,,,
+Geong Sen Poh,(Trustwave),,male,A
+  & NUS-Singtel Cyber Security Lab),,,,
+Jia-Ch’ng Loh,(NUS-Singtel Cyber),,female,A
+  Security Lab),,,,
+Jason Chia,(NUS-Singtel Cyber Security Lab),,male,A
+Ee-Chien Chang,,,female,A
+,(National University of Singapore),,,
+David Clayton,(University of Florida),,male,W_NL
+Christopher Patton,,,male,W_NL
+,(University of Florida),,,
+Thomas Shrimpton,(University of Florida),,male,W_NL
+Kenneth Co,(Imperial College London),,male,A
+Luis Muñoz-González,(Imperial College London),,male,HL
+Emil C. Lupu,(Imperial College London),,male,W_NL
+Sixte de Maupeou,(Imperial College London),,male,A
+Kenneth Co,(Imperial College London),,male,A
+Shen Liu,"(The Pennsylvania State University, University)",,male,A
+  Park),,,,
+Dongrui Zeng,"(The Pennsylvania State University, University Park)",,male,A
+Yongzhe,,,,
+Huang,"(The Pennsylvania State University, University Park)",,,
+Frank Capobianco,,,male,W_NL
+,"(The Pennsylvania State University, University Park)",,,
+Stephen McCamant,,,male,W_NL
+,"(University of Minnesota, Twin Cities)",,,
+Trent Jaeger,(The Pennsylvania State),,male,W_NL
+"  University, University Park)",,,,
+Gang Tan,"(The Pennsylvania State University,)",,male,A
+  University Park),,,,
+Christian Skalka,(University of),,male,W_NL
+  Vermont),,,,
+John Ring,(University of Vermont),,male,W_NL
+David Darais,(University of),,male,W_NL
+  Vermont),,,,
+Minseok Kwon,(Rochester Institute of Technology),,male,A
+Sahil Gupta,,,male,A
+,(Rochester Institute of Technology),,,
+Kyle Diller,(Rochester Institute of),,male,W_NL
+  Technology),,,,
+Steffen Smolka,(Cornell University),,male,W_NL
+Nate Foster,(Cornell University),,male,B_NL
+Teodora Baluta,(National University of Singapore),,female,A
+Shiqi Shen,(National University of Singapore),,female,A
+Shweta Shinde,"(University of California, Berkeley)",,female,A
+Kuldeep S. Meel,(National University of Singapore),,male,A
+Prateek Saxena,(National University of Singapore),,male,A
+Nitin   Agrawal,(University of Oxford),,male,A
+Ali Shahin Shamsabadi,(Queen Mary University London),,male,A
+Matthew Kusner,"(University of Oxford, The   Alan Turing Institute)",,male,W_NL
+Adria Gascon,(The Alan Turing   Institute),,female,HL
+Roopa Vishwanathan,(New Mexico State University),,female,A
+Gaurav,,,,
+Panwar,(New Mexico State University),,,
+Satyajayant Misra,(New Mexico State),,male,A
+  University),,,,
+Austin Bos,(New Mexico State University),,male,W_NL
+Shijun Zhao,(Institute of Software Chinese Academy of),,male,A
+  Sciences),,,,
+Qianying Zhang,(Capital Normal University Information Engineering),,female,A
+  Colleg),,,,
+Qin Yu,(Institute of Software Chinese Academy of Sciences),,female,A
+Wei Feng,,,male,A
+,(Institute of Software Chinese Academy of Sciences),,,
+Dengguo Feng,(Institute),,male,A
+  of Software Chinese Academy of Sciences),,,,
+Jeffrey Champion,(Northeastern University),,male,W_NL
+Abhi Shelat,,,male,A
+,(Northeastern University),,,
+Jonathan Ullman,(Northeastern University),,male,W_NL
+Sazzadur Rahaman,(Virginia),,male,A
+  Tech),,,,
+Gang Wang,(University of Illinois at Urbana-Champaign),,male,A
+Daphne Yao,,,female,A
+,(Virginia Tech),,,
+Yue Zhao,"(SKLOIS, Institute of Information Engineering,)",,male,A
+"  Chinese Academy of Sciences, China",,,,
+School of Cyber Securitya),,,,
+University of,,,,
+  Chinese Academy of Sciencesa),,,,
+China),,,,
+Hong Zhu,"(SKLOIS, Institute of)",,female,A
+"  Information Engineering, Chinese Academy of Sciences, China",,,,
+School of Cyber,,,,
+  Securitya),,,,
+University of Chinese Academy of Sciencesa),,,,
+China),,,,
+Ruigang Liang,,,male,A
+,"(SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences,)",,,
+"  Beijing, China)",,,,
+Qintao Shen,"(SKLOIS, Institute of Information Engineering,)",,male,A
+"  Chinese Academy of Sciences, China",,,,
+School of Cyber Securitya),,,,
+University of,,,,
+  Chinese Academy of Sciencesa),,,,
+China),,,,
+Shengzhi Zhang,(Department of Computer),,male,A
+"  Science, Metropolitan College, Boston University)",,,,
+Kai Chen,"(SKLOIS, Institute)",,male,A
+"  of Information Engineering,Chinese Academy of Sciences, China",,,,
+School of,,,,
+  Cyber Securitya),,,,
+University of Chinese Academy of Sciencesa),,,,
+China),,,,
+Melissa Chase,(Microsoft Research),,female,W_NL
+Apoorvaa Deshpande,,,male,A
+,(Brown University),,,
+Esha Ghosh,(Microsoft Research),,female,A
+Harjasleen Malvai,,,male,A
+,(Cornell University),,,
+Dennis Jackson,(University of Oxford),,male,B_NL
+Katriel Cohn-Gordon,(independent),,female,W_NL
+Cas Cremers,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Ralf   Sasse,(ETH Zürich),,male,W_NL
+Henry Birge-Lee,(Princeton University),,male,B_NL
+Liang Wang,,,male,A
+,(Princeton University),,,
+Jennifer Rexford,(Princeton University),,female,W_NL
+Prateek,,,,
+Mittal,(Princeton University),,,
+Yu-Fu Fu,(Academia Sinica),,female,A
+Jiaxiang Liu,(Academia Sinica),,male,A
+  & Shenzhen University),,,,
+Xiaomu Shi,(Academia Sinica & Shenzhen),,female,A
+  University),,,,
+Ming-Hsien Tsai,(Academia Sinica),,male,A
+Bow-Yaw Wang,(Academia),,male,A
+  Sinica),,,,
+Bo-Yin Yang,(Academia Sinica),,female,A
+Yueqi Chen,(Pennsylvania State University),,female,A
+Xinyu Xing,,,female,A
+,(Pennsylvania State University),,,
+Atri Bhattacharyya,(EPFL),,male,A
+Alexandra Sandulescu,(IBM),,female,HL
+  Zurich),,,,
+Matthias Neugschwandtner,(IBM Zurich),,male,W_NL
+Alessandro Sorniotti,(IBM),,male,HL
+  Zurich),,,,
+Babak Falsafi,(EPFL),,male,A
+Mathias Payer,(EPFL),,male,W_NL
+Anil Kurmus,(IBM Zurich),,male,A
+Mary Maller,(University College London),,female,W_NL
+Sean Bowe,(Zcash),,male,W_NL
+Markulf Kohlweiss,"(University of Edinburgh, IOHK)",,male,W_NL
+Sarah Meiklejohn,,,female,W_NL
+,(University College London),,,
+Ryan Wails,(U.S. Naval Research Laboratory),,male,W_NL
+Aaron Johnson,(U.S. Naval Research Laboratory),,male,B_NL
+Daniel Starin,(Perspecta Labs),,male,W_NL
+Arkady Yerukhimovich,(George Washington University),,male,W_NL
+S. Dov Gordon,(George Mason University),,male,B_NL
+Russell W.,,,male,W_NL
+F. Lai,(Friedrich-Alexander University Erlangen-Nuremberg),,male,A
+Giulio Malavolta,,,male,HL
+,( Carnegie Mellon University),,,
+Viktoria Ronge,(Friedrich-Alexander University),,female,HL
+  Erlangen-Nuremberg),,,,
+Mizanur Rahman,(Amazon),,male,A
+Nestor,,,,
+Hernandez,(FIU),,,
+Ruben Recabarren,(FIU),,male,HL
+Syed Ishtiaque Ahmed,(University of),,male,A
+  Toronto),,,,
+Bogdan Carbunar,(FIU),,male,W_NL
+Chen Yan,(Zhejiang University),,male,A
+Yan Long,(Zhejiang),,male,A
+  University),,,,
+Xiaoyu Ji,(Zhejiang University),,female,A
+Wenyuan Xu,(Zhejiang),,male,A
+  University),,,,
+Carlos Cotrini,(ETH Zurich),,male,HL
+Luca Corinzia,(ETH Zurich),,male,HL
+Thilo,,,,
+Weghorn,(ETH Zurich),,,
+David Basin,(ETH Zurich),,male,W_NL
+Andreas Hülsing,(TU Eindhoven),,male,W_NL
+Peter,,,,
+Schwabe,(RU Nijmegen),,,
+Joost Rijneveld,(RU Nijmegen),,male,W_NL
+Stefan Kölbl,,,male,W_NL
+,(Cybercrypt),,,
+Daniel J Bernstein,(University of Illinois at Chicago and Ruhr),,male,W_NL
+  University Bochum),,,,
+Ruben Niederhagen,(SIT Fraunhofer),,male,HL
+Ting Chen,(University of Electronic Science and Technology),,female,A
+  of China),,,,
+Yufei Zhang,(University of Electronic Science and Technology of),,female,A
+  China),,,,
+Zihao Li,(University of Electronic Science and Technology of China),,male,A
+Xiapu,,,,
+Luo,(The Hong Kong Polytechnic University),,,
+Ting Wang,(Lehigh University),,female,A
+Rong,,,,
+Cao,(University of Electronic Science and Technology of China),,,
+Xiuzhuo Xiao,,,female,A
+,(University of Electronic Science and Technology of China),,,
+Xiaosong Zhang,,,male,A
+,(University of Electronic Science and Technology of China),,,
+Chengcheng Xiang,(University of California San Diego),,female,A
+Yudong,,,,
+Wu,(University of California San Diego),,,
+Bingyu Shen,(University of),,male,A
+  California San Diego),,,,
+Mingyao Shen,(University of California San Diego),,female,A
+Tianyin,,,,
+Xu,(University of Illinois Urbana-Champaign),,,
+Yuanyuan Zhou,(University of),,male,A
+  California San Diego),,,,
+Cindy Moore,(University of California San Diego),,female,W_NL
+Xinxin,,,,
+Jin,"(Whova, Inc.)",,,
+Tianwei Sheng,"(Whova, Inc.)",,male,A
+Huibo Wang,(University of Texas),,male,A
+  at Dallas),,,,
+Pei Wang,(Baidu X-Lab),,male,A
+Yu Ding,(Baidu X-Lab),,female,A
+Mingshen Sun,,,male,A
+,(Baidu X-Lab),,,
+Yiming Jing,(Baidu X-Lab),,male,A
+Ran Duan,(Baidu X-Lab),,male,A
+Long Li,,,male,A
+,(Baidu X-Lab),,,
+Yulong Zhang,(Baidu X-Lab),,male,A
+Tao Wei,(Baidu X-Lab),,male,A
+Zhiqiang,,,,
+Lin,(Ohio State University),,,
+Alin Tomescu,(MIT),,male,HL
+Vivek Bhupatiraju,(Lexington High),,male,A
+  School),,,,
+Dimitrios Papadopoulos,(Hong Kong University of Science and),,male,W_NL
+  Technology),,,,
+Charalampos Papamanthou,(University of Maryland),,male,A
+Nikos,,,,
+Triandopoulos,(Stevens Institute of Technology),,,
+Srinivas Devadas,(MIT),,male,A
+Yazhou Tu,(University of Louisiana at Lafayette),,male,A
+Sara,,,,
+Rampazzi,(University of Michigan),,,
+Bin Hao,(University of Louisiana at),,male,A
+  Lafayette),,,,
+Angel Rodriguez,(University of Michigan),,male,HL
+Kevin Fu,(University of),,male,A
+  Michigan),,,,
+Xiali Hei,(University of Louisiana at Lafayette),,female,A
+Payap Sirinam,(Navaminda),,male,A
+  Kasatriyadhiraj Royal Air Force Academy),,,,
+Nate Matthews,(Rochester Institute),,male,B_NL
+  of Technology),,,,
+Mohammad Saidur Rahman,(Rochester Institute of Technology),,male,A
+Matthew,,,,
+Wright,(Rochester Institute of Technology),,,
+Phi Hung Le,(George Mason University),,male,A
+Samuel Ranellucci,"(University of Maryland, George Mason University)",,male,W_NL
+S. Dov Gordon,(George Mason University),,male,B_NL
+Jun Furukawa,(NEC Israel Research Center),,female,A
+Yehuda Lindell,,,male,W_NL
+,(Bar-Ilan University and Unbound Tech),,,
+Johannes Blömer,(Paderborn University),,male,W_NL
+Jan Bobolz,,,male,W_NL
+,(Paderborn University),,,
+Denis Diemert,(Paderborn University),,male,W_NL
+Fabian Eidens,,,male,HL
+,(Paderborn University),,,
+Stanislaw Jarecki,"(University of California, Irvine)",,male,W_NL
+Hugo Krawczyk,(Algorand Foundation),,male,HL
+Jason Resch,(Independent),,male,W_NL
+Sven Hammann,(ETH Zurich),,male,W_NL
+Sasa Radomirovic,(University of),,male,W_NL
+  Dundee),,,,
+Ralf Sasse,(ETH Zurich),,male,W_NL
+David Basin,(ETH Zurich),,male,W_NL
+Jingjie Li,(University of Wisconsin-Madison),,female,A
+Younghyun,,,,
+Kim,(University of Wisconsin-Madison),,,
+Kassem Fawaz,(University of),,male,A
+  Wisconsin-Madison),,,,
+Thomas Haines,(Norwegian University of Science and Technology),,male,W_NL
+Rajev Gore,(The Australian National University),,male,A
+Mukesh Tiwari,(The Australian National University),,male,A
+Armaiti Ardeshiricham,(UCSD),,female,A
+Yoshiki Takashima,(UCSD),,female,A
+Sicun,,,,
+Gao,(UCSD),,,
+Ryan Kastner,(UCSD),,male,W_NL
+Pengfei Qiu,(Research Institute of Information Technology),,male,A
+"  & BNRist, Tsinghua University, Beijing, China)",,,,
+Yongqiang Lyu,(Research),,male,A
+"  Institute of Information Technology & BNRist, Tsinghua University,",,,,
+"  Beijing, China)",,,,
+Dongsheng Wang,(Research Institute of Information Technology),,male,A
+"  & BNRist, Tsinghua University, Beijing, China)",,,,
+Gang Qu,(Department of),,male,A
+"  Electrical and Computer Engineering, University of Maryland, College Park,",,,,
+"  Maryland, USA)",,,,
+Hooman Mohajeri Moghaddam,,,male,A
+,(Princeton University),,,
+Gunes Acar,(Princeton University),,male,A
+Arunesh Mathur,,,male,A
+,(Princeton University),,,
+Danny Y. Huang,(Princeton University),,male,A
+Ben Burgess,,,male,W_NL
+,(Princeton University),,,
+Nick Feamster,(Princeton University),,male,B_NL
+Edward Felten,,,male,W_NL
+,(Princeton University),,,
+Prateek Mittal,(Princeton University),,male,A
+Arvind,,,,
+Narayanan,(Princeton University),,,
+Kangjie Lu,(University of Minnesota),,male,A
+Hong Hu,(GeorgiaTech),,male,A
+Georg Fuchsbauer,(Inria and Ecole normale superieure),,male,W_NL
+Richard Roberts,(University of Maryland),,male,W_NL
+Yaelle,,,,
+Goldschlag,(University of Maryland),,,
+Rachel Walter,(University of Maryland),,female,W_NL
+Taejoong,,,,
+Chung,(Rochester Institute of Technology),,,
+Alan Mislove,(Northeastern),,male,W_NL
+  University),,,,
+Dave Levin,(University of Maryland),,male,W_NL
+Angelique Faye Loe,"(Royal Holloway, University of London)",,female,B_NL
+Elizabeth Quaglia,"(Royal Holloway, University of London)",,female,W_NL
+Hoai Viet Nguyen,(Cologne University of Applied Sciences),,male,A
+Luigi Lo Iacono,(Cologne University of Applied Sciences),,male,A
+Hannes Federrath,,,male,W_NL
+,(University of Hamburg),,,
+Samuel Steffen,(ETH Zürich),,male,W_NL
+Benjamin,,,,
+Bichsel,(ETH Zürich),,,
+Mario Gersbach,(ETH Zürich),,male,HL
+Noa Melchior,(ETH Zürich),,female,W_NL
+Petar Tsankov,(ETH Zürich),,male,A
+Martin Vechev,(ETH Zürich),,male,W_NL
+Michael Schwarz,(Graz University of Technology),,male,W_NL
+Moritz,,,,
+Lipp,(Graz University of Technology),,,
+Ahmad Moghimi,(Worcester Polytechnic),,male,A
+  Institute),,,,
+Jo Van Bulck,"(imec-DistriNet, KU Leuven)",,male,A
+Julian Stecklina,,,male,HL
+,(Cyberus Technology),,,
+Thomas Prescher,(Cyberus Technology),,male,W_NL
+Daniel Gruss,,,male,W_NL
+,(Graz University of Technology),,,
+XiaoFeng Wang,(Indiana University),,male,A
+Jonathan Katz,(George Mason University),,male,W_NL
+Manuel Egele,(Boston University),,male,HL
+Guofei Gu,(Texas A&M University),,male,A
+Michael Hicks,(University of Maryland),,male,W_NL
+Zhiqiang Lin,(Ohio State University),,male,A
+Mike Rosulek,(Oregon State University),,male,W_NL
+Adam Smith,(Boston University),,male,W_NL
+Ninghui Li,(Purdue University),,male,A
+Andrew Miller,(UIUC),,male,W_NL
+Gail-Joon Ahn,(Arizona State University and SAMSUNG Research),,male,A
+Sumayah Alrwais,(King Saud University),,female,A
+Owen Arden,(UC Santa Cruz),,male,W_NL
+Adam Aviv,(United States Naval Academy),,male,W_NL
+Erman Ayday,(Case Western Reserve University/Bilkent University),,male,W_NL
+Michael Backes,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Gilles Barthe,(IMDEA Software Institute),,male,B_NL
+Raef Bassily,(Ohio State University),,male,A
+Lujo Bauer,(Carnegie Mellon University),,male,W_NL
+Mihir Bellare,(UC San Diego),,male,A
+Karthikeyan Bhargavan,(INRIA),,male,A
+Leyla Bilge,(Symantec),,female,HL
+Vincent Bindschaedler,(University of Florida),,male,W_NL
+Jeremiah Blocki,(Purdue University),,male,W_NL
+Rakesh Bobba,(Oregon State University),,male,A
+Sven Bugiel,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Christian Cachin,(IBM Research/University of Bern),,male,A
+Jean Camp,(Indiana University),,male,W_NL
+Yinzhi Cao,(Johns Hopkins University),,female,A
+Alvaro Cardenas,(UC Santa Cruz),,male,HL
+David Cash,(University of Chicago),,male,W_NL
+Hao Chen,(UC Davis),,male,A
+Shuo Chen,(Microsoft Research),,female,A
+Yan Chen,(Northwestern University),,male,A
+Kai Chen,(IIE CAS),,male,A
+Haibo Chen,(Shanghai Jiao Tong University),,male,A
+Hao Chen,(Microsoft Research),,male,A
+Yingying Chen,(Rutgers University),,female,A
+Omar Chowdhury,(The University of Iowa),,male,A
+Nicolas Christin,(Carnegie Mellon University),,male,B_NL
+Weidong Cui,(Microsoft Research),,male,A
+Lucas Davi,(University of Duisburg-Essen),,male,W_NL
+Lorenzo De Carli,(Worcester Polytechnic Institute),,male,HL
+Emiliano De Cristofaro,(University College London),,male,HL
+Soteris Demetriou,(Imperial College London),,male,A
+Wenrui Diao,(Jinan University),,male,A
+Adam Doupe,(Arizona State University),,male,W_NL
+Haixin Duan,(Tsinghua University),,male,A
+Tudor Dumitras,(University of Maryland),,male,HL
+Manuel Egele,(Boston University),,male,HL
+Ittay Eyal,(Technion),,male,A
+Sascha Fahl,(Leibniz University Hannover),,female,W_NL
+Kassem Fawaz,(University of Wisconsin-Madison),,male,A
+Dario Fiore,(IMDEA Software Institute),,male,HL
+Marc Fischlin,(TU Darmstadt),,male,W_NL
+Sara Foresti,(Università degli Studi di Milano),,female,W_NL
+Michael Franz,(UC Irvine),,male,W_NL
+Xinyang Ge,(Microsoft Research),,male,A
+Daniel Genkin,(University of Michigan),,male,W_NL
+Rosario Gennaro,(The City College of New York),,male,HL
+Irene Giacomelli,(Protocol Labs),,female,W_NL
+Neil Gong,(Iowa State University),,male,A
+Guofei Gu,(Texas A&M University),,male,A
+Yong Guan,(Iowa State University),,male,A
+Carl Gunter,(University of Illinois at Urbana-Champaign),,male,W_NL
+Weili Han,(Fudan University),,female,A
+Carmit Hazay,(Bar-Ilan University),,female,W_NL
+Ryan Henry,(University of Calgary),,male,W_NL
+Michael Hicks,(University of Maryland),,male,W_NL
+Thorsten Holz,(Ruhr-University Bochum),,male,W_NL
+Nick Hopper,(University of Minnesota),,male,W_NL
+Amir Houmansadr,(University of Massachusetts Amherst),,male,A
+Yan Huang,(Indiana University),,male,A
+Trent Jaeger,(Penn State University),,male,W_NL
+Tibor Jager,(Paderborn University),,male,W_NL
+Rob Jansen,(U.S. Naval Research Laboratory),,male,W_NL
+Somesh Jha,(University of Wisconsin–Madison),,male,A
+Shouling Ji,(Zhejiang University),,female,A
+Yier Jin,(University of Florida),,male,A
+Brent Byunghoon Kang,(KAIST),,male,A
+Murat Kantarcioglu,(UT Dallas),,male,A
+Alexandros Kapravelos,(North Carolina State University),,male,HL
+Aniket Kate,(Purdue University),,male,A
+Aggelos Kiayias,(University of Edinburgh and IOHK),,male,HL
+Yongdae Kim,(KAIST),,female,A
+Taesoo Kim,(Georgia Tech),,female,A
+Engin Kirda,(Northeastern University),,male,A
+Ralf Kuesters,(University of Stuttgart),,male,W_NL
+BumJun Kwon,(National Security Research Institute),,male,A
+Wenke Lee,(Georgia Tech),,female,A
+Ruby Lee,(Princeton),,female,A
+Kirill Levchenko,(University of Illinois at Urbana-Champaign),,male,W_NL
+Zhou Li,(UC Irvine),,male,A
+Bo Li,(University of Illinois at Urbana-Champaign),,male,A
+Ninghui Li,(Purdue University),,male,A
+Zhenkai Liang,(National University of Singapore),,male,A
+Xiaojing Liao,(Indiana University),,female,A
+David Lie,(University of Toronto),,male,A
+Zhiqiang Lin,(Ohio State University),,male,A
+Yang Liu,(Nanyang Technological University),,male,A
+Peng Liu,(Penn State University),,male,A
+Wenjing  Lou,(Virginia Tech),,female,A
+Kangjie Lu,(University of Minnesota),,male,A
+Vadim Lyubashevsky,(IBM Research – Zurich),,male,W_NL
+Ashwin Machanavajjhala,(Duke University),,male,A
+Matteo Maffei,(TU Wien),,male,HL
+Mohammad Mannan,(Concordia University),,male,A
+Damon McCoy,(New York University),,male,B_NL
+Patrick McDaniel,(Penn State University),,male,W_NL
+Andrew Miller,(University of Illinois at Urbana-Champaign),,male,W_NL
+Jiang Ming,(UT Arlington),,male,A
+Ilya Mironov,(Google),,male,A
+Esfandiar Mohammadi,(ETH Zurich),,male,A
+Payman Mohassel,(Visa Research),,male,A
+Muhammad Naveed,(University of Southern California),,male,A
+Olga Ohrimenko,(Microsoft Research),,female,HL
+Claudio Orlandi,(Aarhus University),,male,HL
+Nicolas Papernot,(Google Brain),,male,HL
+Kenneth Paterson,(RHUL/ETH Zurich),,male,W_NL
+Mathias Payer,(EPFL),,male,W_NL
+Paul Pearce,(Georgia Tech/Facebook),,male,W_NL
+Adrian Perrig,(ETH),,male,HL
+Frank Piessens,(KU Leuven),,male,W_NL
+Zhiyun Qian,(UC Riverside),,female,A
+Feng Qian,(University of Minnesota),,male,A
+William Robertson,(Northeastern University),,male,W_NL
+Mike Rosulek,(Oregon State University),,male,W_NL
+Andrew Ruef,(Self),,male,W_NL
+Ulrich Rührmair,(LMU Munich),,male,B_NL
+Andrei Sabelfeld,(Chalmers University of Technology),,male,W_NL
+Ahmad-Reza Sadeghi,(TU Darmstadt),,male,A
+Stefan Nuernberger,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Michael Reiter,(University of North Carolina at Chapel Hill),,male,W_NL
+Nitesh Saxena,(University of Alabama at Birmingham),,male,A
+Joshua Schiffman,(HP Inc.),,male,W_NL
+Benedikt Schmidt,(Google),,male,W_NL
+Dominique Schroder,(University of Erlangen-Nuremberg),,female,W_NL
+Abhi Shelat,(Northeastern University),,male,A
+Seungwon Shin,(KAIST),,male,A
+Reza Shokri,(National University of Singapore),,male,A
+Adam Smith,(Boston University),,male,W_NL
+Chengyu Song,(UC Riverside),,female,A
+Ben Stock,(CISPA Helmholtz Center for Information Security),,male,W_NL
+Gianluca Stringhini,(Boston University),,male,W_NL
+Kun Sun,(George Mason University),,male,A
+Paul Syverson,(NRL),,male,W_NL
+U.S. Naval Research Laboratory,(NRL),,male,B_NL
+Kunal Talwar,(Google),,male,A
+Yuan Tian,(University of Virginia),,male,A
+Nils Ole Tippenhauer,(CISPA Helmholtz Center for Information Security),,male,A
+Mohit Tiwari,(UT Austin),,male,A
+Blase Ur,(University of Chicago),,male,W_NL
+Venkat Venkatakrishnan,(University of Illinois at Chicago),,male,A
+Giovanni Vigna,(UC Santa Barbara),,male,HL
+Hayawardh Vijayakumar,(Samsung Research America),,male,A
+Haining Wang,(University of Delaware),,male,A
+Xiao Wang,(MIT and Boston University),,female,A
+Wenhao Wang,(IIE CAS),,male,A
+Ruoyu,(Fish),"Wang, Arizona State University",,
+Rebecca Wright,(Rutgers and Barnard),,female,W_NL
+Dinghao Wu,(Penn State University),,male,A
+Tao Xie,(University of Illinois at Urbana-Champaign),,male,A
+Luyi Xing,(Indiana University),,female,A
+Xinyu Xing,(Penn State University),,female,A
+Li  Xiong,(Emory University),,female,A
+Wenyuan Xu,(Zhejiang University),,male,A
+Min Yang,(Fudan University),,male,A
+Danfeng,(Daphne),"Yao, Virginia Tech",,
+Yuval Yarom,(University of Adelaide),,male,A
+Arkady Yerukhimovich,(George Washington University),,male,W_NL
+Heng Yin,(UC Riverside),,male,A
+Ting Yu,(Qatar Computing Research Institute),,female,A
+Yu Yu,(Shanghai Jiao Tong University),,female,A
+Danfeng Zhang,(Penn State University),,male,A
+Yinqian Zhang,(Ohio State University),,male,A
+Xiangyu Zhang,(Purdue University),,female,A
+Kehuan Zhang,(The Chinese University of Hong Kong),,male,A
+Yang Zhang,(CISPA Helmholtz Center for Information Security),,male,A
+Fengwei Zhang,(Wayne State University),,male,A
+Chao Zhang,(Tsinghua University),,male,A
+Yajin Zhou,(Zhejiang University),,female,A
+Jianying Zhou,(SUTD),,female,A
+Yupeng Zhang,(UC Berkeley),,male,A
+Zhe Zhou,(Fudan University),,male,A
+Lorenzo Cavallaro,(King’s College London),,male,HL
+Johannes Kinder,(Bundeswehr University Munich),,male,W_NL
+Mia Robertson,,,female,B_NL
+Swen Jacobs,(CISPA Helmholtz Center for Information Security),,male,B_NL
+Brendan Dolan-Gavitt,(New York University),,male,W_NL
+Gianluca Stringhini,(Boston University),,male,W_NL
+Emiliano De Cristofaro,(University College London),,male,HL
+Mark Manulis,(University of Surrey),,male,W_NL
+Mathias Payer,(EPFL),,male,W_NL
+Stefan Brunthaler,(Bundeswehr University Munich),,male,W_NL
+Thorsten Holz,(Ruhr-Uni­ver­si­ty Bo­chum),,male,W_NL
+Nick Nikiforakis,(Stony Brook University),,male,W_NL
+Andrew Paverd,(Microsoft Research),,male,W_NL
+Hassan Takabi,(University of North Texas),,male,A
+Elissa Redmiles,(University of Maryland),,female,W_NL
+Katharina Krombholz,(CISPA Helmholtz Center for Information Security),,female,W_NL
+Jorge Blasco Alis,(Royal Holloway University of London),,male,HL
+Daniele Sgandurra,(Royal Holloway University of London),,male,HL
+Adam Doupé,(Arizona State University),,male,W_NL
+Dan O’Keeffe,(Royal Holloway University of London),,male,W_NL
+Nathan Burow,(MIT Lincoln Labs),,male,W_NL
+Gareth Davies,(Paderborn University),,male,W_NL
+Wouter Lueks,(EPF Lausanne),,male,W_NL
+Georgios Portokalidis,(Stevens Institute of Technology),,male,W_NL
+Kami Vaniea,(University of Edinburgh),,female,A
+Marco Vassena,(CISPA Helmholtz Center for Information Security),,male,HL
+Stijn Volckaert,(KU Leuven),,male,W_NL
+Stefan Brunthaler,(Nat’l Cyber Defence Research Institute CODE),Munich,male,W_NL
