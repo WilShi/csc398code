@@ -25851,9 +25851,9 @@ William Enck (North Carolina State University)
 
 Ahmad-Reza Sadeghi (TU Darmstadt)
 
-Michael Backes (CISPA, Saarland University)
+Michael Backesn(CISPA, Saarland University)
 
-Robert Kuennemann (CISPA, Saarland University)
+Robert Kuennemann(CISPA, Saarland University)
 
 Esfandiar Mohammadi (ETH Zurich)
 
@@ -26273,7 +26273,9 @@ Yiannis Tselekounis (National, Kapodistrian University of Athens)
 
 Maritin R. Albrecht (Royal Holloway, University of London))
 
-Jean Paul Degabriele ,Torben Brandt Hansen (Royal Holloway, University of London))
+Jean Paul Degabriele (Royal Holloway, University of London))
+
+Torben Brandt Hansen (Royal Holloway, University of London))
 
 Kenneth G. Paterson (Royal Holloway, University of London))
 
@@ -26361,7 +26363,7 @@ Vern Paxson (International Computer Science Institute
 
 Mahmood Sharif (Carnegie Mellon University)
 
-Sruti  Bhagavatula (Carnegie Mellon University)
+Sruti Bhagavatula (Carnegie Mellon University)
 
 Lujo Bauer (Carnegie Mellon University)
 
@@ -26525,7 +26527,9 @@ Yinqian Zhang (Ohio State University)
 
 Maritin R. Albrecht (Royal Holloway, University of London))
 
-Jean Paul Degabriele ,Torben Hansen (Royal Holloway, University of London))
+Jean Paul Degabriele (Royal Holloway, University of London))
+
+Torben Hansen (Royal Holloway, University of London))
 
 Kenneth G. Paterson (Royal Holloway, University of London))
 
@@ -26553,7 +26557,7 @@ Hugo Krawczyk (IBM Research)
 
 Mahmood Sharif (Carnegie Mellon University)
 
-Sruti  Bhagavatula (Carnegie Mellon University)
+Sruti Bhagavatula (Carnegie Mellon University)
 
 Lujo Bauer (Carnegie Mellon University)
 
@@ -27481,7 +27485,7 @@ Elaine Shi (Cornell University)
 
 Dawn Song (University of California)
 
-Yuru Shao, Yunhan Jack Jia (University of Michigan)
+Yuru Shao,Yunhan Jack Jia (University of Michigan)
 
 Z. Morley Mao (University of Michigan)
 
@@ -27595,7 +27599,9 @@ Jacob Maskiewicz (University of California, San Diego)
 
 Christina Garman (Johns Hopkins University)
 
-Joshua Fried,  Shaanan Cohney (University of Pennsylvania)
+Joshua Fried (University of Pennsylvania)
+
+Shaanan Cohney (University of Pennsylvania)
 
 Matthew Green (Johns Hopkins University)
 
