@@ -34,7 +34,37 @@ recent version of Debian or Ubuntu Linux : `apt-get install python3-bs4`
 `scraping_webpages.py`: `python3 scraping_webpages.py`  -> print all names and information
 
 (In terminal)
-`analysis.py`: `python3 analysis.py` `txt/csv` (Optional arguments) -> creat txt or csv file, if no argument start analyze the data
+`analysis.py`: `python3 analysis.py` `txt` -> creat txt file for name and information
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `csv` -> creat csv file name and information
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `list` -> creat a name_list.pickle by useing list.txt file remove duplicate and irregular names
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `dict` -> read name_list.pickle use NamSor analyze the gender and race of the name, and save to name_dict.pickle
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `setgr` -> set gender and race for all csv file
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `pop_bar [conf_name] [population] [from,to]` -> Draw a bar chart of population trends
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `race_bar [conf_name] [white] [hispano] [asian] [black] [from,to]` -> Draw a bar chart of race population trends
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `gender_bar [conf_name] [female_population] [male_population] [from,to]` -> Draw a bar chart of gender population trends
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `vs_bar [two_conf_name] [female_population] [male_population] [conf1,conf2]` -> Draw a bar chart for comple two conf gender population trends
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `vs_race_bar [two_conf_name] [white] [hispano] [asian] [black] [conf1,conf2]` -> Draw a bar chart for comple two conf race population trends
+
+(In terminal)
+`analysis.py`: `python3 analysis.py` `run_test` -> run hypothesis test all three years
 
 # License Information
 Copyright (c) 2020 Wenbo Shi
