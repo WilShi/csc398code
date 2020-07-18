@@ -64,6 +64,9 @@ recent version of Debian or Ubuntu Linux : `apt-get install python3-bs4`
 `analysis.py`: `python3 analysis.py` `vs_race_bar [two_conf_name] [white] [hispano] [asian] [black] [conf1,conf2]` -> Draw a bar chart for comple two conf race population trends
 
 (In terminal)
+`analysis.py`: `python3 analysis.py` `proportion_bar [two_conf_name] [arg1] [arg2] [arg3 opt] [arg4 opt] [conf1,conf2]` -> Draw a bar chart for comple two conf proportion trends
+
+(In terminal)
 `analysis.py`: `python3 analysis.py` `run_test` -> run hypothesis test all three years
 
 # License Information
