@@ -1,112 +1,112 @@
-Female proportion does not change in 2016 and 2020 in CCS
+Female proportion does not change in 2016 and 2019 in CCS
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  0.39763227215066327
-p value:  0.690901268172945
+z value:  1.796641140370015
+p value:  0.07239260873848825
 H0 is correct: year1 == year2
 
-White participants proportion does not change in 2016 and 2020 in CCS
+White participants proportion does not change in 2016 and 2019 in CCS
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -0.8517502220129093
-p value:  0.3943527396619244
+z value:  -1.1337710627607993
+p value:  0.25689059219302524
 H0 is correct: year1 == year2
 
-Hispano participants proportion does not change in 2016 and 2020 in CCS
+Hispano participants proportion does not change in 2016 and 2019 in CCS
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  1.7993454462194116
-p value:  0.07196405337739468
+z value:  0.2421742692581024
+p value:  0.8086451318599422
 H0 is correct: year1 == year2
 
-Asian participants proportion does not change in 2016 and 2020 in CCS
+Asian participants proportion does not change in 2016 and 2019 in CCS
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -0.6482982253519582
-p value:  0.5167920816232714
+z value:  2.0622677755342123
+p value:  0.039182249200661885
 H0 is correct: year1 == year2
 
-Black participants proportion does not change in 2016 and 2020 in CCS
+Black participants proportion does not change in 2016 and 2019 in CCS
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  0.8074949243849446
-p value:  0.4193813975745836
+z value:  -2.656433073782415
+p value:  0.007897212453978075
+Reject H0: year1 != year2
+
+ **********************************************************************
+
+
+Female proportion does not change in 2014 and 2019 in SP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  2.4273946711001826
+p value:  0.015207702016449168
+Reject H0: year1 != year2
+
+White participants proportion does not change in 2014 and 2019 in SP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -0.966872504112403
+p value:  0.3336077735098557
+H0 is correct: year1 == year2
+
+Hispano participants proportion does not change in 2014 and 2019 in SP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  0.8087304523623847
+p value:  0.41867020784968934
+H0 is correct: year1 == year2
+
+Asian participants proportion does not change in 2014 and 2019 in SP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  0.7670135470422988
+p value:  0.44307346105668555
+H0 is correct: year1 == year2
+
+Black participants proportion does not change in 2014 and 2019 in SP
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -0.7340507183530385
+p value:  0.4629178274617093
 H0 is correct: year1 == year2
 
  **********************************************************************
 
 
-Female proportion does not change in 2014 and 2020 in SP
+Female proportion does not change in 2016 and 2019 in EuroSP
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  0.6903184637478811
-p value:  0.48999393918617506
+z value:  1.2202741319888086
+p value:  0.22236097258675125
 H0 is correct: year1 == year2
 
-White participants proportion does not change in 2014 and 2020 in SP
+White participants proportion does not change in 2016 and 2019 in EuroSP
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -1.0983318295439726
-p value:  0.2720596179554794
-H0 is correct: year1 == year2
-
-Hispano participants proportion does not change in 2014 and 2020 in SP
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  0.5413615227697589
-p value:  0.5882584226863612
-H0 is correct: year1 == year2
-
-Asian participants proportion does not change in 2014 and 2020 in SP
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  0.5338598587633594
-p value:  0.5934384960358783
-H0 is correct: year1 == year2
-
-Black participants proportion does not change in 2014 and 2020 in SP
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  0.418673182909767
-p value:  0.6754549970452994
-H0 is correct: year1 == year2
-
- **********************************************************************
-
-
-Female proportion does not change in 2016 and 2020 in EuroSP
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  3.0831281426392674
-p value:  0.0020483693079603555
+z value:  -3.7899910458059036
+p value:  0.0001506527153753205
 Reject H0: year1 != year2
 
-White participants proportion does not change in 2016 and 2020 in EuroSP
+Hispano participants proportion does not change in 2016 and 2019 in EuroSP
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -2.9000414769651925
-p value:  0.0037311328445041388
-Reject H0: year1 != year2
-
-Hispano participants proportion does not change in 2016 and 2020 in EuroSP
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  2.2128290645868827
-p value:  0.026909432670457933
+z value:  1.2713919496752668
+p value:  0.20358924514165055
 H0 is correct: year1 == year2
 
-Asian participants proportion does not change in 2016 and 2020 in EuroSP
+Asian participants proportion does not change in 2016 and 2019 in EuroSP
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  2.3329989870592773
-p value:  0.01964819848022493
+z value:  3.379947460496655
+p value:  0.0007249968739467292
 Reject H0: year1 != year2
 
-Black participants proportion does not change in 2016 and 2020 in EuroSP
+Black participants proportion does not change in 2016 and 2019 in EuroSP
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -1.9665408275556526
-p value:  0.0492361710236933
+z value:  -0.7520529013856356
+p value:  0.4520192460655176
 H0 is correct: year1 == year2
 
  **********************************************************************
@@ -116,113 +116,113 @@ Compare two different conferences
  **********************************************************************
 
 
-Female proportion does not change between EuroSP and CCS in 2020
+Female proportion does not change between EuroSP and CCS in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -1.6726355998564182
-p value:  0.09439905419437188
+z value:  0.956573695384941
+p value:  0.3387824710247891
 H0 is correct: year1 == year2
 
-White participants proportion does not change between EuroSP and CCS in 2020
+White participants proportion does not change between EuroSP and CCS in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -1.6864194951755944
-p value:  0.09171502908310222
+z value:  2.2291812764593377
+p value:  0.025801845807650034
 H0 is correct: year1 == year2
 
-Hispano participants proportion does not change between EuroSP and CCS in 2020
+Hispano participants proportion does not change between EuroSP and CCS in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -1.5651409432863523
-p value:  0.11754986519661774
+z value:  -3.5599074836250906
+p value:  0.00037098546898924333
+Reject H0: year1 != year2
+
+Asian participants proportion does not change between EuroSP and CCS in 2019
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  4.6818614764410365
+p value:  2.8428156603976284e-06
+Reject H0: year1 != year2
+
+Black participants proportion does not change between EuroSP and CCS in 2019
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -2.603491500923013
+p value:  0.009227955558887444
+Reject H0: year1 != year2
+
+ **********************************************************************
+
+
+Female proportion does not change between SP and CCS in 2019
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -1.7175778667289923
+p value:  0.08587364029733069
 H0 is correct: year1 == year2
 
-Asian participants proportion does not change between EuroSP and CCS in 2020
+White participants proportion does not change between SP and CCS in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  2.1646920248571475
-p value:  0.03041127823783039
+z value:  -0.6849556002202214
+p value:  0.49337193893633624
 H0 is correct: year1 == year2
 
-Black participants proportion does not change between EuroSP and CCS in 2020
+Hispano participants proportion does not change between SP and CCS in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  1.5149953104591372
-p value:  0.12977359171625383
+z value:  -0.16363065782372624
+p value:  0.870021908535169
+H0 is correct: year1 == year2
+
+Asian participants proportion does not change between SP and CCS in 2019
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  1.2439723915275112
+p value:  0.21350972416935332
+H0 is correct: year1 == year2
+
+Black participants proportion does not change between SP and CCS in 2019
+Null Hypothesis H0:  year1 == year2
+Alternative Hypothesis HA: year1 != year2
+z value:  -1.2435152086610861
+p value:  0.21367804010592872
 H0 is correct: year1 == year2
 
  **********************************************************************
 
 
-Female proportion does not change between SP and CCS in 2020
+Female proportion does not change between SP and EuroSP in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  0.049385211781211844
-p value:  0.9606123130708201
+z value:  -2.055607638908124
+p value:  0.03982035089795907
 H0 is correct: year1 == year2
 
-White participants proportion does not change between SP and CCS in 2020
+White participants proportion does not change between SP and EuroSP in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -0.5802781019321503
-p value:  0.5617270921360961
+z value:  0.9560370181047466
+p value:  0.33905353249555026
 H0 is correct: year1 == year2
 
-Hispano participants proportion does not change between SP and CCS in 2020
+Hispano participants proportion does not change between SP and EuroSP in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  1.8332557285606645
-p value:  0.06676454979205951
-H0 is correct: year1 == year2
-
-Asian participants proportion does not change between SP and CCS in 2020
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  -0.8456499435350979
-p value:  0.3977480552745283
-H0 is correct: year1 == year2
-
-Black participants proportion does not change between SP and CCS in 2020
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  0.6243475385185864
-p value:  0.5323993701747985
-H0 is correct: year1 == year2
-
- **********************************************************************
-
-
-Female proportion does not change between SP and EuroSP in 2020
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  2.68908442732087
-p value:  0.0071648295679005315
+z value:  3.3013941008520726
+p value:  0.0009620564476236971
 Reject H0: year1 != year2
 
-White participants proportion does not change between SP and EuroSP in 2020
+Asian participants proportion does not change between SP and EuroSP in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  1.8208631153129944
-p value:  0.06862766724126274
-H0 is correct: year1 == year2
-
-Hispano participants proportion does not change between SP and EuroSP in 2020
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  4.977530800277717
-p value:  6.440053662209951e-07
+z value:  -3.710596807135774
+p value:  0.00020677120557653327
 Reject H0: year1 != year2
 
-Asian participants proportion does not change between SP and EuroSP in 2020
+Black participants proportion does not change between SP and EuroSP in 2019
 Null Hypothesis H0:  year1 == year2
 Alternative Hypothesis HA: year1 != year2
-z value:  -4.217075737025264
-p value:  2.474908695773032e-05
-Reject H0: year1 != year2
-
-Black participants proportion does not change between SP and EuroSP in 2020
-Null Hypothesis H0:  year1 == year2
-Alternative Hypothesis HA: year1 != year2
-z value:  -1.3608855084696299
-p value:  0.17354987381163978
+z value:  1.5713341012607267
+p value:  0.11610506412317556
 H0 is correct: year1 == year2
