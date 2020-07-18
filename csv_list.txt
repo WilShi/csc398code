@@ -1,0 +1,17 @@
+CCS2016.csv
+CCS2017.csv
+CCS2018.csv
+CCS2019.csv
+CCS2020.csv
+EuroSP2016.csv
+EuroSP2017.csv
+EuroSP2018.csv
+EuroSP2019.csv
+EuroSP2020.csv
+SP2014.csv
+SP2015.csv
+SP2016.csv
+SP2017.csv
+SP2018.csv
+SP2019.csv
+SP2020.csv

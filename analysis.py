@@ -160,18 +160,17 @@ def set_grToCSV():
         line = f.readline()
     
 def population():
-    male = 0
-    female = 0
-    population = 0
-
-    white = 0
-    hispano = 0
-    asian = 0
-    black = 0
 
     f = open('csv_list.txt')
     line = f.readline()
     while line:
+        male = 0
+        female = 0
+        population = 0
+        white = 0
+        hispano = 0
+        asian = 0
+        black = 0
         line = line.replace('\n', '')
         data = pd.read_csv(line)
         for i in data['Gender']:
@@ -190,21 +189,14 @@ def population():
             if i == 'B_NL':
                 black += 1
         print(line)
-        print("Population: {} Female: {}({}) Male: {}({})".\
-            format(population, female, round(female/population, 2), \
-                male, round(male/population, 2)))
+        print("Population: {} Female: {}({}%) Male: {}({}%)".\
+            format(population, female, round((female/population)*100, 2), \
+                male, round((male/population)*100, 2)))
         print("Race:")
-        print("White, non latino: {}({})".format(white, round(white/population, 2)))
-        print("Hispano latino: {}({})".format(hispano, round(hispano/population, 2)))
-        print("Asian, non latino: {}({})".format(asian, round(asian/population, 2)))
-        print("Black, non latino: {}({})\n".format(black, round(black/population, 2)))
-        male = 0
-        female = 0
-        population = 0
-        white = 0
-        hispano = 0
-        asian = 0
-        black = 0
+        print("White, non latino: {}({}%)".format(white, round((white/population)*100, 2)))
+        print("Hispano latino: {}({}%)".format(hispano, round((hispano/population)*100, 2)))
+        print("Asian, non latino: {}({}%)".format(asian, round((asian/population)*100, 2)))
+        print("Black, non latino: {}({}%)\n".format(black, round((black/population)*100, 2)))
         line = f.readline()
 
 def draw_bar(conf, pop, year):
@@ -240,6 +232,48 @@ def gender_bar(conf, year, female, male):
     for x,y in enumerate(male):
         plt.text(x, y+100,'%s' %y,ha='left')
 
+    plt.show()
+
+def proportion_bar(conf, year, arg1, arg2, arg3=None, arg4=None):
+    x_sy = year
+    x = np.arange(len(year)) #总共有几组，就设置成几，我们这里有三组，所以设置为3
+    if arg3 == None:
+        total_width, n = 0.8, 2  # 有多少个类型，只需更改n即可，比如这里我们对比了四个，那么就把n设成4
+    else:
+        total_width, n = 0.8, 4
+    width = total_width / n
+    x = x - (total_width - width) / 2
+    if arg3 == None:
+        plt.bar(x, arg1, color = "r",width=width,label='Female')
+        plt.bar(x + width, arg2, color = "b",width=width,label='Male')
+        plt.title('Gender proportion for ' + conf)
+    else:
+        plt.bar(x, arg1, color = "r",width=width,label='White')
+        plt.bar(x + width, arg2, color = "b",width=width,label='Hispano')
+        plt.bar(x + 2 * width, arg3 , color = "c",width=width,label='Asian')
+        plt.bar(x + 3 * width, arg4 , color = "g",width=width,label='Black')
+        plt.title('Race proportion for ' + conf)
+    plt.xlabel("Year")
+    plt.ylabel("Percentage")
+    plt.legend(loc = "best")
+    plt.xticks(range(0,len(year)), x_sy)
+    my_y_ticks = np.arange(0, 110, 10)
+    plt.ylim((0, 110))
+    plt.yticks(my_y_ticks)
+    if arg3 == None:
+        for x,y in enumerate(arg1):
+            plt.text(x, y+5,'%s' %y,ha='right')
+        for x,y in enumerate(arg2):
+            plt.text(x, y+5,'%s' %y,ha='left')
+    else:
+        for x,y in enumerate(arg1):
+            plt.text(x-0.2, y+5,'%s' %y,ha='right')
+        for x,y in enumerate(arg2):
+            plt.text(x, y+5,'%s' %y,ha='right')
+        for x,y in enumerate(arg3):
+            plt.text(x, y+5,'%s' %y,ha='left')
+        for x,y in enumerate(arg4):
+            plt.text(x+0.2, y+5,'%s' %y,ha='left')
     plt.show()
 
 def vs_bar(name, confs, female, male):
@@ -426,6 +460,36 @@ if __name__ == '__main__':
             black = list(map(int, sys.argv[6].split(',')))
             year = sys.argv[7].split(',')
             draw_race_bar(conf, year, white, his, asian, black)
+
+        if sys.argv[1] == 'proportion_bar':
+            if len(sys.argv) == 6:
+                conf = sys.argv[2]
+                arg1 = list(map(float, sys.argv[3].split(',')))
+                arg2 = list(map(float, sys.argv[4].split(',')))
+                year = sys.argv[5].split(',')
+                if year[0].isdigit():
+                    fr = int(year[0])
+                    to = int(year[1])
+                    year = []
+                    while fr <= to:
+                        year.append(fr)
+                        fr += 1
+                proportion_bar(conf, year, arg1, arg2)
+            else:
+                conf = sys.argv[2]
+                arg1 = list(map(float, sys.argv[3].split(',')))
+                arg2 = list(map(float, sys.argv[4].split(',')))
+                arg3 = list(map(float, sys.argv[5].split(',')))
+                arg4 = list(map(float, sys.argv[6].split(',')))
+                year = sys.argv[7].split(',')
+                if year[0].isdigit():
+                    fr = int(year[0])
+                    to = int(year[1])
+                    year = []
+                    while fr <= to:
+                        year.append(fr)
+                        fr += 1
+                proportion_bar(conf, year, arg1, arg2, arg3, arg4)
 
         if sys.argv[1] == 'run_test':
             hypothesis_test.run_test()
