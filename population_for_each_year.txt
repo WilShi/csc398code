@@ -1,136 +1,136 @@
 CCS2016.csv
-Population: 1310 Female: 231(0.18) Male: 1079(0.82)
+Population: 1310 Female: 231(17.63%) Male: 1079(82.37%)
 Race:
-White, non latino: 462(0.35)
-Hispano latino: 123(0.09)
-Asian, non latino: 648(0.49)
-Black, non latino: 77(0.06)
+White, non latino: 462(35.27%)
+Hispano latino: 123(9.39%)
+Asian, non latino: 648(49.47%)
+Black, non latino: 77(5.88%)
 
 CCS2017.csv
-Population: 898 Female: 159(0.18) Male: 739(0.82)
+Population: 898 Female: 159(17.71%) Male: 739(82.29%)
 Race:
-White, non latino: 283(0.32)
-Hispano latino: 72(0.08)
-Asian, non latino: 504(0.56)
-Black, non latino: 39(0.04)
+White, non latino: 283(31.51%)
+Hispano latino: 72(8.02%)
+Asian, non latino: 504(56.12%)
+Black, non latino: 39(4.34%)
 
 CCS2018.csv
-Population: 1439 Female: 293(0.2) Male: 1146(0.8)
+Population: 1439 Female: 293(20.36%) Male: 1146(79.64%)
 Race:
-White, non latino: 417(0.29)
-Hispano latino: 110(0.08)
-Asian, non latino: 844(0.59)
-Black, non latino: 68(0.05)
+White, non latino: 417(28.98%)
+Hispano latino: 110(7.64%)
+Asian, non latino: 844(58.65%)
+Black, non latino: 68(4.73%)
 
 CCS2019.csv
-Population: 1543 Female: 313(0.2) Male: 1230(0.8)
+Population: 1543 Female: 313(20.29%) Male: 1230(79.71%)
 Race:
-White, non latino: 513(0.33)
-Hispano latino: 149(0.1)
-Asian, non latino: 823(0.53)
-Black, non latino: 58(0.04)
+White, non latino: 513(33.25%)
+Hispano latino: 149(9.66%)
+Asian, non latino: 823(53.34%)
+Black, non latino: 58(3.76%)
 
 CCS2020.csv
-Population: 175 Female: 33(0.19) Male: 142(0.81)
+Population: 175 Female: 33(18.86%) Male: 142(81.14%)
 Race:
-White, non latino: 56(0.32)
-Hispano latino: 24(0.14)
-Asian, non latino: 82(0.47)
-Black, non latino: 13(0.07)
+White, non latino: 56(32.0%)
+Hispano latino: 24(13.71%)
+Asian, non latino: 82(46.86%)
+Black, non latino: 13(7.43%)
 
 EuroSP2016.csv
-Population: 216 Female: 31(0.14) Male: 185(0.86)
+Population: 216 Female: 31(14.35%) Male: 185(85.65%)
 Race:
-White, non latino: 114(0.53)
-Hispano latino: 26(0.12)
-Asian, non latino: 58(0.27)
-Black, non latino: 18(0.08)
+White, non latino: 114(52.78%)
+Hispano latino: 26(12.04%)
+Asian, non latino: 58(26.85%)
+Black, non latino: 18(8.33%)
 
 EuroSP2017.csv
-Population: 458 Female: 73(0.16) Male: 385(0.84)
+Population: 458 Female: 73(15.94%) Male: 385(84.06%)
 Race:
-White, non latino: 213(0.47)
-Hispano latino: 67(0.15)
-Asian, non latino: 139(0.3)
-Black, non latino: 39(0.09)
+White, non latino: 213(46.51%)
+Hispano latino: 67(14.63%)
+Asian, non latino: 139(30.35%)
+Black, non latino: 39(8.52%)
 
 EuroSP2018.csv
-Population: 347 Female: 50(0.14) Male: 297(0.86)
+Population: 347 Female: 50(14.41%) Male: 297(85.59%)
 Race:
-White, non latino: 168(0.48)
-Hispano latino: 55(0.16)
-Asian, non latino: 105(0.3)
-Black, non latino: 19(0.05)
+White, non latino: 168(48.41%)
+Hispano latino: 55(15.85%)
+Asian, non latino: 105(30.26%)
+Black, non latino: 19(5.48%)
 
 EuroSP2019.csv
-Population: 418 Female: 76(0.18) Male: 342(0.82)
+Population: 418 Female: 76(18.18%) Male: 342(81.82%)
 Race:
-White, non latino: 155(0.37)
-Hispano latino: 66(0.16)
-Asian, non latino: 169(0.4)
-Black, non latino: 28(0.07)
+White, non latino: 155(37.08%)
+Hispano latino: 66(15.79%)
+Asian, non latino: 169(40.43%)
+Black, non latino: 28(6.7%)
 
 EuroSP2020.csv
-Population: 289 Female: 74(0.26) Male: 215(0.74)
+Population: 289 Female: 74(25.61%) Male: 215(74.39%)
 Race:
-White, non latino: 115(0.4)
-Hispano latino: 56(0.19)
-Asian, non latino: 106(0.37)
-Black, non latino: 12(0.04)
+White, non latino: 115(39.79%)
+Hispano latino: 56(19.38%)
+Asian, non latino: 106(36.68%)
+Black, non latino: 12(4.15%)
 
 SP2014.csv
-Population: 390 Female: 67(0.17) Male: 323(0.83)
+Population: 390 Female: 67(17.18%) Male: 323(82.82%)
 Race:
-White, non latino: 145(0.37)
-Hispano latino: 33(0.08)
-Asian, non latino: 190(0.49)
-Black, non latino: 22(0.06)
+White, non latino: 145(37.18%)
+Hispano latino: 33(8.46%)
+Asian, non latino: 190(48.72%)
+Black, non latino: 22(5.64%)
 
 SP2015.csv
-Population: 629 Female: 99(0.16) Male: 530(0.84)
+Population: 629 Female: 99(15.74%) Male: 530(84.26%)
 Race:
-White, non latino: 263(0.42)
-Hispano latino: 58(0.09)
-Asian, non latino: 258(0.41)
-Black, non latino: 50(0.08)
+White, non latino: 263(41.81%)
+Hispano latino: 58(9.22%)
+Asian, non latino: 258(41.02%)
+Black, non latino: 50(7.95%)
 
 SP2016.csv
-Population: 738 Female: 145(0.2) Male: 593(0.8)
+Population: 738 Female: 145(19.65%) Male: 593(80.35%)
 Race:
-White, non latino: 270(0.37)
-Hispano latino: 83(0.11)
-Asian, non latino: 332(0.45)
-Black, non latino: 53(0.07)
+White, non latino: 270(36.59%)
+Hispano latino: 83(11.25%)
+Asian, non latino: 332(44.99%)
+Black, non latino: 53(7.18%)
 
 SP2017.csv
-Population: 876 Female: 194(0.22) Male: 682(0.78)
+Population: 876 Female: 194(22.15%) Male: 682(77.85%)
 Race:
-White, non latino: 297(0.34)
-Hispano latino: 83(0.09)
-Asian, non latino: 424(0.48)
-Black, non latino: 72(0.08)
+White, non latino: 297(33.9%)
+Hispano latino: 83(9.47%)
+Asian, non latino: 424(48.4%)
+Black, non latino: 72(8.22%)
 
 SP2018.csv
-Population: 905 Female: 173(0.19) Male: 732(0.81)
+Population: 905 Female: 173(19.12%) Male: 732(80.88%)
 Race:
-White, non latino: 347(0.38)
-Hispano latino: 69(0.08)
-Asian, non latino: 422(0.47)
-Black, non latino: 67(0.07)
+White, non latino: 347(38.34%)
+Hispano latino: 69(7.62%)
+Asian, non latino: 422(46.63%)
+Black, non latino: 67(7.4%)
 
 SP2019.csv
-Population: 1209 Female: 278(0.23) Male: 931(0.77)
+Population: 1209 Female: 278(22.99%) Male: 931(77.01%)
 Race:
-White, non latino: 417(0.34)
-Hispano latino: 119(0.1)
-Asian, non latino: 616(0.51)
-Black, non latino: 57(0.05)
+White, non latino: 417(34.49%)
+Hispano latino: 119(9.84%)
+Asian, non latino: 616(50.95%)
+Black, non latino: 57(4.71%)
 
 SP2020.csv
-Population: 1465 Female: 274(0.19) Male: 1191(0.81)
+Population: 1465 Female: 274(18.7%) Male: 1191(81.3%)
 Race:
-White, non latino: 501(0.34)
-Hispano latino: 137(0.09)
-Asian, non latino: 736(0.5)
-Black, non latino: 91(0.06)
+White, non latino: 501(34.2%)
+Hispano latino: 137(9.35%)
+Asian, non latino: 736(50.24%)
+Black, non latino: 91(6.21%)
 
