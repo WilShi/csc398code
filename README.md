@@ -11,7 +11,7 @@ The current crawling targets of the software are three conferences:
 
 `ACM CCS` (https://www.sigsac.org/ccs/CCS2020/#)
 
-The software consists of two python programs: `scraping_webpages.py` and `analysis.py`. 
+The software consists of three python programs: `scraping_webpages.py`, `analysis.py` and `hypothesis_test.py`. 
 
 `scraping_webpages.py` will automatically crawl the aforementioned webpage information, and when the result is obtained, it will print the person’s name and information to the terminal command line. 
 
